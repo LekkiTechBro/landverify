@@ -25,7 +25,7 @@ class Settings(BaseSettings):
     # ── Server ────────────────────────────────────────────────
     API_HOST: str = "0.0.0.0"
     API_PORT: int = 8000
-    ALLOWED_HOSTS: List[str] = ["localhost", "127.0.0.1", "landverify.ng", "*.landverify.ng"]
+    ALLOWED_HOSTS: List[str] = ["localhost", "127.0.0.1", "landverify.ng", "*.landverify.ng", "*.railway.app", "healthcheck.railway.app"]
     CORS_ORIGINS: List[str] = ["http://localhost:3000", "https://landverify.ng"]
 
     # ── Security ──────────────────────────────────────────────
@@ -36,9 +36,9 @@ class Settings(BaseSettings):
 
     # ── Database ──────────────────────────────────────────────
     DATABASE_URL: str
-    SUPABASE_URL: str
-    SUPABASE_ANON_KEY: str
-    SUPABASE_SERVICE_ROLE_KEY: str
+    SUPABASE_URL: Optional[str] = None
+    SUPABASE_ANON_KEY: Optional[str] = None
+    SUPABASE_SERVICE_ROLE_KEY: Optional[str] = None
 
     # ── Redis ─────────────────────────────────────────────────
     REDIS_URL: str = "redis://localhost:6379"
