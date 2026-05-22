@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { useRouter, useParams } from "next/navigation";
 
-const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
+const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
 
 function formatPrice(price: number) {
   if (price >= 1000000000) return "N" + (price / 1000000000).toFixed(1) + "B";

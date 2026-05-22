@@ -6,7 +6,7 @@ import { useSearchParams, useRouter } from "next/navigation";
 
 
 
-const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
+const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
 
 
 

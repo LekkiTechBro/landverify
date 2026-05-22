@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 import { Suspense } from "react";
 
-const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
+const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
 
 function formatTime(iso: string) {
   try {

@@ -3,7 +3,7 @@ import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import DocumentVault from "./DocumentVault";
 
-const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
+const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
 
 function formatPrice(p: number) {
   if (p >= 1000000) return "N" + (p / 1000000).toFixed(1) + "M";
