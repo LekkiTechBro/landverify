@@ -1,1 +1,261 @@
-{"data":"InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VTdGF0ZSwgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVBhcmFtcywgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKCmNvbnN0IE1PQ0tfUFJPUEVSVFkgPSB7CiAgIjEiOiB7IHRpdGxlOiIzIEJlZHJvb20gRmxhdCwgTGVra2kgUGhhc2UgMSIsIGFnZW50OiJBZGFlemUgT2tvbmt3byIsIGFnZW50X2luaXRpYWxzOiJBTyIsIHByaWNlOiLigqY0NS4wTSIgfSwKICAiMiI6IHsgdGl0bGU6IjQgQmVkcm9vbSBEZXRhY2hlZCBIb3VzZSwgTWFpdGFtYSIsIGFnZW50OiJCYWJhdHVuZGUgTWFsaWsiLCBhZ2VudF9pbml0aWFsczoiQk0iLCBwcmljZToi4oKmMTIwLjBNIiB9LAogICIzIjogeyB0aXRsZToiMiBCZWRyb29tIEZsYXQsIEdSQSBQb3J0IEhhcmNvdXJ0IiwgYWdlbnQ6IkNoaW9tYSBFemUiLCBhZ2VudF9pbml0aWFsczoiQ0UiLCBwcmljZToi4oKmMjUuME0iIH0sCiAgIjQiOiB7IHRpdGxlOiJMYW5kLCBJYmVqdS1MZWtraSIsIGFnZW50OiJFbWVrYSBPYmkiLCBhZ2VudF9pbml0aWFsczoiRU8iLCBwcmljZToi4oKmOC4wTSIgfSwKICAiNSI6IHsgdGl0bGU6IjMgQmVkcm9vbSBCdW5nYWxvdywgSWJhZGFuIiwgYWdlbnQ6IkZ1bmtlIEFkZXllbWkiLCBhZ2VudF9pbml0aWFsczoiRkEiLCBwcmljZToi4oKmMTguME0iIH0sCiAgIjYiOiB7IHRpdGxlOiI1IEJlZHJvb20gRHVwbGV4LCBBc29rb3JvIiwgYWdlbnQ6IkdhcmJhIE11c2EiLCBhZ2VudF9pbml0aWFsczoiR00iLCBwcmljZToi4oKmMjUwLjBNIiB9LAp9OwoKaW50ZXJmYWNlIE1lc3NhZ2UgewogIGlkOiBzdHJpbmc7CiAgc2VuZGVyOiAiY2xpZW50IiB8ICJhZ2VudCIgfCAic3lzdGVtIjsKICB0ZXh0OiBzdHJpbmc7CiAgdGltZTogc3RyaW5nOwogIHJlYWQ6IGJvb2xlYW47Cn0KCmNvbnN0IElOSVRJQUxfTUVTU0FHRVM6IE1lc3NhZ2VbXSA9IFsKICB7CiAgICBpZDogInN5cy0xIiwKICAgIHNlbmRlcjogInN5c3RlbSIsCiAgICB0ZXh0OiAi8J+UkiBUaGlzIGlzIGEgc2VjdXJlLCBlbmNyeXB0ZWQgY29udmVyc2F0aW9uLiBNZXNzYWdlcyBhcmUgb25seSB2aXNpYmxlIHRvIHlvdSBhbmQgdGhlIGFnZW50LiIsCiAgICB0aW1lOiAiIiwKICAgIHJlYWQ6IHRydWUsCiAgfSwKICB7CiAgICBpZDogImFnZW50LTEiLAogICAgc2VuZGVyOiAiYWdlbnQiLAogICAgdGV4dDogIkhlbGxvISBUaGFuayB5b3UgZm9yIHlvdXIgaW50ZXJlc3QgaW4gdGhpcyBwcm9wZXJ0eS4gSSdtIHRoZSB2ZXJpZmllZCBhZ2VudCBoYW5kbGluZyB0aGlzIGxpc3RpbmcuIEhvdyBjYW4gSSBoZWxwIHlvdSB0b2RheT8iLAogICAgdGltZTogbmV3IERhdGUoRGF0ZS5ub3coKSAtIDYwMDAwKS50b0xvY2FsZVRpbWVTdHJpbmcoW10sIHtob3VyOiIyLWRpZ2l0IiwgbWludXRlOiIyLWRpZ2l0In0pLAogICAgcmVhZDogdHJ1ZSwKICB9LApdOwoKY29uc3QgUVVJQ0tfUkVQTElFUyA9IFsKICAiSXMgdGhpcyBwcm9wZXJ0eSBzdGlsbCBhdmFpbGFibGU/IiwKICAiQ2FuIEkgc2NoZWR1bGUgYSB2aWV3aW5nPyIsCiAgIklzIHRoZSBwcmljZSBuZWdvdGlhYmxlPyIsCiAgIldoYXQgZG9jdW1lbnRzIGFyZSBhdmFpbGFibGU/IiwKICAiV2hhdCBpcyB0aGUgc2VydmljZSBjaGFyZ2U/IiwKXTsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIENoYXRQYWdlKCkgewogIGNvbnN0IHBhcmFtcyA9IHVzZVBhcmFtcygpOwogIGNvbnN0IHJvdXRlciA9IHVzZVJvdXRlcigpOwogIGNvbnN0IHByb3BlcnR5SWQgPSBwYXJhbXMuaWQgYXMgc3RyaW5nOwogIGNvbnN0IHByb3BlcnR5ID0gTU9DS19QUk9QRVJUWVtwcm9wZXJ0eUlkIGFzIGtleW9mIHR5cGVvZiBNT0NLX1BST1BFUlRZXTsKCiAgY29uc3QgW21lc3NhZ2VzLCBzZXRNZXNzYWdlc10gPSB1c2VTdGF0ZTxNZXNzYWdlW10+KElOSVRJQUxfTUVTU0FHRVMpOwogIGNvbnN0IFtpbnB1dCwgc2V0SW5wdXRdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtpc1R5cGluZywgc2V0SXNUeXBpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFtzaG93UXVpY2tSZXBsaWVzLCBzZXRTaG93UXVpY2tSZXBsaWVzXSA9IHVzZVN0YXRlKHRydWUpOwogIGNvbnN0IG1lc3NhZ2VzRW5kUmVmID0gdXNlUmVmPEhUTUxEaXZFbGVtZW50PihudWxsKTsKCiAgY29uc3Qgc2Nyb2xsVG9Cb3R0b20gPSAoKSA9PiB7CiAgICBtZXNzYWdlc0VuZFJlZi5jdXJyZW50Py5zY3JvbGxJbnRvVmlldyh7IGJlaGF2aW9yOiAic21vb3RoIiB9KTsKICB9OwoKICB1c2VFZmZlY3QoKCkgPT4geyBzY3JvbGxUb0JvdHRvbSgpOyB9LCBbbWVzc2FnZXNdKTsKCiAgY29uc3Qgc2ltdWxhdGVBZ2VudFJlc3BvbnNlID0gKHVzZXJNZXNzYWdlOiBzdHJpbmcpID0+IHsKICAgIHNldElzVHlwaW5nKHRydWUpOwogICAgc2V0VGltZW91dCgoKSA9PiB7CiAgICAgIHNldElzVHlwaW5nKGZhbHNlKTsKICAgICAgY29uc3QgcmVzcG9uc2VzOiBSZWNvcmQ8c3RyaW5nLCBzdHJpbmc+ID0gewogICAgICAgICJhdmFpbGFibGUiOiAiWWVzLCB0aGUgcHJvcGVydHkgaXMgc3RpbGwgYXZhaWxhYmxlISBXb3VsZCB5b3UgbGlrZSB0byBzY2hlZHVsZSBhIHZpZXdpbmc/IiwKICAgICAgICAidmlld2luZyI6ICJJIGNhbiBhcnJhbmdlIGEgdmlld2luZyBmb3IgeW91LiBBcmUgeW91IGF2YWlsYWJsZSB0aGlzIHdlZWtlbmQgb3Igd291bGQgeW91IHByZWZlciBhIHdlZWtkYXk/IiwKICAgICAgICAibmVnb3RpYWJsZSI6ICJUaGUgYXNraW5nIHByaWNlIGlzIOKCpjQ1TSBidXQgdGhlcmUgaXMgc29tZSByb29tIGZvciBuZWdvdGlhdGlvbiBmb3Igc2VyaW91cyBidXllcnMuIFdoYXQncyB5b3VyIGJ1ZGdldD8iLAogICAgICAgICJkb2N1bWVudHMiOiAiV2UgaGF2ZSB0aGUgQyBvZiBPLCBTdXJ2ZXkgUGxhbiwgYW5kIERlZWQgb2YgQXNzaWdubWVudCDigJQgYWxsIHZlcmlmaWVkLiBJIGNhbiBzaGFyZSBjb3BpZXMgYWZ0ZXIgeW91IGNvbXBsZXRlIHlvdXIgZW5xdWlyeSBmb3JtLiIsCiAgICAgICAgInNlcnZpY2UiOiAiVGhlIGFubnVhbCBzZXJ2aWNlIGNoYXJnZSBpcyDigqY1MDAsMDAwIGNvdmVyaW5nIHNlY3VyaXR5LCBjbGVhbmluZywgYW5kIGdlbmVyYXRvciBtYWludGVuYW5jZS4iLAogICAgICB9OwogICAgICBsZXQgcmVzcG9uc2UgPSAiVGhhbmsgeW91IGZvciB5b3VyIG1lc3NhZ2UuIEknbGwgZ2V0IGJhY2sgdG8geW91IHNob3J0bHkgd2l0aCBtb3JlIGRldGFpbHMuIElzIHRoZXJlIGFueXRoaW5nIHNwZWNpZmljIHlvdSdkIGxpa2UgdG8ga25vdyBhYm91dCB0aGUgcHJvcGVydHk/IjsKICAgICAgY29uc3QgbG93ZXIgPSB1c2VyTWVzc2FnZS50b0xvd2VyQ2FzZSgpOwogICAgICBpZiAobG93ZXIuaW5jbHVkZXMoImF2YWlsYWJsZSIpKSByZXNwb25zZSA9IHJlc3BvbnNlc1siYXZhaWxhYmxlIl07CiAgICAgIGVsc2UgaWYgKGxvd2VyLmluY2x1ZGVzKCJ2aWV3IikpIHJlc3BvbnNlID0gcmVzcG9uc2VzWyJ2aWV3aW5nIl07CiAgICAgIGVsc2UgaWYgKGxvd2VyLmluY2x1ZGVzKCJuZWdvdGkiKSB8fCBsb3dlci5pbmNsdWRlcygicHJpY2UiKSkgcmVzcG9uc2UgPSByZXNwb25zZXNbIm5lZ290aWFibGUiXTsKICAgICAgZWxzZSBpZiAobG93ZXIuaW5jbHVkZXMoImRvY3VtZW50IikpIHJlc3BvbnNlID0gcmVzcG9uc2VzWyJkb2N1bWVudHMiXTsKICAgICAgZWxzZSBpZiAobG93ZXIuaW5jbHVkZXMoInNlcnZpY2UiKSB8fCBsb3dlci5pbmNsdWRlcygiY2hhcmdlIikpIHJlc3BvbnNlID0gcmVzcG9uc2VzWyJzZXJ2aWNlIl07CgogICAgICBjb25zdCBhZ2VudE1zZzogTWVzc2FnZSA9IHsKICAgICAgICBpZDogYGFnZW50LSR7RGF0ZS5ub3coKX1gLAogICAgICAgIHNlbmRlcjogImFnZW50IiwKICAgICAgICB0ZXh0OiByZXNwb25zZSwKICAgICAgICB0aW1lOiBuZXcgRGF0ZSgpLnRvTG9jYWxlVGltZVN0cmluZyhbXSwge2hvdXI6IjItZGlnaXQiLCBtaW51dGU6IjItZGlnaXQifSksCiAgICAgICAgcmVhZDogZmFsc2UsCiAgICAgIH07CiAgICAgIHNldE1lc3NhZ2VzKHByZXYgPT4gWy4uLnByZXYsIGFnZW50TXNnXSk7CiAgICB9LCAxNTAwICsgTWF0aC5yYW5kb20oKSAqIDEwMDApOwogIH07CgogIGNvbnN0IHNlbmRNZXNzYWdlID0gKHRleHQ/OiBzdHJpbmcpID0+IHsKICAgIGNvbnN0IG1lc3NhZ2VUZXh0ID0gdGV4dCB8fCBpbnB1dC50cmltKCk7CiAgICBpZiAoIW1lc3NhZ2VUZXh0KSByZXR1cm47CgogICAgY29uc3QgbmV3TXNnOiBNZXNzYWdlID0gewogICAgICBpZDogYGNsaWVudC0ke0RhdGUubm93KCl9YCwKICAgICAgc2VuZGVyOiAiY2xpZW50IiwKICAgICAgdGV4dDogbWVzc2FnZVRleHQsCiAgICAgIHRpbWU6IG5ldyBEYXRlKCkudG9Mb2NhbGVUaW1lU3RyaW5nKFtdLCB7aG91cjoiMi1kaWdpdCIsIG1pbnV0ZToiMi1kaWdpdCJ9KSwKICAgICAgcmVhZDogdHJ1ZSwKICAgIH07CiAgICBzZXRNZXNzYWdlcyhwcmV2ID0+IFsuLi5wcmV2LCBuZXdNc2ddKTsKICAgIHNldElucHV0KCIiKTsKICAgIHNldFNob3dRdWlja1JlcGxpZXMoZmFsc2UpOwogICAgc2ltdWxhdGVBZ2VudFJlc3BvbnNlKG1lc3NhZ2VUZXh0KTsKICB9OwoKICBpZiAoIXByb3BlcnR5KSB7CiAgICByZXR1cm4gKAogICAgICA8ZGl2IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixoZWlnaHQ6IjEwMHZoIixmb250RmFtaWx5OiJzeXN0ZW0tdWkifX0+CiAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjoiY2VudGVyIn19PgogICAgICAgICAgPHA+UHJvcGVydHkgbm90IGZvdW5kPC9wPgogICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiByb3V0ZXIucHVzaCgiL3NlYXJjaCIpfSBzdHlsZT17e2JhY2tncm91bmQ6IiMwQTVDM0YiLGNvbG9yOiJ3aGl0ZSIsYm9yZGVyOiJub25lIixib3JkZXJSYWRpdXM6IjhweCIscGFkZGluZzoiMTBweCAyMHB4IixjdXJzb3I6InBvaW50ZXIifX0+CiAgICAgICAgICAgIEJhY2sgdG8gc2VhcmNoCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICA8L2Rpdj4KICAgICAgPC9kaXY+CiAgICApOwogIH0KCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3tmb250RmFtaWx5OiJzeXN0ZW0tdWksc2Fucy1zZXJpZiIsaGVpZ2h0OiIxMDB2aCIsZGlzcGxheToiZmxleCIsZmxleERpcmVjdGlvbjoiY29sdW1uIixiYWNrZ3JvdW5kOiIjZjVmNWY1In19PgoKICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IiMwQTVDM0YiLHBhZGRpbmc6IjEycHggMTZweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixnYXA6IjEycHgiLGZsZXhTaHJpbms6MH19PgogICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5iYWNrKCl9IHN0eWxlPXt7Y29sb3I6InJnYmEoMjU1LDI1NSwyNTUsMC43KSIsZm9udFNpemU6IjIycHgiLGN1cnNvcjoicG9pbnRlciIsbGluZUhlaWdodDoxfX0+4oaQPC9zcGFuPgogICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiNDBweCIsaGVpZ2h0OiI0MHB4Iixib3JkZXJSYWRpdXM6IjUwJSIsYmFja2dyb3VuZDoiI0UxRjVFRSIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmb250U2l6ZToiMTRweCIsZm9udFdlaWdodDoiNzAwIixjb2xvcjoiIzBBNUMzRiIsZmxleFNocmluazowfX0+CiAgICAgICAgICB7cHJvcGVydHkuYWdlbnRfaW5pdGlhbHN9CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGRpdiBzdHlsZT17e2ZsZXg6MSxtaW5XaWR0aDowfX0+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7Y29sb3I6IndoaXRlIixmb250U2l6ZToiMTRweCIsZm9udFdlaWdodDoiNjAwIix3aGl0ZVNwYWNlOiJub3dyYXAiLG92ZXJmbG93OiJoaWRkZW4iLHRleHRPdmVyZmxvdzoiZWxsaXBzaXMifX0+e3Byb3BlcnR5LmFnZW50fTwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17e2NvbG9yOiJyZ2JhKDI1NSwyNTUsMjU1LDAuNjUpIixmb250U2l6ZToiMTFweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixnYXA6IjRweCJ9fT4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3t3aWR0aDoiNnB4IixoZWlnaHQ6IjZweCIsYm9yZGVyUmFkaXVzOiI1MCUiLGJhY2tncm91bmQ6IiM1RENBQTUiLGRpc3BsYXk6ImlubGluZS1ibG9jayJ9fT48L3NwYW4+CiAgICAgICAgICAgIE9ubGluZSDCtyBLWUMgVmVyaWZpZWQgQWdlbnQKICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxkaXYgc3R5bGU9e3t0ZXh0QWxpZ246InJpZ2h0IixmbGV4U2hyaW5rOjB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3tjb2xvcjoicmdiYSgyNTUsMjU1LDI1NSwwLjY1KSIsZm9udFNpemU6IjEwcHgifX0+UHJvcGVydHk8L2Rpdj4KICAgICAgICAgIDxkaXYgc3R5bGU9e3tjb2xvcjoiI0ZBQzc3NSIsZm9udFNpemU6IjEycHgiLGZvbnRXZWlnaHQ6IjUwMCJ9fT57cHJvcGVydHkucHJpY2V9PC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFByb3BlcnR5IGJhbm5lciAqL30KICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IiNFMUY1RUUiLGJvcmRlckJvdHRvbToiMXB4IHNvbGlkIHJnYmEoMTAsOTIsNjMsMC4xNSkiLHBhZGRpbmc6IjEwcHggMTZweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixnYXA6IjEwcHgiLGZsZXhTaHJpbms6MH19PgogICAgICAgIDxzcGFuIHN0eWxlPXt7Zm9udFNpemU6IjIwcHgifX0+8J+PoDwvc3Bhbj4KICAgICAgICA8ZGl2IHN0eWxlPXt7ZmxleDoxLG1pbldpZHRoOjB9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsZm9udFdlaWdodDoiNTAwIixjb2xvcjoiIzBBNUMzRiIsd2hpdGVTcGFjZToibm93cmFwIixvdmVyZmxvdzoiaGlkZGVuIix0ZXh0T3ZlcmZsb3c6ImVsbGlwc2lzIn19Pntwcm9wZXJ0eS50aXRsZX08L2Rpdj4KICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTFweCIsY29sb3I6IiM4ODgifX0+VGFwIHRvIHZpZXcgcHJvcGVydHkgZGV0YWlsczwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKGAvcHJvcGVydHkvJHtwcm9wZXJ0eUlkfWApfQogICAgICAgICAgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiMwQTVDM0YiLGZvbnRXZWlnaHQ6IjUwMCIsY3Vyc29yOiJwb2ludGVyIix3aGl0ZVNwYWNlOiJub3dyYXAiLGZsZXhTaHJpbms6MH19PgogICAgICAgICAgVmlldyDihpIKICAgICAgICA8L3NwYW4+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIE1lc3NhZ2VzICovfQogICAgICA8ZGl2IHN0eWxlPXt7ZmxleDoxLG92ZXJmbG93WToiYXV0byIscGFkZGluZzoiMTZweCIsZGlzcGxheToiZmxleCIsZmxleERpcmVjdGlvbjoiY29sdW1uIixnYXA6IjEycHgifX0+CiAgICAgICAge21lc3NhZ2VzLm1hcChtc2cgPT4gKAogICAgICAgICAgPGRpdiBrZXk9e21zZy5pZH0+CiAgICAgICAgICAgIHttc2cuc2VuZGVyID09PSAic3lzdGVtIiAmJiAoCiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjoiY2VudGVyIixwYWRkaW5nOiI4cHggMTZweCIsYmFja2dyb3VuZDoicmdiYSgwLDAsMCwwLjA2KSIsYm9yZGVyUmFkaXVzOiIyMHB4Iixmb250U2l6ZToiMTFweCIsY29sb3I6IiM4ODgiLG1hcmdpbjoiMCBhdXRvIixtYXhXaWR0aDoiMzIwcHgifX0+CiAgICAgICAgICAgICAgICB7bXNnLnRleHR9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICl9CgogICAgICAgICAgICB7bXNnLnNlbmRlciA9PT0gImFnZW50IiAmJiAoCiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImZsZXgiLGdhcDoiOHB4IixhbGlnbkl0ZW1zOiJmbGV4LWVuZCIsbWF4V2lkdGg6IjgwJSJ9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiMjhweCIsaGVpZ2h0OiIyOHB4Iixib3JkZXJSYWRpdXM6IjUwJSIsYmFja2dyb3VuZDoiI0UxRjVFRSIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmb250U2l6ZToiMTBweCIsZm9udFdlaWdodDoiNzAwIixjb2xvcjoiIzBBNUMzRiIsZmxleFNocmluazowfX0+CiAgICAgICAgICAgICAgICAgIHtwcm9wZXJ0eS5hZ2VudF9pbml0aWFsc30KICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPGRpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IndoaXRlIixib3JkZXJSYWRpdXM6IjE2cHggMTZweCAxNnB4IDRweCIscGFkZGluZzoiMTBweCAxNHB4Iixmb250U2l6ZToiMTNweCIsY29sb3I6IiMzMzMiLGJveFNoYWRvdzoiMCAxcHggM3B4IHJnYmEoMCwwLDAsMC4wOCkiLGxpbmVIZWlnaHQ6IjEuNSJ9fT4KICAgICAgICAgICAgICAgICAgICB7bXNnLnRleHR9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICB7bXNnLnRpbWUgJiYgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMHB4Iixjb2xvcjoiI2FhYSIsbWFyZ2luVG9wOiI0cHgiLG1hcmdpbkxlZnQ6IjRweCJ9fT57bXNnLnRpbWV9PC9kaXY+fQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICl9CgogICAgICAgICAgICB7bXNnLnNlbmRlciA9PT0gImNsaWVudCIgJiYgKAogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixqdXN0aWZ5Q29udGVudDoiZmxleC1lbmQiLG1heFdpZHRoOiI4MCUiLG1hcmdpbkxlZnQ6ImF1dG8ifX0+CiAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiIzBBNUMzRiIsYm9yZGVyUmFkaXVzOiIxNnB4IDE2cHggNHB4IDE2cHgiLHBhZGRpbmc6IjEwcHggMTRweCIsZm9udFNpemU6IjEzcHgiLGNvbG9yOiJ3aGl0ZSIsbGluZUhlaWdodDoiMS41In19PgogICAgICAgICAgICAgICAgICAgIHttc2cudGV4dH0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTBweCIsY29sb3I6IiNhYWEiLG1hcmdpblRvcDoiNHB4Iix0ZXh0QWxpZ246InJpZ2h0IixtYXJnaW5SaWdodDoiNHB4In19PgogICAgICAgICAgICAgICAgICAgIHttc2cudGltZX0gwrcg4pyT4pyTCiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICl9CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KCiAgICAgICAge2lzVHlwaW5nICYmICgKICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjhweCIsYWxpZ25JdGVtczoiZmxleC1lbmQifX0+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiMjhweCIsaGVpZ2h0OiIyOHB4Iixib3JkZXJSYWRpdXM6IjUwJSIsYmFja2dyb3VuZDoiI0UxRjVFRSIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmb250U2l6ZToiMTBweCIsZm9udFdlaWdodDoiNzAwIixjb2xvcjoiIzBBNUMzRiIsZmxleFNocmluazowfX0+CiAgICAgICAgICAgICAge3Byb3BlcnR5LmFnZW50X2luaXRpYWxzfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IndoaXRlIixib3JkZXJSYWRpdXM6IjE2cHggMTZweCAxNnB4IDRweCIscGFkZGluZzoiMTJweCAxNnB4Iixib3hTaGFkb3c6IjAgMXB4IDNweCByZ2JhKDAsMCwwLDAuMDgpIixkaXNwbGF5OiJmbGV4IixnYXA6IjRweCIsYWxpZ25JdGVtczoiY2VudGVyIn19PgogICAgICAgICAgICAgIHtbMCwxLDJdLm1hcChpID0+ICgKICAgICAgICAgICAgICAgIDxkaXYga2V5PXtpfSBzdHlsZT17e3dpZHRoOiI2cHgiLGhlaWdodDoiNnB4Iixib3JkZXJSYWRpdXM6IjUwJSIsYmFja2dyb3VuZDoiI2FhYSIsYW5pbWF0aW9uOmBib3VuY2UgMXMgaW5maW5pdGUgJHtpKjAuMn1zYH19PjwvZGl2PgogICAgICAgICAgICAgICkpfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CgogICAgICAgIDxkaXYgcmVmPXttZXNzYWdlc0VuZFJlZn0gLz4KICAgICAgPC9kaXY+CgogICAgICB7LyogUXVpY2sgcmVwbGllcyAqL30KICAgICAge3Nob3dRdWlja1JlcGxpZXMgJiYgKAogICAgICAgIDxkaXYgc3R5bGU9e3twYWRkaW5nOiI4cHggMTZweCIsYmFja2dyb3VuZDoid2hpdGUiLGJvcmRlclRvcDoiMXB4IHNvbGlkICNlZWUiLGZsZXhTaHJpbms6MH19PgogICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMXB4Iixjb2xvcjoiIzg4OCIsbWFyZ2luQm90dG9tOiI4cHgifX0+UXVpY2sgcXVlc3Rpb25zPC9kaXY+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsZ2FwOiI4cHgiLG92ZXJmbG93WDoiYXV0byIscGFkZGluZ0JvdHRvbToiNHB4In19PgogICAgICAgICAgICB7UVVJQ0tfUkVQTElFUy5tYXAocXIgPT4gKAogICAgICAgICAgICAgIDxidXR0b24ga2V5PXtxcn0gb25DbGljaz17KCkgPT4gc2VuZE1lc3NhZ2UocXIpfQogICAgICAgICAgICAgICAgc3R5bGU9e3tmbGV4U2hyaW5rOjAsYmFja2dyb3VuZDoiI0UxRjVFRSIsY29sb3I6IiMwQTVDM0YiLGJvcmRlcjoiMXB4IHNvbGlkIHJnYmEoMTAsOTIsNjMsMC4yKSIsYm9yZGVyUmFkaXVzOiIyMHB4IixwYWRkaW5nOiI2cHggMTJweCIsZm9udFNpemU6IjEycHgiLGN1cnNvcjoicG9pbnRlciIsd2hpdGVTcGFjZToibm93cmFwIn19PgogICAgICAgICAgICAgICAge3FyfQogICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApfQoKICAgICAgey8qIElucHV0ICovfQogICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoid2hpdGUiLGJvcmRlclRvcDoiMXB4IHNvbGlkICNlZWUiLHBhZGRpbmc6IjEycHggMTZweCIsZGlzcGxheToiZmxleCIsZ2FwOiIxMHB4IixhbGlnbkl0ZW1zOiJmbGV4LWVuZCIsZmxleFNocmluazowfX0+CiAgICAgICAgPGRpdiBzdHlsZT17e2ZsZXg6MSxiYWNrZ3JvdW5kOiIjZjhmOGY4Iixib3JkZXJSYWRpdXM6IjI0cHgiLHBhZGRpbmc6IjEwcHggMTZweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIn19PgogICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgIHZhbHVlPXtpbnB1dH0KICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gc2V0SW5wdXQoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICBvbktleURvd249e2UgPT4geyBpZiAoZS5rZXkgPT09ICJFbnRlciIgJiYgIWUuc2hpZnRLZXkpIHsgZS5wcmV2ZW50RGVmYXVsdCgpOyBzZW5kTWVzc2FnZSgpOyB9IH19CiAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJUeXBlIHlvdXIgbWVzc2FnZS4uLiIKICAgICAgICAgICAgcm93cz17MX0KICAgICAgICAgICAgc3R5bGU9e3tmbGV4OjEsYmFja2dyb3VuZDoibm9uZSIsYm9yZGVyOiJub25lIixvdXRsaW5lOiJub25lIixyZXNpemU6Im5vbmUiLGZvbnRTaXplOiIxNHB4Iixjb2xvcjoiIzMzMyIsZm9udEZhbWlseToic3lzdGVtLXVpIixsaW5lSGVpZ2h0OiIxLjQiLG1heEhlaWdodDoiMTAwcHgifX0KICAgICAgICAgIC8+CiAgICAgICAgPC9kaXY+CiAgICAgICAgPGJ1dHRvbgogICAgICAgICAgb25DbGljaz17KCkgPT4gc2VuZE1lc3NhZ2UoKX0KICAgICAgICAgIGRpc2FibGVkPXshaW5wdXQudHJpbSgpfQogICAgICAgICAgc3R5bGU9e3t3aWR0aDoiNDRweCIsaGVpZ2h0OiI0NHB4Iixib3JkZXJSYWRpdXM6IjUwJSIsYmFja2dyb3VuZDppbnB1dC50cmltKCk/IiMwQTVDM0YiOiIjZGRkIixib3JkZXI6Im5vbmUiLGN1cnNvcjppbnB1dC50cmltKCk/InBvaW50ZXIiOiJkZWZhdWx0IixkaXNwbGF5OiJmbGV4IixhbGlnbkl0ZW1zOiJjZW50ZXIiLGp1c3RpZnlDb250ZW50OiJjZW50ZXIiLGZsZXhTaHJpbms6MCx0cmFuc2l0aW9uOiJiYWNrZ3JvdW5kIDAuMnMifX0+CiAgICAgICAgICA8c3ZnIHdpZHRoPSIyMCIgaGVpZ2h0PSIyMCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IndoaXRlIiBzdHJva2VXaWR0aD0iMi41Ij4KICAgICAgICAgICAgPGxpbmUgeDE9IjIyIiB5MT0iMiIgeDI9IjExIiB5Mj0iMTMiLz4KICAgICAgICAgICAgPHBvbHlnb24gcG9pbnRzPSIyMiAyIDE1IDIyIDExIDEzIDIgOSAyMiAyIi8+CiAgICAgICAgICA8L3N2Zz4KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICA8c3R5bGU+e2AKICAgICAgICBAa2V5ZnJhbWVzIGJvdW5jZSB7CiAgICAgICAgICAwJSwgNjAlLCAxMDAlIHsgdHJhbnNmb3JtOiB0cmFuc2xhdGVZKDApOyB9CiAgICAgICAgICAzMCUgeyB0cmFuc2Zvcm06IHRyYW5zbGF0ZVkoLTRweCk7IH0KICAgICAgICB9CiAgICAgIGB9PC9zdHlsZT4KICAgIDwvZGl2PgogICk7Cn0K"}
+"use client";
+import { useState, useEffect, useRef } from "react";
+import { useParams, useRouter } from "next/navigation";
+
+const MOCK_PROPERTY = {
+  "1": { title:"3 Bedroom Flat, Lekki Phase 1", agent:"Adaeze Okonkwo", agent_initials:"AO", price:"₦45.0M" },
+  "2": { title:"4 Bedroom Detached House, Maitama", agent:"Babatunde Malik", agent_initials:"BM", price:"₦120.0M" },
+  "3": { title:"2 Bedroom Flat, GRA Port Harcourt", agent:"Chioma Eze", agent_initials:"CE", price:"₦25.0M" },
+  "4": { title:"Land, Ibeju-Lekki", agent:"Emeka Obi", agent_initials:"EO", price:"₦8.0M" },
+  "5": { title:"3 Bedroom Bungalow, Ibadan", agent:"Funke Adeyemi", agent_initials:"FA", price:"₦18.0M" },
+  "6": { title:"5 Bedroom Duplex, Asokoro", agent:"Garba Musa", agent_initials:"GM", price:"₦250.0M" },
+};
+
+interface Message {
+  id: string;
+  sender: "client" | "agent" | "system";
+  text: string;
+  time: string;
+  read: boolean;
+}
+
+const INITIAL_MESSAGES: Message[] = [
+  {
+    id: "sys-1",
+    sender: "system",
+    text: "🔒 This is a secure, encrypted conversation. Messages are only visible to you and the agent.",
+    time: "",
+    read: true,
+  },
+  {
+    id: "agent-1",
+    sender: "agent",
+    text: "Hello! Thank you for your interest in this property. I'm the verified agent handling this listing. How can I help you today?",
+    time: new Date(Date.now() - 60000).toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}),
+    read: true,
+  },
+];
+
+const QUICK_REPLIES = [
+  "Is this property still available?",
+  "Can I schedule a viewing?",
+  "Is the price negotiable?",
+  "What documents are available?",
+  "What is the service charge?",
+];
+
+export default function ChatPage() {
+  const params = useParams();
+  const router = useRouter();
+  const propertyId = params.id as string;
+  const property = MOCK_PROPERTY[propertyId as keyof typeof MOCK_PROPERTY];
+
+  const [messages, setMessages] = useState<Message[]>(INITIAL_MESSAGES);
+  const [input, setInput] = useState("");
+  const [isTyping, setIsTyping] = useState(false);
+  const [showQuickReplies, setShowQuickReplies] = useState(true);
+  const messagesEndRef = useRef<HTMLDivElement>(null);
+
+  const scrollToBottom = () => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  };
+
+  useEffect(() => { scrollToBottom(); }, [messages]);
+
+  const simulateAgentResponse = (userMessage: string) => {
+    setIsTyping(true);
+    setTimeout(() => {
+      setIsTyping(false);
+      const responses: Record<string, string> = {
+        "available": "Yes, the property is still available! Would you like to schedule a viewing?",
+        "viewing": "I can arrange a viewing for you. Are you available this weekend or would you prefer a weekday?",
+        "negotiable": "The asking price is ₦45M but there is some room for negotiation for serious buyers. What's your budget?",
+        "documents": "We have the C of O, Survey Plan, and Deed of Assignment — all verified. I can share copies after you complete your enquiry form.",
+        "service": "The annual service charge is ₦500,000 covering security, cleaning, and generator maintenance.",
+      };
+      let response = "Thank you for your message. I'll get back to you shortly with more details. Is there anything specific you'd like to know about the property?";
+      const lower = userMessage.toLowerCase();
+      if (lower.includes("available")) response = responses["available"];
+      else if (lower.includes("view")) response = responses["viewing"];
+      else if (lower.includes("negoti") || lower.includes("price")) response = responses["negotiable"];
+      else if (lower.includes("document")) response = responses["documents"];
+      else if (lower.includes("service") || lower.includes("charge")) response = responses["service"];
+
+      const agentMsg: Message = {
+        id: `agent-${Date.now()}`,
+        sender: "agent",
+        text: response,
+        time: new Date().toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}),
+        read: false,
+      };
+      setMessages(prev => [...prev, agentMsg]);
+    }, 1500 + Math.random() * 1000);
+  };
+
+  const sendMessage = (text?: string) => {
+    const messageText = text || input.trim();
+    if (!messageText) return;
+
+    const newMsg: Message = {
+      id: `client-${Date.now()}`,
+      sender: "client",
+      text: messageText,
+      time: new Date().toLocaleTimeString([], {hour:"2-digit", minute:"2-digit"}),
+      read: true,
+    };
+    setMessages(prev => [...prev, newMsg]);
+    setInput("");
+    setShowQuickReplies(false);
+    simulateAgentResponse(messageText);
+  };
+
+  if (!property) {
+    return (
+      <div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100vh",fontFamily:"system-ui"}}>
+        <div style={{textAlign:"center"}}>
+          <p>Property not found</p>
+          <button onClick={() => router.push("/search")} style={{background:"#0A5C3F",color:"white",border:"none",borderRadius:"8px",padding:"10px 20px",cursor:"pointer"}}>
+            Back to search
+          </button>
+        </div>
+      </div>
+    );
+  }
+
+  return (
+    <div style={{fontFamily:"system-ui,sans-serif",height:"100vh",display:"flex",flexDirection:"column",background:"#f5f5f5"}}>
+
+      {/* Header */}
+      <div style={{background:"#0A5C3F",padding:"12px 16px",display:"flex",alignItems:"center",gap:"12px",flexShrink:0}}>
+        <span onClick={() => router.back()} style={{color:"rgba(255,255,255,0.7)",fontSize:"22px",cursor:"pointer",lineHeight:1}}>←</span>
+        <div style={{width:"40px",height:"40px",borderRadius:"50%",background:"#E1F5EE",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"14px",fontWeight:"700",color:"#0A5C3F",flexShrink:0}}>
+          {property.agent_initials}
+        </div>
+        <div style={{flex:1,minWidth:0}}>
+          <div style={{color:"white",fontSize:"14px",fontWeight:"600",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}}>{property.agent}</div>
+          <div style={{color:"rgba(255,255,255,0.65)",fontSize:"11px",display:"flex",alignItems:"center",gap:"4px"}}>
+            <span style={{width:"6px",height:"6px",borderRadius:"50%",background:"#5DCAA5",display:"inline-block"}}></span>
+            Online · KYC Verified Agent
+          </div>
+        </div>
+        <div style={{textAlign:"right",flexShrink:0}}>
+          <div style={{color:"rgba(255,255,255,0.65)",fontSize:"10px"}}>Property</div>
+          <div style={{color:"#FAC775",fontSize:"12px",fontWeight:"500"}}>{property.price}</div>
+        </div>
+      </div>
+
+      {/* Property banner */}
+      <div style={{background:"#E1F5EE",borderBottom:"1px solid rgba(10,92,63,0.15)",padding:"10px 16px",display:"flex",alignItems:"center",gap:"10px",flexShrink:0}}>
+        <span style={{fontSize:"20px"}}>🏠</span>
+        <div style={{flex:1,minWidth:0}}>
+          <div style={{fontSize:"12px",fontWeight:"500",color:"#0A5C3F",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}}>{property.title}</div>
+          <div style={{fontSize:"11px",color:"#888"}}>Tap to view property details</div>
+        </div>
+        <span onClick={() => router.push(`/property/${propertyId}`)}
+          style={{fontSize:"12px",color:"#0A5C3F",fontWeight:"500",cursor:"pointer",whiteSpace:"nowrap",flexShrink:0}}>
+          View →
+        </span>
+      </div>
+
+      {/* Messages */}
+      <div style={{flex:1,overflowY:"auto",padding:"16px",display:"flex",flexDirection:"column",gap:"12px"}}>
+        {messages.map(msg => (
+          <div key={msg.id}>
+            {msg.sender === "system" && (
+              <div style={{textAlign:"center",padding:"8px 16px",background:"rgba(0,0,0,0.06)",borderRadius:"20px",fontSize:"11px",color:"#888",margin:"0 auto",maxWidth:"320px"}}>
+                {msg.text}
+              </div>
+            )}
+
+            {msg.sender === "agent" && (
+              <div style={{display:"flex",gap:"8px",alignItems:"flex-end",maxWidth:"80%"}}>
+                <div style={{width:"28px",height:"28px",borderRadius:"50%",background:"#E1F5EE",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"10px",fontWeight:"700",color:"#0A5C3F",flexShrink:0}}>
+                  {property.agent_initials}
+                </div>
+                <div>
+                  <div style={{background:"white",borderRadius:"16px 16px 16px 4px",padding:"10px 14px",fontSize:"13px",color:"#333",boxShadow:"0 1px 3px rgba(0,0,0,0.08)",lineHeight:"1.5"}}>
+                    {msg.text}
+                  </div>
+                  {msg.time && <div style={{fontSize:"10px",color:"#aaa",marginTop:"4px",marginLeft:"4px"}}>{msg.time}</div>}
+                </div>
+              </div>
+            )}
+
+            {msg.sender === "client" && (
+              <div style={{display:"flex",justifyContent:"flex-end",maxWidth:"80%",marginLeft:"auto"}}>
+                <div>
+                  <div style={{background:"#0A5C3F",borderRadius:"16px 16px 4px 16px",padding:"10px 14px",fontSize:"13px",color:"white",lineHeight:"1.5"}}>
+                    {msg.text}
+                  </div>
+                  <div style={{fontSize:"10px",color:"#aaa",marginTop:"4px",textAlign:"right",marginRight:"4px"}}>
+                    {msg.time} · ✓✓
+                  </div>
+                </div>
+              </div>
+            )}
+          </div>
+        ))}
+
+        {isTyping && (
+          <div style={{display:"flex",gap:"8px",alignItems:"flex-end"}}>
+            <div style={{width:"28px",height:"28px",borderRadius:"50%",background:"#E1F5EE",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"10px",fontWeight:"700",color:"#0A5C3F",flexShrink:0}}>
+              {property.agent_initials}
+            </div>
+            <div style={{background:"white",borderRadius:"16px 16px 16px 4px",padding:"12px 16px",boxShadow:"0 1px 3px rgba(0,0,0,0.08)",display:"flex",gap:"4px",alignItems:"center"}}>
+              {[0,1,2].map(i => (
+                <div key={i} style={{width:"6px",height:"6px",borderRadius:"50%",background:"#aaa",animation:`bounce 1s infinite ${i*0.2}s`}}></div>
+              ))}
+            </div>
+          </div>
+        )}
+
+        <div ref={messagesEndRef} />
+      </div>
+
+      {/* Quick replies */}
+      {showQuickReplies && (
+        <div style={{padding:"8px 16px",background:"white",borderTop:"1px solid #eee",flexShrink:0}}>
+          <div style={{fontSize:"11px",color:"#888",marginBottom:"8px"}}>Quick questions</div>
+          <div style={{display:"flex",gap:"8px",overflowX:"auto",paddingBottom:"4px"}}>
+            {QUICK_REPLIES.map(qr => (
+              <button key={qr} onClick={() => sendMessage(qr)}
+                style={{flexShrink:0,background:"#E1F5EE",color:"#0A5C3F",border:"1px solid rgba(10,92,63,0.2)",borderRadius:"20px",padding:"6px 12px",fontSize:"12px",cursor:"pointer",whiteSpace:"nowrap"}}>
+                {qr}
+              </button>
+            ))}
+          </div>
+        </div>
+      )}
+
+      {/* Input */}
+      <div style={{background:"white",borderTop:"1px solid #eee",padding:"12px 16px",display:"flex",gap:"10px",alignItems:"flex-end",flexShrink:0}}>
+        <div style={{flex:1,background:"#f8f8f8",borderRadius:"24px",padding:"10px 16px",display:"flex",alignItems:"center"}}>
+          <textarea
+            value={input}
+            onChange={e => setInput(e.target.value)}
+            onKeyDown={e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); } }}
+            placeholder="Type your message..."
+            rows={1}
+            style={{flex:1,background:"none",border:"none",outline:"none",resize:"none",fontSize:"14px",color:"#333",fontFamily:"system-ui",lineHeight:"1.4",maxHeight:"100px"}}
+          />
+        </div>
+        <button
+          onClick={() => sendMessage()}
+          disabled={!input.trim()}
+          style={{width:"44px",height:"44px",borderRadius:"50%",background:input.trim()?"#0A5C3F":"#ddd",border:"none",cursor:input.trim()?"pointer":"default",display:"flex",alignItems:"center",justifyContent:"center",flexShrink:0,transition:"background 0.2s"}}>
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="white" strokeWidth="2.5">
+            <line x1="22" y1="2" x2="11" y2="13"/>
+            <polygon points="22 2 15 22 11 13 2 9 22 2"/>
+          </svg>
+        </button>
+      </div>
+
+      <style>{`
+        @keyframes bounce {
+          0%, 60%, 100% { transform: translateY(0); }
+          30% { transform: translateY(-4px); }
+        }
+      `}</style>
+    </div>
+  );
+}

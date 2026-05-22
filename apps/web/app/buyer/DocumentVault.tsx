@@ -1,1 +1,367 @@
-{"data":"InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VTdGF0ZSwgdXNlUmVmLCB1c2VFZmZlY3QgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBBUEkgPSAiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2FwaS92MSI7Cgpjb25zdCBET0NfVFlQRVMgPSBbCiAgeyB2YWx1ZToiQ19PRl9PIiwgbGFiZWw6IkNlcnRpZmljYXRlIG9mIE9jY3VwYW5jeSAoQyBvZiBPKSIgfSwKICB7IHZhbHVlOiJTVVJWRVlfUExBTiIsIGxhYmVsOiJTdXJ2ZXkgUGxhbiIgfSwKICB7IHZhbHVlOiJERUVEIiwgbGFiZWw6IkRlZWQgb2YgQXNzaWdubWVudCIgfSwKICB7IHZhbHVlOiJHT1ZFUk5PUlNfQ09OU0VOVCIsIGxhYmVsOiJHb3Zlcm5vcidzIENvbnNlbnQiIH0sCiAgeyB2YWx1ZToiUkVDRUlQVCIsIGxhYmVsOiJQYXltZW50IFJlY2VpcHQiIH0sCiAgeyB2YWx1ZToiS1lDIiwgbGFiZWw6IklkZW50aXR5IERvY3VtZW50IiB9LAogIHsgdmFsdWU6Ik9USEVSIiwgbGFiZWw6Ik90aGVyIERvY3VtZW50IiB9LApdOwoKaW50ZXJmYWNlIERvY3VtZW50IHsKICBpZDogc3RyaW5nOwogIG5hbWU6IHN0cmluZzsKICB0eXBlOiBzdHJpbmc7CiAgc2l6ZV9ieXRlczogbnVtYmVyOwogIHVwbG9hZGVkX2F0OiBzdHJpbmc7CiAgZW5jcnlwdGVkOiBib29sZWFuOwogIHByb3BlcnR5X2lkPzogc3RyaW5nOwp9CgppbnRlcmZhY2UgVmlld2VyU3RhdGUgewogIG9wZW46IGJvb2xlYW47CiAgbG9hZGluZzogYm9vbGVhbjsKICBlcnJvcjogc3RyaW5nOwogIG5hbWU6IHN0cmluZzsKICB3YXRlcm1hcmtfc3ZnOiBzdHJpbmc7CiAgd2F0ZXJtYXJrX3RleHQ6IHN0cmluZzsKICBjb250ZW50X2Jhc2U2NDogc3RyaW5nOwogIHZpZXdlZF9ieTogc3RyaW5nOwogIHZpZXdlZF9hdDogc3RyaW5nOwp9CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBEb2N1bWVudFZhdWx0KCkgewogIGNvbnN0IFtkb2NzLCBzZXREb2NzXSA9IHVzZVN0YXRlPERvY3VtZW50W10+KFtdKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZSh0cnVlKTsKICBjb25zdCBbdXBsb2FkaW5nLCBzZXRVcGxvYWRpbmddID0gdXNlU3RhdGUoZmFsc2UpOwogIGNvbnN0IFt1cGxvYWRFcnJvciwgc2V0VXBsb2FkRXJyb3JdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFt1cGxvYWRTdWNjZXNzLCBzZXRVcGxvYWRTdWNjZXNzXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbZG9jVHlwZSwgc2V0RG9jVHlwZV0gPSB1c2VTdGF0ZSgiQ19PRl9PIik7CiAgY29uc3QgW2RvY05hbWUsIHNldERvY05hbWVdID0gdXNlU3RhdGUoIiIpOwogIGNvbnN0IFtzZWxlY3RlZEZpbGUsIHNldFNlbGVjdGVkRmlsZV0gPSB1c2VTdGF0ZTxGaWxlIHwgbnVsbD4obnVsbCk7CiAgY29uc3QgW2ZpbGVQcmV2aWV3LCBzZXRGaWxlUHJldmlld10gPSB1c2VTdGF0ZTxzdHJpbmcgfCBudWxsPihudWxsKTsKICBjb25zdCBmaWxlUmVmID0gdXNlUmVmPEhUTUxJbnB1dEVsZW1lbnQ+KG51bGwpOwoKICBjb25zdCBbdmlld2VyLCBzZXRWaWV3ZXJdID0gdXNlU3RhdGU8Vmlld2VyU3RhdGU+KHsKICAgIG9wZW46IGZhbHNlLCBsb2FkaW5nOiBmYWxzZSwgZXJyb3I6ICIiLAogICAgbmFtZTogIiIsIHdhdGVybWFya19zdmc6ICIiLCB3YXRlcm1hcmtfdGV4dDogIiIsCiAgICBjb250ZW50X2Jhc2U2NDogIiIsIHZpZXdlZF9ieTogIiIsIHZpZXdlZF9hdDogIiIsCiAgfSk7CgogIGNvbnN0IHRva2VuID0gdHlwZW9mIHdpbmRvdyAhPT0gInVuZGVmaW5lZCIgPyBzZXNzaW9uU3RvcmFnZS5nZXRJdGVtKCJhY2Nlc3NfdG9rZW4iKSA6ICIiOwoKICB1c2VFZmZlY3QoKCkgPT4geyBsb2FkRG9jcygpOyB9LCBbXSk7CgogIGNvbnN0IGxvYWREb2NzID0gYXN5bmMgKCkgPT4gewogICAgc2V0TG9hZGluZyh0cnVlKTsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0FQSX0vZG9jdW1lbnRzL215YCwgewogICAgICAgIGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Rva2VufWAgfSwKICAgICAgfSk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBpZiAocmVzLm9rKSBzZXREb2NzKGRhdGEuZG9jdW1lbnRzIHx8IFtdKTsKICAgIH0gY2F0Y2gge30KICAgIHNldExvYWRpbmcoZmFsc2UpOwogIH07CgogIGNvbnN0IGhhbmRsZUZpbGVTZWxlY3QgPSAoZTogUmVhY3QuQ2hhbmdlRXZlbnQ8SFRNTElucHV0RWxlbWVudD4pID0+IHsKICAgIGNvbnN0IGZpbGUgPSBlLnRhcmdldC5maWxlcz8uWzBdOwogICAgaWYgKCFmaWxlKSByZXR1cm47CiAgICBpZiAoZmlsZS5zaXplID4gMTAgKiAxMDI0ICogMTAyNCkgeyBzZXRVcGxvYWRFcnJvcigiRmlsZSBtdXN0IGJlIHVuZGVyIDEwTUIiKTsgcmV0dXJuOyB9CiAgICBzZXRTZWxlY3RlZEZpbGUoZmlsZSk7CiAgICBzZXRVcGxvYWRFcnJvcigiIik7CiAgICBpZiAoIWRvY05hbWUpIHNldERvY05hbWUoZmlsZS5uYW1lLnJlcGxhY2UoL1wuW14vLl0rJC8sICIiKSk7CiAgICBpZiAoZmlsZS50eXBlLnN0YXJ0c1dpdGgoImltYWdlLyIpKSB7CiAgICAgIGNvbnN0IHJlYWRlciA9IG5ldyBGaWxlUmVhZGVyKCk7CiAgICAgIHJlYWRlci5vbmxvYWQgPSBlID0+IHNldEZpbGVQcmV2aWV3KGUudGFyZ2V0Py5yZXN1bHQgYXMgc3RyaW5nKTsKICAgICAgcmVhZGVyLnJlYWRBc0RhdGFVUkwoZmlsZSk7CiAgICB9IGVsc2UgewogICAgICBzZXRGaWxlUHJldmlldyhudWxsKTsKICAgIH0KICB9OwoKICBjb25zdCBoYW5kbGVVcGxvYWQgPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIXNlbGVjdGVkRmlsZSB8fCAhZG9jTmFtZSkgcmV0dXJuOwogICAgc2V0VXBsb2FkaW5nKHRydWUpOwogICAgc2V0VXBsb2FkRXJyb3IoIiIpOwogICAgdHJ5IHsKICAgICAgY29uc3QgcmVhZGVyID0gbmV3IEZpbGVSZWFkZXIoKTsKICAgICAgcmVhZGVyLm9ubG9hZCA9IGFzeW5jIChlKSA9PiB7CiAgICAgICAgY29uc3QgYmFzZTY0ID0gKGUudGFyZ2V0Py5yZXN1bHQgYXMgc3RyaW5nKS5zcGxpdCgiLCIpWzFdOwogICAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0FQSX0vZG9jdW1lbnRzL3VwbG9hZGAsIHsKICAgICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLCBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7dG9rZW59YCB9LAogICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkoeyBuYW1lOiBkb2NOYW1lLCB0eXBlOiBkb2NUeXBlLCBkYXRhX2Jhc2U2NDogYmFzZTY0IH0pLAogICAgICAgIH0pOwogICAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgICAgIGlmIChyZXMub2spIHsKICAgICAgICAgIHNldFVwbG9hZFN1Y2Nlc3MoYOKckyAiJHtkb2NOYW1lfSIgZW5jcnlwdGVkIGFuZCBzdG9yZWQgc2VjdXJlbHlgKTsKICAgICAgICAgIHNldFNlbGVjdGVkRmlsZShudWxsKTsgc2V0RG9jTmFtZSgiIik7IHNldEZpbGVQcmV2aWV3KG51bGwpOwogICAgICAgICAgaWYgKGZpbGVSZWYuY3VycmVudCkgZmlsZVJlZi5jdXJyZW50LnZhbHVlID0gIiI7CiAgICAgICAgICBzZXRUaW1lb3V0KCgpID0+IHNldFVwbG9hZFN1Y2Nlc3MoIiIpLCA0MDAwKTsKICAgICAgICAgIGF3YWl0IGxvYWREb2NzKCk7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgIHNldFVwbG9hZEVycm9yKGRhdGEuZGV0YWlsIHx8ICJVcGxvYWQgZmFpbGVkIik7CiAgICAgICAgfQogICAgICAgIHNldFVwbG9hZGluZyhmYWxzZSk7CiAgICAgIH07CiAgICAgIHJlYWRlci5yZWFkQXNEYXRhVVJMKHNlbGVjdGVkRmlsZSk7CiAgICB9IGNhdGNoIHsKICAgICAgc2V0VXBsb2FkRXJyb3IoIkNhbm5vdCBjb25uZWN0IHRvIHNlcnZlciIpOwogICAgICBzZXRVcGxvYWRpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IGhhbmRsZVZpZXdEb2MgPSBhc3luYyAoZG9jSWQ6IHN0cmluZywgZG9jTmFtZTogc3RyaW5nKSA9PiB7CiAgICBzZXRWaWV3ZXIoeyBvcGVuOiB0cnVlLCBsb2FkaW5nOiB0cnVlLCBlcnJvcjogIiIsIG5hbWU6IGRvY05hbWUsIHdhdGVybWFya19zdmc6ICIiLCB3YXRlcm1hcmtfdGV4dDogIiIsIGNvbnRlbnRfYmFzZTY0OiAiIiwgdmlld2VkX2J5OiAiIiwgdmlld2VkX2F0OiAiIiB9KTsKICAgIHRyeSB7CiAgICAgIC8vIEdldCBzaWduZWQgVVJMCiAgICAgIGNvbnN0IHVybFJlcyA9IGF3YWl0IGZldGNoKGAke0FQSX0vZG9jdW1lbnRzL3NpZ25lZC11cmxgLCB7CiAgICAgICAgbWV0aG9kOiAiUE9TVCIsCiAgICAgICAgaGVhZGVyczogeyAiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24iLCBBdXRob3JpemF0aW9uOiBgQmVhcmVyICR7dG9rZW59YCB9LAogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsgZG9jdW1lbnRfaWQ6IGRvY0lkLCBleHBpcmVzX2luOiAxMjAgfSksCiAgICAgIH0pOwogICAgICBjb25zdCB1cmxEYXRhID0gYXdhaXQgdXJsUmVzLmpzb24oKTsKICAgICAgaWYgKCF1cmxSZXMub2spIHsgc2V0Vmlld2VyKHYgPT4gKHsgLi4udiwgbG9hZGluZzogZmFsc2UsIGVycm9yOiB1cmxEYXRhLmRldGFpbCB8fCAiQWNjZXNzIGRlbmllZCIgfSkpOyByZXR1cm47IH0KCiAgICAgIC8vIEZldGNoIGRvY3VtZW50IHZpYSBzaWduZWQgVVJMCiAgICAgIGNvbnN0IHZpZXdSZXMgPSBhd2FpdCBmZXRjaCh1cmxEYXRhLnNpZ25lZF91cmwpOwogICAgICBjb25zdCB2aWV3RGF0YSA9IGF3YWl0IHZpZXdSZXMuanNvbigpOwogICAgICBpZiAoIXZpZXdSZXMub2spIHsgc2V0Vmlld2VyKHYgPT4gKHsgLi4udiwgbG9hZGluZzogZmFsc2UsIGVycm9yOiB2aWV3RGF0YS5kZXRhaWwgfHwgIkxpbmsgZXhwaXJlZCIgfSkpOyByZXR1cm47IH0KCiAgICAgIHNldFZpZXdlcih7CiAgICAgICAgb3BlbjogdHJ1ZSwgbG9hZGluZzogZmFsc2UsIGVycm9yOiAiIiwKICAgICAgICBuYW1lOiB2aWV3RGF0YS5uYW1lLAogICAgICAgIHdhdGVybWFya19zdmc6IHZpZXdEYXRhLndhdGVybWFya19zdmcsCiAgICAgICAgd2F0ZXJtYXJrX3RleHQ6IHZpZXdEYXRhLndhdGVybWFya190ZXh0LAogICAgICAgIGNvbnRlbnRfYmFzZTY0OiB2aWV3RGF0YS5jb250ZW50X2Jhc2U2NCwKICAgICAgICB2aWV3ZWRfYnk6IHZpZXdEYXRhLnZpZXdlZF9ieSwKICAgICAgICB2aWV3ZWRfYXQ6IHZpZXdEYXRhLnZpZXdlZF9hdCwKICAgICAgfSk7CiAgICB9IGNhdGNoIHsKICAgICAgc2V0Vmlld2VyKHYgPT4gKHsgLi4udiwgbG9hZGluZzogZmFsc2UsIGVycm9yOiAiRmFpbGVkIHRvIGxvYWQgZG9jdW1lbnQiIH0pKTsKICAgIH0KICB9OwoKICBjb25zdCBmb3JtYXRTaXplID0gKGJ5dGVzOiBudW1iZXIpID0+IHsKICAgIGlmIChieXRlcyA+PSAxMDI0ICogMTAyNCkgcmV0dXJuIChieXRlcyAvICgxMDI0ICogMTAyNCkpLnRvRml4ZWQoMSkgKyAiIE1CIjsKICAgIGlmIChieXRlcyA+PSAxMDI0KSByZXR1cm4gKGJ5dGVzIC8gMTAyNCkudG9GaXhlZCgwKSArICIgS0IiOwogICAgcmV0dXJuIGJ5dGVzICsgIiBCIjsKICB9OwoKICBjb25zdCBpbnAgPSB7IHdpZHRoOiIxMDAlIiwgYmFja2dyb3VuZDoiI2Y4ZjhmOCIsIGJvcmRlcjoiMXB4IHNvbGlkICNlOGU4ZTgiLCBib3JkZXJSYWRpdXM6IjhweCIsIHBhZGRpbmc6IjEwcHggMTJweCIsIGZvbnRTaXplOiIxM3B4IiwgY29sb3I6IiMzMzMiLCBvdXRsaW5lOiJub25lIiwgYm94U2l6aW5nOiJib3JkZXItYm94IiBhcyBjb25zdCB9OwoKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImZsZXgiLGZsZXhEaXJlY3Rpb246ImNvbHVtbiIsZ2FwOiIxNnB4In19PgoKICAgICAgey8qIFZhdWx0IGhlYWRlciAqL30KICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6ImxpbmVhci1ncmFkaWVudCgxMzVkZWcsIzBBNUMzRiwjMUQ5RTc1KSIsYm9yZGVyUmFkaXVzOiIxMnB4IixwYWRkaW5nOiIyMHB4Iixjb2xvcjoid2hpdGUiLGRpc3BsYXk6ImZsZXgiLGdhcDoiMTZweCIsYWxpZ25JdGVtczoiY2VudGVyIn19PgogICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiNDhweCIsaGVpZ2h0OiI0OHB4IixiYWNrZ3JvdW5kOiJyZ2JhKDI1NSwyNTUsMjU1LDAuMTUpIixib3JkZXJSYWRpdXM6IjEwcHgiLGRpc3BsYXk6ImZsZXgiLGFsaWduSXRlbXM6ImNlbnRlciIsanVzdGlmeUNvbnRlbnQ6ImNlbnRlciIsZm9udFNpemU6IjI0cHgiLGZsZXhTaHJpbms6MH19PvCflJA8L2Rpdj4KICAgICAgICA8ZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxNnB4Iixmb250V2VpZ2h0OiI2MDAiLG1hcmdpbkJvdHRvbToiNHB4In19PkVuY3J5cHRlZCBEb2N1bWVudCBWYXVsdDwvZGl2PgogICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixjb2xvcjoicmdiYSgyNTUsMjU1LDI1NSwwLjc1KSJ9fT5BRVMtMjU2LUdDTSBlbmNyeXB0aW9uIMK3IFRpbWUtbGltaXRlZCBhY2Nlc3MgwrcgSWRlbnRpdHkgd2F0ZXJtYXJraW5nIMK3IEZ1bGwgYXVkaXQgdHJhaWw8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgICAgICA8ZGl2IHN0eWxlPXt7bWFyZ2luTGVmdDoiYXV0byIsdGV4dEFsaWduOiJyaWdodCIsZmxleFNocmluazowfX0+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjIycHgiLGZvbnRXZWlnaHQ6IjcwMCJ9fT57ZG9jcy5sZW5ndGh9PC9kaXY+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjExcHgiLGNvbG9yOiJyZ2JhKDI1NSwyNTUsMjU1LDAuNykifX0+RG9jdW1lbnRzPC9kaXY+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgoKICAgICAgey8qIFNlY3VyaXR5IGJhZGdlcyAqL30KICAgICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImdyaWQiLGdyaWRUZW1wbGF0ZUNvbHVtbnM6InJlcGVhdCg0LDFmcikiLGdhcDoiMTBweCJ9fT4KICAgICAgICB7WwogICAgICAgICAgeyBpY29uOiLwn5SSIiwgbGFiZWw6IkFFUy0yNTYtR0NNIiwgZGVzYzoiTWlsaXRhcnktZ3JhZGUgZW5jcnlwdGlvbiIgfSwKICAgICAgICAgIHsgaWNvbjoi4o+xIiwgbGFiZWw6IlNpZ25lZCBVUkxzIiwgZGVzYzoiTGlua3MgZXhwaXJlIGluIDEyMHMiIH0sCiAgICAgICAgICB7IGljb246IvCfkYEiLCBsYWJlbDoiV2F0ZXJtYXJrZWQiLCBkZXNjOiJZb3VyIGlkZW50aXR5IGVtYmVkZGVkIiB9LAogICAgICAgICAgeyBpY29uOiLwn5OLIiwgbGFiZWw6IkF1ZGl0IExvZyIsIGRlc2M6IkV2ZXJ5IHZpZXcgcmVjb3JkZWQiIH0sCiAgICAgICAgXS5tYXAoYiA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17Yi5sYWJlbH0gc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxMHB4IixwYWRkaW5nOiIxMnB4Iixib3JkZXI6IjFweCBzb2xpZCAjZWVlIix0ZXh0QWxpZ246ImNlbnRlciJ9fT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIyMHB4IixtYXJnaW5Cb3R0b206IjRweCJ9fT57Yi5pY29ufTwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEycHgiLGZvbnRXZWlnaHQ6IjYwMCIsY29sb3I6IiMzMzMiLG1hcmdpbkJvdHRvbToiMnB4In19PntiLmxhYmVsfTwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjExcHgiLGNvbG9yOiIjODg4In19PntiLmRlc2N9PC9kaXY+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICApKX0KICAgICAgPC9kaXY+CgogICAgICB7LyogVXBsb2FkIHNlY3Rpb24gKi99CiAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxMnB4IixwYWRkaW5nOiIyMHB4Iixib3JkZXI6IjFweCBzb2xpZCAjZWVlIn19PgogICAgICAgIDxoMyBzdHlsZT17e2ZvbnRTaXplOiIxNHB4Iixmb250V2VpZ2h0OiI2MDAiLGNvbG9yOiIjMzMzIixtYXJnaW5Cb3R0b206IjE0cHgifX0+VXBsb2FkIERvY3VtZW50PC9oMz4KCiAgICAgICAge3VwbG9hZFN1Y2Nlc3MgJiYgKAogICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IiNFMUY1RUUiLGJvcmRlcjoiMXB4IHNvbGlkIHJnYmEoMTAsOTIsNjMsMC4yKSIsYm9yZGVyUmFkaXVzOiI4cHgiLHBhZGRpbmc6IjEwcHggMTRweCIsbWFyZ2luQm90dG9tOiIxMnB4Iixmb250U2l6ZToiMTNweCIsY29sb3I6IiMwQTVDM0YifX0+CiAgICAgICAgICAgIHt1cGxvYWRTdWNjZXNzfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KICAgICAgICB7dXBsb2FkRXJyb3IgJiYgKAogICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IiNGREVDRUEiLGJvcmRlcjoiMXB4IHNvbGlkIHJnYmEoMTk4LDQwLDQwLDAuMikiLGJvcmRlclJhZGl1czoiOHB4IixwYWRkaW5nOiIxMHB4IDE0cHgiLG1hcmdpbkJvdHRvbToiMTJweCIsZm9udFNpemU6IjEzcHgiLGNvbG9yOiIjQzYyODI4In19PgogICAgICAgICAgICDimqAge3VwbG9hZEVycm9yfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgKX0KCiAgICAgICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImdyaWQiLGdyaWRUZW1wbGF0ZUNvbHVtbnM6IjFmciAxZnIiLGdhcDoiMTJweCIsbWFyZ2luQm90dG9tOiIxMnB4In19PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGxhYmVsIHN0eWxlPXt7Zm9udFNpemU6IjEycHgiLGZvbnRXZWlnaHQ6IjUwMCIsY29sb3I6IiM1NTUiLGRpc3BsYXk6ImJsb2NrIixtYXJnaW5Cb3R0b206IjZweCJ9fT5Eb2N1bWVudCBOYW1lPC9sYWJlbD4KICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIHBsYWNlaG9sZGVyPSJlLmcuIFRpdGxlIERlZWQgLSBMZWtraSBQbG90IiB2YWx1ZT17ZG9jTmFtZX0KICAgICAgICAgICAgICBvbkNoYW5nZT17ZSA9PiBzZXREb2NOYW1lKGUudGFyZ2V0LnZhbHVlKX0gc3R5bGU9e2lucH0gLz4KICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPGRpdj4KICAgICAgICAgICAgPGxhYmVsIHN0eWxlPXt7Zm9udFNpemU6IjEycHgiLGZvbnRXZWlnaHQ6IjUwMCIsY29sb3I6IiM1NTUiLGRpc3BsYXk6ImJsb2NrIixtYXJnaW5Cb3R0b206IjZweCJ9fT5Eb2N1bWVudCBUeXBlPC9sYWJlbD4KICAgICAgICAgICAgPHNlbGVjdCB2YWx1ZT17ZG9jVHlwZX0gb25DaGFuZ2U9e2UgPT4gc2V0RG9jVHlwZShlLnRhcmdldC52YWx1ZSl9IHN0eWxlPXtpbnB9PgogICAgICAgICAgICAgIHtET0NfVFlQRVMubWFwKHQgPT4gPG9wdGlvbiBrZXk9e3QudmFsdWV9IHZhbHVlPXt0LnZhbHVlfT57dC5sYWJlbH08L29wdGlvbj4pfQogICAgICAgICAgICA8L3NlbGVjdD4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogRmlsZSBkcm9wIHpvbmUgKi99CiAgICAgICAgPGRpdiBvbkNsaWNrPXsoKSA9PiBmaWxlUmVmLmN1cnJlbnQ/LmNsaWNrKCl9CiAgICAgICAgICBzdHlsZT17e2JvcmRlcjoiMnB4IGRhc2hlZCAiKyhzZWxlY3RlZEZpbGU/IiMwQTVDM0YiOiIjZThlOGU4IiksYm9yZGVyUmFkaXVzOiIxMHB4IixwYWRkaW5nOiIwIixjdXJzb3I6InBvaW50ZXIiLGJhY2tncm91bmQ6IiNmOGY4ZjgiLG1hcmdpbkJvdHRvbToiMTJweCIsb3ZlcmZsb3c6ImhpZGRlbiIsbWluSGVpZ2h0OiIxMjBweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIn19PgogICAgICAgICAge2ZpbGVQcmV2aWV3ID8gKAogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7d2lkdGg6IjEwMCUiLHBvc2l0aW9uOiJyZWxhdGl2ZSJ9fT4KICAgICAgICAgICAgICA8aW1nIHNyYz17ZmlsZVByZXZpZXd9IGFsdD0iUHJldmlldyIgc3R5bGU9e3t3aWR0aDoiMTAwJSIsbWF4SGVpZ2h0OiIxODBweCIsb2JqZWN0Rml0OiJjb3ZlciIsZGlzcGxheToiYmxvY2sifX0gLz4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7cG9zaXRpb246ImFic29sdXRlIixib3R0b206IjhweCIsbGVmdDoiOHB4IixiYWNrZ3JvdW5kOiJyZ2JhKDEwLDkyLDYzLDAuOCkiLGJvcmRlclJhZGl1czoiNnB4IixwYWRkaW5nOiI0cHggMTBweCIsZm9udFNpemU6IjEycHgiLGNvbG9yOiJ3aGl0ZSJ9fT4KICAgICAgICAgICAgICAgIOKckyB7c2VsZWN0ZWRGaWxlPy5uYW1lfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkgOiBzZWxlY3RlZEZpbGUgPyAoCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t0ZXh0QWxpZ246ImNlbnRlciIscGFkZGluZzoiMjRweCJ9fT4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjM2cHgiLG1hcmdpbkJvdHRvbToiOHB4In19PvCfk4Q8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEzcHgiLGZvbnRXZWlnaHQ6IjUwMCIsY29sb3I6IiMwQTVDM0YifX0+e3NlbGVjdGVkRmlsZS5uYW1lfTwvZGl2PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM4ODgifX0+e2Zvcm1hdFNpemUoc2VsZWN0ZWRGaWxlLnNpemUpfTwvZGl2PgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkgOiAoCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t0ZXh0QWxpZ246ImNlbnRlciIscGFkZGluZzoiMjRweCJ9fT4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjM2cHgiLG1hcmdpbkJvdHRvbToiOHB4In19PvCfk448L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjE0cHgiLGZvbnRXZWlnaHQ6IjUwMCIsY29sb3I6IiM1NTUiLG1hcmdpbkJvdHRvbToiNHB4In19PkNsaWNrIHRvIHVwbG9hZCBkb2N1bWVudDwvZGl2PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiNhYWEifX0+UERGLCBKUEcsIFBORyB1cCB0byAxME1CIMK3IFdpbGwgYmUgZW5jcnlwdGVkIGltbWVkaWF0ZWx5PC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgKX0KICAgICAgICA8L2Rpdj4KICAgICAgICA8aW5wdXQgcmVmPXtmaWxlUmVmfSB0eXBlPSJmaWxlIiBhY2NlcHQ9Ii5wZGYsLmpwZywuanBlZywucG5nLC5kb2MsLmRvY3giIG9uQ2hhbmdlPXtoYW5kbGVGaWxlU2VsZWN0fSBzdHlsZT17e2Rpc3BsYXk6Im5vbmUifX0gLz4KCiAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVVcGxvYWR9IGRpc2FibGVkPXshc2VsZWN0ZWRGaWxlIHx8ICFkb2NOYW1lIHx8IHVwbG9hZGluZ30KICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IjEwMCUiLGJhY2tncm91bmQ6KCFzZWxlY3RlZEZpbGV8fCFkb2NOYW1lfHx1cGxvYWRpbmcpPyIjY2NjIjoiIzBBNUMzRiIsY29sb3I6IndoaXRlIixib3JkZXI6Im5vbmUiLGJvcmRlclJhZGl1czoiOHB4IixwYWRkaW5nOiIxMnB4Iixmb250U2l6ZToiMTRweCIsZm9udFdlaWdodDoiNTAwIixjdXJzb3I6KCFzZWxlY3RlZEZpbGV8fCFkb2NOYW1lfHx1cGxvYWRpbmcpPyJub3QtYWxsb3dlZCI6InBvaW50ZXIifX0+CiAgICAgICAgICB7dXBsb2FkaW5nID8gIvCflJAgRW5jcnlwdGluZyBhbmQgc3RvcmluZy4uLiIgOiAi8J+UkiBFbmNyeXB0ICYgVXBsb2FkIn0KICAgICAgICA8L2J1dHRvbj4KICAgICAgPC9kaXY+CgogICAgICB7LyogRG9jdW1lbnRzIGxpc3QgKi99CiAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxMnB4IixwYWRkaW5nOiIyMHB4Iixib3JkZXI6IjFweCBzb2xpZCAjZWVlIn19PgogICAgICAgIDxoMyBzdHlsZT17e2ZvbnRTaXplOiIxNHB4Iixmb250V2VpZ2h0OiI2MDAiLGNvbG9yOiIjMzMzIixtYXJnaW5Cb3R0b206IjE0cHgifX0+TXkgRW5jcnlwdGVkIERvY3VtZW50czwvaDM+CgogICAgICAgIHtsb2FkaW5nID8gKAogICAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjoiY2VudGVyIixwYWRkaW5nOiIyMHB4Iixjb2xvcjoiIzg4OCJ9fT5Mb2FkaW5nLi4uPC9kaXY+CiAgICAgICAgKSA6IGRvY3MubGVuZ3RoID09PSAwID8gKAogICAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjoiY2VudGVyIixwYWRkaW5nOiIzMHB4Iixjb2xvcjoiIzg4OCJ9fT4KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIzNnB4IixtYXJnaW5Cb3R0b206IjhweCJ9fT7wn5SQPC9kaXY+CiAgICAgICAgICAgIDxwIHN0eWxlPXt7Zm9udFNpemU6IjEzcHgifX0+Tm8gZG9jdW1lbnRzIHVwbG9hZGVkIHlldC4gVXBsb2FkIHlvdXIgZmlyc3QgZG9jdW1lbnQgYWJvdmUuPC9wPgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSA6IGRvY3MubWFwKGRvYyA9PiAoCiAgICAgICAgICA8ZGl2IGtleT17ZG9jLmlkfSBzdHlsZT17e2Rpc3BsYXk6ImZsZXgiLGFsaWduSXRlbXM6ImNlbnRlciIsZ2FwOiIxMnB4IixwYWRkaW5nOiIxMnB4IixiYWNrZ3JvdW5kOiIjZjhmOGY4Iixib3JkZXJSYWRpdXM6IjhweCIsbWFyZ2luQm90dG9tOiI4cHgiLGJvcmRlcjoiMXB4IHNvbGlkICNlZWUifX0+CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiNDBweCIsaGVpZ2h0OiI0MHB4Iixib3JkZXJSYWRpdXM6IjhweCIsYmFja2dyb3VuZDoiI0UxRjVFRSIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmb250U2l6ZToiMThweCIsZmxleFNocmluazowfX0+CiAgICAgICAgICAgICAge2RvYy50eXBlID09PSAiQ19PRl9PIiA/ICLwn5OcIiA6IGRvYy50eXBlID09PSAiU1VSVkVZX1BMQU4iID8gIvCfl7oiIDogZG9jLnR5cGUgPT09ICJLWUMiID8gIvCfqqoiIDogIvCfk4QifQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZsZXg6MSxtaW5XaWR0aDowfX0+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxM3B4Iixmb250V2VpZ2h0OiI1MDAiLGNvbG9yOiIjMzMzIix3aGl0ZVNwYWNlOiJub3dyYXAiLG92ZXJmbG93OiJoaWRkZW4iLHRleHRPdmVyZmxvdzoiZWxsaXBzaXMifX0+e2RvYy5uYW1lfTwvZGl2PgogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTFweCIsY29sb3I6IiM4ODgifX0+CiAgICAgICAgICAgICAgICB7RE9DX1RZUEVTLmZpbmQodD0+dC52YWx1ZT09PWRvYy50eXBlKT8ubGFiZWwgfHwgZG9jLnR5cGV9IMK3IHtmb3JtYXRTaXplKGRvYy5zaXplX2J5dGVzKX0gwrcge25ldyBEYXRlKGRvYy51cGxvYWRlZF9hdCkudG9Mb2NhbGVEYXRlU3RyaW5nKCl9CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsZ2FwOiI2cHgiLGFsaWduSXRlbXM6ImNlbnRlciIsZmxleFNocmluazowfX0+CiAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTBweCIsYmFja2dyb3VuZDoiI0UxRjVFRSIsY29sb3I6IiMwQTVDM0YiLGJvcmRlclJhZGl1czoiNHB4IixwYWRkaW5nOiIycHggN3B4In19PvCflJIgRW5jcnlwdGVkPC9zcGFuPgogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gaGFuZGxlVmlld0RvYyhkb2MuaWQsIGRvYy5uYW1lKX0KICAgICAgICAgICAgICAgIHN0eWxlPXt7YmFja2dyb3VuZDoiIzBBNUMzRiIsY29sb3I6IndoaXRlIixib3JkZXI6Im5vbmUiLGJvcmRlclJhZGl1czoiNnB4IixwYWRkaW5nOiI2cHggMTJweCIsZm9udFNpemU6IjEycHgiLGN1cnNvcjoicG9pbnRlciJ9fT4KICAgICAgICAgICAgICAgIFNlY3VyZSBWaWV3CiAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgPC9kaXY+CiAgICAgICAgKSl9CiAgICAgIDwvZGl2PgoKICAgICAgey8qIERvY3VtZW50IHZpZXdlciBtb2RhbCAqL30KICAgICAge3ZpZXdlci5vcGVuICYmICgKICAgICAgICA8ZGl2IHN0eWxlPXt7cG9zaXRpb246ImZpeGVkIix0b3A6MCxsZWZ0OjAscmlnaHQ6MCxib3R0b206MCxiYWNrZ3JvdW5kOiJyZ2JhKDAsMCwwLDAuNykiLHpJbmRleDoxMDAwLGRpc3BsYXk6ImZsZXgiLGFsaWduSXRlbXM6ImNlbnRlciIsanVzdGlmeUNvbnRlbnQ6ImNlbnRlciIscGFkZGluZzoiMjBweCJ9fT4KICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxNnB4Iix3aWR0aDoiMTAwJSIsbWF4V2lkdGg6IjcwMHB4IixtYXhIZWlnaHQ6IjkwdmgiLG92ZXJmbG93OiJoaWRkZW4iLGRpc3BsYXk6ImZsZXgiLGZsZXhEaXJlY3Rpb246ImNvbHVtbiJ9fT4KCiAgICAgICAgICAgIHsvKiBNb2RhbCBoZWFkZXIgKi99CiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3twYWRkaW5nOiIxNnB4IDIwcHgiLGJvcmRlckJvdHRvbToiMXB4IHNvbGlkICNlZWUiLGRpc3BsYXk6ImZsZXgiLGp1c3RpZnlDb250ZW50OiJzcGFjZS1iZXR3ZWVuIixhbGlnbkl0ZW1zOiJjZW50ZXIiLGZsZXhTaHJpbms6MH19PgogICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjE0cHgiLGZvbnRXZWlnaHQ6IjYwMCIsY29sb3I6IiMzMzMifX0+e3ZpZXdlci5uYW1lfTwvZGl2PgogICAgICAgICAgICAgICAge3ZpZXdlci52aWV3ZWRfYnkgJiYgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMXB4Iixjb2xvcjoiIzBBNUMzRiJ9fT7wn5SSIFdhdGVybWFya2VkIMK3IEV4cGlyZXMgaW4gMTIwczwvZGl2Pn0KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldFZpZXdlcih2PT4oey4uLnYsb3BlbjpmYWxzZX0pKX0KICAgICAgICAgICAgICAgIHN0eWxlPXt7YmFja2dyb3VuZDoiI2YwZjBmMCIsYm9yZGVyOiJub25lIixib3JkZXJSYWRpdXM6IjZweCIscGFkZGluZzoiNnB4IDEycHgiLGZvbnRTaXplOiIxM3B4IixjdXJzb3I6InBvaW50ZXIifX0+CiAgICAgICAgICAgICAgICDinJUgQ2xvc2UKICAgICAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICB7LyogTW9kYWwgYm9keSAqL30KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZsZXg6MSxvdmVyZmxvdzoiYXV0byIscGFkZGluZzoiMjBweCJ9fT4KICAgICAgICAgICAgICB7dmlld2VyLmxvYWRpbmcgJiYgKAogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e3RleHRBbGlnbjoiY2VudGVyIixwYWRkaW5nOiI0MHB4Iixjb2xvcjoiIzg4OCJ9fT4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIzMnB4IixtYXJnaW5Cb3R0b206IjEycHgifX0+8J+UkDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2PkRlY3J5cHRpbmcgZG9jdW1lbnQgYW5kIGFwcGx5aW5nIHdhdGVybWFyay4uLjwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICB7dmlld2VyLmVycm9yICYmICgKICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiIjRkRFQ0VBIixib3JkZXJSYWRpdXM6IjEwcHgiLHBhZGRpbmc6IjIwcHgiLHRleHRBbGlnbjoiY2VudGVyIn19PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjI4cHgiLG1hcmdpbkJvdHRvbToiOHB4In19PuKblDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjE0cHgiLGZvbnRXZWlnaHQ6IjUwMCIsY29sb3I6IiNDNjI4MjgiLG1hcmdpbkJvdHRvbToiNHB4In19PkFjY2VzcyBEZW5pZWQ8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxM3B4Iixjb2xvcjoiI0M2MjgyOCJ9fT57dmlld2VyLmVycm9yfTwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgKX0KICAgICAgICAgICAgICB7IXZpZXdlci5sb2FkaW5nICYmICF2aWV3ZXIuZXJyb3IgJiYgdmlld2VyLmNvbnRlbnRfYmFzZTY0ICYmICgKICAgICAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgICAgIHsvKiBXYXRlcm1hcmsgbm90aWNlICovfQogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiI0ZGRjNDRCIsYm9yZGVyOiIxcHggc29saWQgcmdiYSgxMzMsMTAwLDQsMC4yKSIsYm9yZGVyUmFkaXVzOiI4cHgiLHBhZGRpbmc6IjEwcHggMTRweCIsbWFyZ2luQm90dG9tOiIxNnB4Iixmb250U2l6ZToiMTJweCIsY29sb3I6IiM4NTY0MDQifX0+CiAgICAgICAgICAgICAgICAgICAg4pqgIDxzdHJvbmc+VGhpcyBkb2N1bWVudCBpcyB3YXRlcm1hcmtlZCB3aXRoIHlvdXIgaWRlbnRpdHkuPC9zdHJvbmc+IEFueSBzY3JlZW5zaG90cyBvciBzaGFyZXMgYXJlIHRyYWNlYWJsZSBiYWNrIHRvIHlvdS4KICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICB7LyogV2F0ZXJtYXJrIHRleHQgKi99CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiIjZjhmOGY4Iixib3JkZXJSYWRpdXM6IjZweCIscGFkZGluZzoiOHB4IDEycHgiLG1hcmdpbkJvdHRvbToiMTJweCIsZm9udFNpemU6IjExcHgiLGNvbG9yOiIjODg4Iixmb250RmFtaWx5OiJtb25vc3BhY2UiLHdvcmRCcmVhazoiYnJlYWstYWxsIn19PgogICAgICAgICAgICAgICAgICAgIHt2aWV3ZXIud2F0ZXJtYXJrX3RleHR9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgey8qIERvY3VtZW50IHdpdGggd2F0ZXJtYXJrIG92ZXJsYXkgKi99CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3twb3NpdGlvbjoicmVsYXRpdmUiLGJvcmRlcjoiMXB4IHNvbGlkICNlZWUiLGJvcmRlclJhZGl1czoiOHB4IixvdmVyZmxvdzoiaGlkZGVuIixtaW5IZWlnaHQ6IjMwMHB4IixiYWNrZ3JvdW5kOiIjZmFmYWZhIixkaXNwbGF5OiJmbGV4IixhbGlnbkl0ZW1zOiJjZW50ZXIiLGp1c3RpZnlDb250ZW50OiJjZW50ZXIifX0+CiAgICAgICAgICAgICAgICAgICAgey8qIENoZWNrIGlmIGl0J3MgYW4gaW1hZ2UgKi99CiAgICAgICAgICAgICAgICAgICAge3ZpZXdlci5jb250ZW50X2Jhc2U2NC5zdGFydHNXaXRoKCIvOWovIikgfHwgdmlld2VyLmNvbnRlbnRfYmFzZTY0LnN0YXJ0c1dpdGgoImlWQk9SIikgPyAoCiAgICAgICAgICAgICAgICAgICAgICA8aW1nCiAgICAgICAgICAgICAgICAgICAgICAgIHNyYz17YGRhdGE6aW1hZ2UvanBlZztiYXNlNjQsJHt2aWV3ZXIuY29udGVudF9iYXNlNjR9YH0KICAgICAgICAgICAgICAgICAgICAgICAgYWx0PXt2aWV3ZXIubmFtZX0KICAgICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3ttYXhXaWR0aDoiMTAwJSIsZGlzcGxheToiYmxvY2sifX0KICAgICAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgICAgKSA6ICgKICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t0ZXh0QWxpZ246ImNlbnRlciIscGFkZGluZzoiNDBweCIsY29sb3I6IiM4ODgifX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiNDhweCIsbWFyZ2luQm90dG9tOiIxMnB4In19PvCfk4Q8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxNHB4Iixmb250V2VpZ2h0OiI1MDAiLGNvbG9yOiIjMzMzIixtYXJnaW5Cb3R0b206IjhweCJ9fT57dmlld2VyLm5hbWV9PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM4ODgiLG1hcmdpbkJvdHRvbToiMTZweCJ9fT5Eb2N1bWVudCBkZWNyeXB0ZWQgc3VjY2Vzc2Z1bGx5PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiIjRTFGNUVFIixib3JkZXJSYWRpdXM6IjZweCIscGFkZGluZzoiOHB4IDE0cHgiLGRpc3BsYXk6ImlubGluZS1ibG9jayIsZm9udFNpemU6IjEycHgiLGNvbG9yOiIjMEE1QzNGIn19PgogICAgICAgICAgICAgICAgICAgICAgICAgIOKckyBBRVMtMjU2LUdDTSBkZWNyeXB0aW9uIHN1Y2Nlc3NmdWwKICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgIHsvKiBTVkcgd2F0ZXJtYXJrIG92ZXJsYXkgKi99CiAgICAgICAgICAgICAgICAgICAgPGRpdgogICAgICAgICAgICAgICAgICAgICAgc3R5bGU9e3twb3NpdGlvbjoiYWJzb2x1dGUiLHRvcDowLGxlZnQ6MCxyaWdodDowLGJvdHRvbTowLHBvaW50ZXJFdmVudHM6Im5vbmUifX0KICAgICAgICAgICAgICAgICAgICAgIGRhbmdlcm91c2x5U2V0SW5uZXJIVE1MPXt7IF9faHRtbDogdmlld2VyLndhdGVybWFya19zdmcgfX0KICAgICAgICAgICAgICAgICAgICAvPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3ttYXJnaW5Ub3A6IjEycHgiLGZvbnRTaXplOiIxMXB4Iixjb2xvcjoiI2FhYSIsdGV4dEFsaWduOiJjZW50ZXIifX0+CiAgICAgICAgICAgICAgICAgICAgVmlld2VkIGJ5IHt2aWV3ZXIudmlld2VkX2J5fSDCtyB7bmV3IERhdGUodmlld2VyLnZpZXdlZF9hdCkudG9Mb2NhbGVTdHJpbmcoKX0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICApfQogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgogICAgICApfQogICAgPC9kaXY+CiAgKTsKfQoNCg=="}
+"use client";
+import { useState, useRef, useEffect } from "react";
+
+const API = "http://localhost:8000/api/v1";
+
+const DOC_TYPES = [
+  { value:"C_OF_O", label:"Certificate of Occupancy (C of O)" },
+  { value:"SURVEY_PLAN", label:"Survey Plan" },
+  { value:"DEED", label:"Deed of Assignment" },
+  { value:"GOVERNORS_CONSENT", label:"Governor's Consent" },
+  { value:"RECEIPT", label:"Payment Receipt" },
+  { value:"KYC", label:"Identity Document" },
+  { value:"OTHER", label:"Other Document" },
+];
+
+interface Document {
+  id: string;
+  name: string;
+  type: string;
+  size_bytes: number;
+  uploaded_at: string;
+  encrypted: boolean;
+  property_id?: string;
+}
+
+interface ViewerState {
+  open: boolean;
+  loading: boolean;
+  error: string;
+  name: string;
+  watermark_svg: string;
+  watermark_text: string;
+  content_base64: string;
+  viewed_by: string;
+  viewed_at: string;
+}
+
+export default function DocumentVault() {
+  const [docs, setDocs] = useState<Document[]>([]);
+  const [loading, setLoading] = useState(true);
+  const [uploading, setUploading] = useState(false);
+  const [uploadError, setUploadError] = useState("");
+  const [uploadSuccess, setUploadSuccess] = useState("");
+  const [docType, setDocType] = useState("C_OF_O");
+  const [docName, setDocName] = useState("");
+  const [selectedFile, setSelectedFile] = useState<File | null>(null);
+  const [filePreview, setFilePreview] = useState<string | null>(null);
+  const fileRef = useRef<HTMLInputElement>(null);
+
+  const [viewer, setViewer] = useState<ViewerState>({
+    open: false, loading: false, error: "",
+    name: "", watermark_svg: "", watermark_text: "",
+    content_base64: "", viewed_by: "", viewed_at: "",
+  });
+
+  const token = typeof window !== "undefined" ? sessionStorage.getItem("access_token") : "";
+
+  useEffect(() => { loadDocs(); }, []);
+
+  const loadDocs = async () => {
+    setLoading(true);
+    try {
+      const res = await fetch(`${API}/documents/my`, {
+        headers: { Authorization: `Bearer ${token}` },
+      });
+      const data = await res.json();
+      if (res.ok) setDocs(data.documents || []);
+    } catch {}
+    setLoading(false);
+  };
+
+  const handleFileSelect = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    if (file.size > 10 * 1024 * 1024) { setUploadError("File must be under 10MB"); return; }
+    setSelectedFile(file);
+    setUploadError("");
+    if (!docName) setDocName(file.name.replace(/\.[^/.]+$/, ""));
+    if (file.type.startsWith("image/")) {
+      const reader = new FileReader();
+      reader.onload = e => setFilePreview(e.target?.result as string);
+      reader.readAsDataURL(file);
+    } else {
+      setFilePreview(null);
+    }
+  };
+
+  const handleUpload = async () => {
+    if (!selectedFile || !docName) return;
+    setUploading(true);
+    setUploadError("");
+    try {
+      const reader = new FileReader();
+      reader.onload = async (e) => {
+        const base64 = (e.target?.result as string).split(",")[1];
+        const res = await fetch(`${API}/documents/upload`, {
+          method: "POST",
+          headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+          body: JSON.stringify({ name: docName, type: docType, data_base64: base64 }),
+        });
+        const data = await res.json();
+        if (res.ok) {
+          setUploadSuccess(`✓ "${docName}" encrypted and stored securely`);
+          setSelectedFile(null); setDocName(""); setFilePreview(null);
+          if (fileRef.current) fileRef.current.value = "";
+          setTimeout(() => setUploadSuccess(""), 4000);
+          await loadDocs();
+        } else {
+          setUploadError(data.detail || "Upload failed");
+        }
+        setUploading(false);
+      };
+      reader.readAsDataURL(selectedFile);
+    } catch {
+      setUploadError("Cannot connect to server");
+      setUploading(false);
+    }
+  };
+
+  const handleViewDoc = async (docId: string, docName: string) => {
+    setViewer({ open: true, loading: true, error: "", name: docName, watermark_svg: "", watermark_text: "", content_base64: "", viewed_by: "", viewed_at: "" });
+    try {
+      // Get signed URL
+      const urlRes = await fetch(`${API}/documents/signed-url`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ document_id: docId, expires_in: 120 }),
+      });
+      const urlData = await urlRes.json();
+      if (!urlRes.ok) { setViewer(v => ({ ...v, loading: false, error: urlData.detail || "Access denied" })); return; }
+
+      // Fetch document via signed URL
+      const viewRes = await fetch(urlData.signed_url);
+      const viewData = await viewRes.json();
+      if (!viewRes.ok) { setViewer(v => ({ ...v, loading: false, error: viewData.detail || "Link expired" })); return; }
+
+      setViewer({
+        open: true, loading: false, error: "",
+        name: viewData.name,
+        watermark_svg: viewData.watermark_svg,
+        watermark_text: viewData.watermark_text,
+        content_base64: viewData.content_base64,
+        viewed_by: viewData.viewed_by,
+        viewed_at: viewData.viewed_at,
+      });
+    } catch {
+      setViewer(v => ({ ...v, loading: false, error: "Failed to load document" }));
+    }
+  };
+
+  const formatSize = (bytes: number) => {
+    if (bytes >= 1024 * 1024) return (bytes / (1024 * 1024)).toFixed(1) + " MB";
+    if (bytes >= 1024) return (bytes / 1024).toFixed(0) + " KB";
+    return bytes + " B";
+  };
+
+  const inp = { width:"100%", background:"#f8f8f8", border:"1px solid #e8e8e8", borderRadius:"8px", padding:"10px 12px", fontSize:"13px", color:"#333", outline:"none", boxSizing:"border-box" as const };
+
+  return (
+    <div style={{display:"flex",flexDirection:"column",gap:"16px"}}>
+
+      {/* Vault header */}
+      <div style={{background:"linear-gradient(135deg,#0A5C3F,#1D9E75)",borderRadius:"12px",padding:"20px",color:"white",display:"flex",gap:"16px",alignItems:"center"}}>
+        <div style={{width:"48px",height:"48px",background:"rgba(255,255,255,0.15)",borderRadius:"10px",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"24px",flexShrink:0}}>🔐</div>
+        <div>
+          <div style={{fontSize:"16px",fontWeight:"600",marginBottom:"4px"}}>Encrypted Document Vault</div>
+          <div style={{fontSize:"12px",color:"rgba(255,255,255,0.75)"}}>AES-256-GCM encryption · Time-limited access · Identity watermarking · Full audit trail</div>
+        </div>
+        <div style={{marginLeft:"auto",textAlign:"right",flexShrink:0}}>
+          <div style={{fontSize:"22px",fontWeight:"700"}}>{docs.length}</div>
+          <div style={{fontSize:"11px",color:"rgba(255,255,255,0.7)"}}>Documents</div>
+        </div>
+      </div>
+
+      {/* Security badges */}
+      <div style={{display:"grid",gridTemplateColumns:"repeat(4,1fr)",gap:"10px"}}>
+        {[
+          { icon:"🔒", label:"AES-256-GCM", desc:"Military-grade encryption" },
+          { icon:"⏱", label:"Signed URLs", desc:"Links expire in 120s" },
+          { icon:"👁", label:"Watermarked", desc:"Your identity embedded" },
+          { icon:"📋", label:"Audit Log", desc:"Every view recorded" },
+        ].map(b => (
+          <div key={b.label} style={{background:"white",borderRadius:"10px",padding:"12px",border:"1px solid #eee",textAlign:"center"}}>
+            <div style={{fontSize:"20px",marginBottom:"4px"}}>{b.icon}</div>
+            <div style={{fontSize:"12px",fontWeight:"600",color:"#333",marginBottom:"2px"}}>{b.label}</div>
+            <div style={{fontSize:"11px",color:"#888"}}>{b.desc}</div>
+          </div>
+        ))}
+      </div>
+
+      {/* Upload section */}
+      <div style={{background:"white",borderRadius:"12px",padding:"20px",border:"1px solid #eee"}}>
+        <h3 style={{fontSize:"14px",fontWeight:"600",color:"#333",marginBottom:"14px"}}>Upload Document</h3>
+
+        {uploadSuccess && (
+          <div style={{background:"#E1F5EE",border:"1px solid rgba(10,92,63,0.2)",borderRadius:"8px",padding:"10px 14px",marginBottom:"12px",fontSize:"13px",color:"#0A5C3F"}}>
+            {uploadSuccess}
+          </div>
+        )}
+        {uploadError && (
+          <div style={{background:"#FDECEA",border:"1px solid rgba(198,40,40,0.2)",borderRadius:"8px",padding:"10px 14px",marginBottom:"12px",fontSize:"13px",color:"#C62828"}}>
+            ⚠ {uploadError}
+          </div>
+        )}
+
+        <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:"12px",marginBottom:"12px"}}>
+          <div>
+            <label style={{fontSize:"12px",fontWeight:"500",color:"#555",display:"block",marginBottom:"6px"}}>Document Name</label>
+            <input type="text" placeholder="e.g. Title Deed - Lekki Plot" value={docName}
+              onChange={e => setDocName(e.target.value)} style={inp} />
+          </div>
+          <div>
+            <label style={{fontSize:"12px",fontWeight:"500",color:"#555",display:"block",marginBottom:"6px"}}>Document Type</label>
+            <select value={docType} onChange={e => setDocType(e.target.value)} style={inp}>
+              {DOC_TYPES.map(t => <option key={t.value} value={t.value}>{t.label}</option>)}
+            </select>
+          </div>
+        </div>
+
+        {/* File drop zone */}
+        <div onClick={() => fileRef.current?.click()}
+          style={{border:"2px dashed "+(selectedFile?"#0A5C3F":"#e8e8e8"),borderRadius:"10px",padding:"0",cursor:"pointer",background:"#f8f8f8",marginBottom:"12px",overflow:"hidden",minHeight:"120px",display:"flex",alignItems:"center",justifyContent:"center"}}>
+          {filePreview ? (
+            <div style={{width:"100%",position:"relative"}}>
+              <img src={filePreview} alt="Preview" style={{width:"100%",maxHeight:"180px",objectFit:"cover",display:"block"}} />
+              <div style={{position:"absolute",bottom:"8px",left:"8px",background:"rgba(10,92,63,0.8)",borderRadius:"6px",padding:"4px 10px",fontSize:"12px",color:"white"}}>
+                ✓ {selectedFile?.name}
+              </div>
+            </div>
+          ) : selectedFile ? (
+            <div style={{textAlign:"center",padding:"24px"}}>
+              <div style={{fontSize:"36px",marginBottom:"8px"}}>📄</div>
+              <div style={{fontSize:"13px",fontWeight:"500",color:"#0A5C3F"}}>{selectedFile.name}</div>
+              <div style={{fontSize:"12px",color:"#888"}}>{formatSize(selectedFile.size)}</div>
+            </div>
+          ) : (
+            <div style={{textAlign:"center",padding:"24px"}}>
+              <div style={{fontSize:"36px",marginBottom:"8px"}}>📎</div>
+              <div style={{fontSize:"14px",fontWeight:"500",color:"#555",marginBottom:"4px"}}>Click to upload document</div>
+              <div style={{fontSize:"12px",color:"#aaa"}}>PDF, JPG, PNG up to 10MB · Will be encrypted immediately</div>
+            </div>
+          )}
+        </div>
+        <input ref={fileRef} type="file" accept=".pdf,.jpg,.jpeg,.png,.doc,.docx" onChange={handleFileSelect} style={{display:"none"}} />
+
+        <button onClick={handleUpload} disabled={!selectedFile || !docName || uploading}
+          style={{width:"100%",background:(!selectedFile||!docName||uploading)?"#ccc":"#0A5C3F",color:"white",border:"none",borderRadius:"8px",padding:"12px",fontSize:"14px",fontWeight:"500",cursor:(!selectedFile||!docName||uploading)?"not-allowed":"pointer"}}>
+          {uploading ? "🔐 Encrypting and storing..." : "🔒 Encrypt & Upload"}
+        </button>
+      </div>
+
+      {/* Documents list */}
+      <div style={{background:"white",borderRadius:"12px",padding:"20px",border:"1px solid #eee"}}>
+        <h3 style={{fontSize:"14px",fontWeight:"600",color:"#333",marginBottom:"14px"}}>My Encrypted Documents</h3>
+
+        {loading ? (
+          <div style={{textAlign:"center",padding:"20px",color:"#888"}}>Loading...</div>
+        ) : docs.length === 0 ? (
+          <div style={{textAlign:"center",padding:"30px",color:"#888"}}>
+            <div style={{fontSize:"36px",marginBottom:"8px"}}>🔐</div>
+            <p style={{fontSize:"13px"}}>No documents uploaded yet. Upload your first document above.</p>
+          </div>
+        ) : docs.map(doc => (
+          <div key={doc.id} style={{display:"flex",alignItems:"center",gap:"12px",padding:"12px",background:"#f8f8f8",borderRadius:"8px",marginBottom:"8px",border:"1px solid #eee"}}>
+            <div style={{width:"40px",height:"40px",borderRadius:"8px",background:"#E1F5EE",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"18px",flexShrink:0}}>
+              {doc.type === "C_OF_O" ? "📜" : doc.type === "SURVEY_PLAN" ? "🗺" : doc.type === "KYC" ? "🪪" : "📄"}
+            </div>
+            <div style={{flex:1,minWidth:0}}>
+              <div style={{fontSize:"13px",fontWeight:"500",color:"#333",whiteSpace:"nowrap",overflow:"hidden",textOverflow:"ellipsis"}}>{doc.name}</div>
+              <div style={{fontSize:"11px",color:"#888"}}>
+                {DOC_TYPES.find(t=>t.value===doc.type)?.label || doc.type} · {formatSize(doc.size_bytes)} · {new Date(doc.uploaded_at).toLocaleDateString()}
+              </div>
+            </div>
+            <div style={{display:"flex",gap:"6px",alignItems:"center",flexShrink:0}}>
+              <span style={{fontSize:"10px",background:"#E1F5EE",color:"#0A5C3F",borderRadius:"4px",padding:"2px 7px"}}>🔒 Encrypted</span>
+              <button onClick={() => handleViewDoc(doc.id, doc.name)}
+                style={{background:"#0A5C3F",color:"white",border:"none",borderRadius:"6px",padding:"6px 12px",fontSize:"12px",cursor:"pointer"}}>
+                Secure View
+              </button>
+            </div>
+          </div>
+        ))}
+      </div>
+
+      {/* Document viewer modal */}
+      {viewer.open && (
+        <div style={{position:"fixed",top:0,left:0,right:0,bottom:0,background:"rgba(0,0,0,0.7)",zIndex:1000,display:"flex",alignItems:"center",justifyContent:"center",padding:"20px"}}>
+          <div style={{background:"white",borderRadius:"16px",width:"100%",maxWidth:"700px",maxHeight:"90vh",overflow:"hidden",display:"flex",flexDirection:"column"}}>
+
+            {/* Modal header */}
+            <div style={{padding:"16px 20px",borderBottom:"1px solid #eee",display:"flex",justifyContent:"space-between",alignItems:"center",flexShrink:0}}>
+              <div>
+                <div style={{fontSize:"14px",fontWeight:"600",color:"#333"}}>{viewer.name}</div>
+                {viewer.viewed_by && <div style={{fontSize:"11px",color:"#0A5C3F"}}>🔒 Watermarked · Expires in 120s</div>}
+              </div>
+              <button onClick={() => setViewer(v=>({...v,open:false}))}
+                style={{background:"#f0f0f0",border:"none",borderRadius:"6px",padding:"6px 12px",fontSize:"13px",cursor:"pointer"}}>
+                ✕ Close
+              </button>
+            </div>
+
+            {/* Modal body */}
+            <div style={{flex:1,overflow:"auto",padding:"20px"}}>
+              {viewer.loading && (
+                <div style={{textAlign:"center",padding:"40px",color:"#888"}}>
+                  <div style={{fontSize:"32px",marginBottom:"12px"}}>🔐</div>
+                  <div>Decrypting document and applying watermark...</div>
+                </div>
+              )}
+              {viewer.error && (
+                <div style={{background:"#FDECEA",borderRadius:"10px",padding:"20px",textAlign:"center"}}>
+                  <div style={{fontSize:"28px",marginBottom:"8px"}}>⛔</div>
+                  <div style={{fontSize:"14px",fontWeight:"500",color:"#C62828",marginBottom:"4px"}}>Access Denied</div>
+                  <div style={{fontSize:"13px",color:"#C62828"}}>{viewer.error}</div>
+                </div>
+              )}
+              {!viewer.loading && !viewer.error && viewer.content_base64 && (
+                <div>
+                  {/* Watermark notice */}
+                  <div style={{background:"#FFF3CD",border:"1px solid rgba(133,100,4,0.2)",borderRadius:"8px",padding:"10px 14px",marginBottom:"16px",fontSize:"12px",color:"#856404"}}>
+                    ⚠ <strong>This document is watermarked with your identity.</strong> Any screenshots or shares are traceable back to you.
+                  </div>
+
+                  {/* Watermark text */}
+                  <div style={{background:"#f8f8f8",borderRadius:"6px",padding:"8px 12px",marginBottom:"12px",fontSize:"11px",color:"#888",fontFamily:"monospace",wordBreak:"break-all"}}>
+                    {viewer.watermark_text}
+                  </div>
+
+                  {/* Document with watermark overlay */}
+                  <div style={{position:"relative",border:"1px solid #eee",borderRadius:"8px",overflow:"hidden",minHeight:"300px",background:"#fafafa",display:"flex",alignItems:"center",justifyContent:"center"}}>
+                    {/* Check if it's an image */}
+                    {viewer.content_base64.startsWith("/9j/") || viewer.content_base64.startsWith("iVBOR") ? (
+                      <img
+                        src={`data:image/jpeg;base64,${viewer.content_base64}`}
+                        alt={viewer.name}
+                        style={{maxWidth:"100%",display:"block"}}
+                      />
+                    ) : (
+                      <div style={{textAlign:"center",padding:"40px",color:"#888"}}>
+                        <div style={{fontSize:"48px",marginBottom:"12px"}}>📄</div>
+                        <div style={{fontSize:"14px",fontWeight:"500",color:"#333",marginBottom:"8px"}}>{viewer.name}</div>
+                        <div style={{fontSize:"12px",color:"#888",marginBottom:"16px"}}>Document decrypted successfully</div>
+                        <div style={{background:"#E1F5EE",borderRadius:"6px",padding:"8px 14px",display:"inline-block",fontSize:"12px",color:"#0A5C3F"}}>
+                          ✓ AES-256-GCM decryption successful
+                        </div>
+                      </div>
+                    )}
+                    {/* SVG watermark overlay */}
+                    <div
+                      style={{position:"absolute",top:0,left:0,right:0,bottom:0,pointerEvents:"none"}}
+                      dangerouslySetInnerHTML={{ __html: viewer.watermark_svg }}
+                    />
+                  </div>
+
+                  <div style={{marginTop:"12px",fontSize:"11px",color:"#aaa",textAlign:"center"}}>
+                    Viewed by {viewer.viewed_by} · {new Date(viewer.viewed_at).toLocaleString()}
+                  </div>
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+

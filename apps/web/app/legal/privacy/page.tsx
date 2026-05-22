@@ -1,1 +1,37 @@
-{"data":"77u/InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUHJpdmFjeVBhZ2UoKSB7CiAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7CiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgZm9udEZhbWlseTogInN5c3RlbS11aSxzYW5zLXNlcmlmIiwgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAiI2Y1ZjVmNSIgfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwQTVDM0YiLCBwYWRkaW5nOiAiMTZweCAyNHB4IiB9fT4KICAgICAgICA8c3BhbiBvbkNsaWNrPXsoKSA9PiByb3V0ZXIucHVzaCgiLyIpfSBzdHlsZT17eyBjb2xvcjogIndoaXRlIiwgZm9udFNpemU6ICIyMHB4IiwgZm9udFdlaWdodDogIjYwMCIsIGN1cnNvcjogInBvaW50ZXIiIH19PgogICAgICAgICAgTGFuZDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAiI0ZBQzc3NSIgfX0+VmVyaWZ5PC9zcGFuPgogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CiAgICAgIDxkaXYgc3R5bGU9e3sgbWF4V2lkdGg6ICI4MDBweCIsIG1hcmdpbjogIjQwcHggYXV0byIsIHBhZGRpbmc6ICIwIDI0cHgiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIndoaXRlIiwgYm9yZGVyUmFkaXVzOiAiMTZweCIsIHBhZGRpbmc6ICI0MHB4IiwgYm9yZGVyOiAiMXB4IHNvbGlkICNlZWUiIH19PgogICAgICAgICAgPGgxIHN0eWxlPXt7IGZvbnRTaXplOiAiMjhweCIsIGZvbnRXZWlnaHQ6ICI3MDAiLCBjb2xvcjogIiMwQTVDM0YiLCBtYXJnaW5Cb3R0b206ICI4cHgiIH19PlByaXZhY3kgUG9saWN5PC9oMT4KICAgICAgICAgIDxwIHN0eWxlPXt7IGNvbG9yOiAiIzg4OCIsIG1hcmdpbkJvdHRvbTogIjMycHgiIH19Pkxhc3QgdXBkYXRlZDogTWF5IDIwMjY8L3A+CgogICAgICAgICAge1sKICAgICAgICAgICAgeyB0aXRsZTogIjEuIEluZm9ybWF0aW9uIFdlIENvbGxlY3QiLCBjb250ZW50OiAiV2UgY29sbGVjdDogZnVsbCBuYW1lLCBlbWFpbCBhZGRyZXNzLCBwaG9uZSBudW1iZXIsIE5JTiAoaGFzaGVkKSwgcHJvZmlsZSBwaG90bywgcHJvcGVydHkgbGlzdGluZ3MsIGNoYXQgbWVzc2FnZXMsIGFuZCBwYXltZW50IHRyYW5zYWN0aW9uIGRhdGEuIFdlIGRvIG5vdCBzdG9yZSB5b3VyIHJhdyBOSU4gbnVtYmVyLiIgfSwKICAgICAgICAgICAgeyB0aXRsZTogIjIuIEhvdyBXZSBVc2UgWW91ciBJbmZvcm1hdGlvbiIsIGNvbnRlbnQ6ICJXZSB1c2UgeW91ciBpbmZvcm1hdGlvbiB0bzogdmVyaWZ5IHlvdXIgaWRlbnRpdHkgYWdhaW5zdCB0aGUgTklNQyByZWdpc3RyeSwgZmFjaWxpdGF0ZSBwcm9wZXJ0eSB0cmFuc2FjdGlvbnMsIHNlbmQgdHJhbnNhY3Rpb25hbCBlbWFpbHMgKHdlbGNvbWUsIEtZQywgcGF5bWVudCBjb25maXJtYXRpb25zKSwgYW5kIGltcHJvdmUgb3VyIHBsYXRmb3JtLiIgfSwKICAgICAgICAgICAgeyB0aXRsZTogIjMuIERhdGEgU2VjdXJpdHkiLCBjb250ZW50OiAiQWxsIHNlbnNpdGl2ZSBkYXRhIGlzIGVuY3J5cHRlZCBhdCByZXN0IHVzaW5nIEFFUy0yNTYtR0NNLiBQYXNzd29yZHMgYXJlIGhhc2hlZCB1c2luZyBiY3J5cHQgd2l0aCAxMiByb3VuZHMuIE5JTnMgYXJlIHN0b3JlZCBhcyBTSEEtMjU2IGhhc2hlcyBvbmx5LiBEb2N1bWVudCB2YXVsdCBmaWxlcyB1c2UgdGltZS1saW1pdGVkIHNpZ25lZCBVUkxzIHdpdGggaWRlbnRpdHkgd2F0ZXJtYXJrcy4iIH0sCiAgICAgICAgICAgIHsgdGl0bGU6ICI0LiBUaGlyZC1QYXJ0eSBTZXJ2aWNlcyIsIGNvbnRlbnQ6ICJXZSB1c2U6IFNtaWxlIElkZW50aXR5IGZvciBOSU4gdmVyaWZpY2F0aW9uLCBQYXlzdGFjayBmb3IgcGF5bWVudCBwcm9jZXNzaW5nLCBSZXNlbmQgZm9yIHRyYW5zYWN0aW9uYWwgZW1haWxzLiBFYWNoIHByb3ZpZGVyIGhhcyB0aGVpciBvd24gcHJpdmFjeSBwb2xpY3kgZ292ZXJuaW5nIGRhdGEgdGhleSBwcm9jZXNzLiIgfSwKICAgICAgICAgICAgeyB0aXRsZTogIjUuIERhdGEgUmV0ZW50aW9uIiwgY29udGVudDogIldlIHJldGFpbiB5b3VyIGFjY291bnQgZGF0YSBmb3IgYXMgbG9uZyBhcyB5b3VyIGFjY291bnQgaXMgYWN0aXZlLiBUcmFuc2FjdGlvbiByZWNvcmRzIGFyZSByZXRhaW5lZCBmb3IgNyB5ZWFycyBhcyByZXF1aXJlZCBieSBOaWdlcmlhbiBmaW5hbmNpYWwgcmVndWxhdGlvbnMuIFlvdSBtYXkgcmVxdWVzdCBkZWxldGlvbiBvZiB5b3VyIGFjY291bnQgYnkgY29udGFjdGluZyB1cy4iIH0sCiAgICAgICAgICAgIHsgdGl0bGU6ICI2LiBZb3VyIFJpZ2h0cyIsIGNvbnRlbnQ6ICJZb3UgaGF2ZSB0aGUgcmlnaHQgdG86IGFjY2VzcyB5b3VyIHBlcnNvbmFsIGRhdGEsIGNvcnJlY3QgaW5hY2N1cmF0ZSBkYXRhLCByZXF1ZXN0IGRlbGV0aW9uIG9mIHlvdXIgZGF0YSwgYW5kIG9wdCBvdXQgb2YgbWFya2V0aW5nIGNvbW11bmljYXRpb25zLiBDb250YWN0IHByaXZhY3lAbGFuZHZlcmlmeS5uZyB0byBleGVyY2lzZSB0aGVzZSByaWdodHMuIiB9LAogICAgICAgICAgICB7IHRpdGxlOiAiNy4gQ29va2llcyIsIGNvbnRlbnQ6ICJXZSB1c2Ugc2Vzc2lvbiBjb29raWVzIGZvciBhdXRoZW50aWNhdGlvbiBvbmx5LiBXZSBkbyBub3QgdXNlIHRyYWNraW5nIG9yIGFkdmVydGlzaW5nIGNvb2tpZXMuIFlvdSBjYW4gZGlzYWJsZSBjb29raWVzIGluIHlvdXIgYnJvd3NlciBzZXR0aW5ncy4iIH0sCiAgICAgICAgICAgIHsgdGl0bGU6ICI4LiBDb250YWN0IiwgY29udGVudDogIkZvciBwcml2YWN5IHF1ZXN0aW9ucywgY29udGFjdCBvdXIgRGF0YSBQcm90ZWN0aW9uIE9mZmljZXIgYXQgcHJpdmFjeUBsYW5kdmVyaWZ5Lm5nIiB9LAogICAgICAgICAgXS5tYXAoc2VjdGlvbiA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtzZWN0aW9uLnRpdGxlfSBzdHlsZT17eyBtYXJnaW5Cb3R0b206ICIyNHB4IiB9fT4KICAgICAgICAgICAgICA8aDIgc3R5bGU9e3sgZm9udFNpemU6ICIxNnB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzIyMiIsIG1hcmdpbkJvdHRvbTogIjhweCIgfX0+e3NlY3Rpb24udGl0bGV9PC9oMj4KICAgICAgICAgICAgICA8cCBzdHlsZT17eyBmb250U2l6ZTogIjE0cHgiLCBjb2xvcjogIiM1NTUiLCBsaW5lSGVpZ2h0OiAiMS44IiwgbWFyZ2luOiAwIH19PntzZWN0aW9uLmNvbnRlbnR9PC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+﻿"use client";
+import { useRouter } from "next/navigation";
+
+export default function PrivacyPage() {
+  const router = useRouter();
+  return (
+    <div style={{ fontFamily: "system-ui,sans-serif", minHeight: "100vh", background: "#f5f5f5" }}>
+      <div style={{ background: "#0A5C3F", padding: "16px 24px" }}>
+        <span onClick={() => router.push("/")} style={{ color: "white", fontSize: "20px", fontWeight: "600", cursor: "pointer" }}>
+          Land<span style={{ color: "#FAC775" }}>Verify</span>
+        </span>
+      </div>
+      <div style={{ maxWidth: "800px", margin: "40px auto", padding: "0 24px" }}>
+        <div style={{ background: "white", borderRadius: "16px", padding: "40px", border: "1px solid #eee" }}>
+          <h1 style={{ fontSize: "28px", fontWeight: "700", color: "#0A5C3F", marginBottom: "8px" }}>Privacy Policy</h1>
+          <p style={{ color: "#888", marginBottom: "32px" }}>Last updated: May 2026</p>
+
+          {[
+            { title: "1. Information We Collect", content: "We collect: full name, email address, phone number, NIN (hashed), profile photo, property listings, chat messages, and payment transaction data. We do not store your raw NIN number." },
+            { title: "2. How We Use Your Information", content: "We use your information to: verify your identity against the NIMC registry, facilitate property transactions, send transactional emails (welcome, KYC, payment confirmations), and improve our platform." },
+            { title: "3. Data Security", content: "All sensitive data is encrypted at rest using AES-256-GCM. Passwords are hashed using bcrypt with 12 rounds. NINs are stored as SHA-256 hashes only. Document vault files use time-limited signed URLs with identity watermarks." },
+            { title: "4. Third-Party Services", content: "We use: Smile Identity for NIN verification, Paystack for payment processing, Resend for transactional emails. Each provider has their own privacy policy governing data they process." },
+            { title: "5. Data Retention", content: "We retain your account data for as long as your account is active. Transaction records are retained for 7 years as required by Nigerian financial regulations. You may request deletion of your account by contacting us." },
+            { title: "6. Your Rights", content: "You have the right to: access your personal data, correct inaccurate data, request deletion of your data, and opt out of marketing communications. Contact privacy@landverify.ng to exercise these rights." },
+            { title: "7. Cookies", content: "We use session cookies for authentication only. We do not use tracking or advertising cookies. You can disable cookies in your browser settings." },
+            { title: "8. Contact", content: "For privacy questions, contact our Data Protection Officer at privacy@landverify.ng" },
+          ].map(section => (
+            <div key={section.title} style={{ marginBottom: "24px" }}>
+              <h2 style={{ fontSize: "16px", fontWeight: "600", color: "#222", marginBottom: "8px" }}>{section.title}</h2>
+              <p style={{ fontSize: "14px", color: "#555", lineHeight: "1.8", margin: 0 }}>{section.content}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}

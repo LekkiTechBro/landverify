@@ -1,1 +1,23 @@
-{"data":"77u/aW1wb3J0IHsgTmV4dFJlc3BvbnNlIH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwppbXBvcnQgdHlwZSB7IE5leHRSZXF1ZXN0IH0gZnJvbSAibmV4dC9zZXJ2ZXIiOwoKY29uc3QgUFJPVEVDVEVEID0gWyIvIiwgIi9kYXNoYm9hcmQiLCAiL2J1eWVyIiwgIi9reWMiLCAiL3B1cmNoYXNlIiwgIi9wYXltZW50IiwgIi9jcm0iLCAiL2FkbWluIiwgIi9zZWFyY2giLCAiL21hcCIsICIvcHJvcGVydHkiXTsKCmV4cG9ydCBmdW5jdGlvbiBtaWRkbGV3YXJlKHJlcXVlc3Q6IE5leHRSZXF1ZXN0KSB7CiAgY29uc3QgeyBwYXRobmFtZSB9ID0gcmVxdWVzdC5uZXh0VXJsOwogIGNvbnN0IHRva2VuID0gcmVxdWVzdC5jb29raWVzLmdldCgiYWNjZXNzX3Rva2VuIik/LnZhbHVlOwogIGNvbnN0IGlzUHJvdGVjdGVkID0gUFJPVEVDVEVELnNvbWUociA9PiBwYXRobmFtZSA9PT0gciB8fCBwYXRobmFtZS5zdGFydHNXaXRoKHIgKyAiLyIpKTsKCiAgaWYgKGlzUHJvdGVjdGVkICYmICF0b2tlbikgewogICAgY29uc3QgdXJsID0gcmVxdWVzdC5uZXh0VXJsLmNsb25lKCk7CiAgICB1cmwucGF0aG5hbWUgPSAiL2F1dGgvbG9naW4iOwogICAgdXJsLnNlYXJjaFBhcmFtcy5zZXQoInJlZGlyZWN0IiwgcGF0aG5hbWUpOwogICAgcmV0dXJuIE5leHRSZXNwb25zZS5yZWRpcmVjdCh1cmwpOwogIH0KCiAgcmV0dXJuIE5leHRSZXNwb25zZS5uZXh0KCk7Cn0KCmV4cG9ydCBjb25zdCBjb25maWcgPSB7CiAgbWF0Y2hlcjogWyIvKCg/IV9uZXh0fGZhdmljb24uaWNvfC4qXFwuLiopLiopIl0sCn07"}
+﻿import { NextResponse } from "next/server";
+import type { NextRequest } from "next/server";
+
+const PROTECTED = ["/", "/dashboard", "/buyer", "/kyc", "/purchase", "/payment", "/crm", "/admin", "/search", "/map", "/property"];
+
+export function middleware(request: NextRequest) {
+  const { pathname } = request.nextUrl;
+  const token = request.cookies.get("access_token")?.value;
+  const isProtected = PROTECTED.some(r => pathname === r || pathname.startsWith(r + "/"));
+
+  if (isProtected && !token) {
+    const url = request.nextUrl.clone();
+    url.pathname = "/auth/login";
+    url.searchParams.set("redirect", pathname);
+    return NextResponse.redirect(url);
+  }
+
+  return NextResponse.next();
+}
+
+export const config = {
+  matcher: ["/((?!_next|favicon.ico|.*\\..*).*)"],
+};

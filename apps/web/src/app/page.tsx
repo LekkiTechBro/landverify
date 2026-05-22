@@ -1,1 +1,1 @@
-{"data":"ZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gSG9tZSgpIHsgcmV0dXJuIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiIjMEE1QzNGIixwYWRkaW5nOiI0MHB4In19PjxoMSBzdHlsZT17e2NvbG9yOiJ3aGl0ZSJ9fT5MYW5kVmVyaWZ5IFdvcmtzPC9oMT48L2Rpdj4gfQ0K"}
+export default function Home() { return <div style={{background:"#0A5C3F",padding:"40px"}}><h1 style={{color:"white"}}>LandVerify Works</h1></div> }

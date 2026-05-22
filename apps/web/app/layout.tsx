@@ -1,1 +1,25 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwppbXBvcnQgeyBUaGVtZVByb3ZpZGVyIH0gZnJvbSAiLi9UaGVtZVByb3ZpZGVyIjsKCmV4cG9ydCBjb25zdCBtZXRhZGF0YTogTWV0YWRhdGEgPSB7CiAgdGl0bGU6ICJMYW5kVmVyaWZ5IOKAlCBWZXJpZmllZCBOaWdlcmlhbiBSZWFsIEVzdGF0ZSIsCiAgZGVzY3JpcHRpb246ICJGaW5kLCB2ZXJpZnksIGFuZCBzZWN1cmVseSBwdXJjaGFzZSBOaWdlcmlhbiBwcm9wZXJ0eSB3aXRoIHplcm8gdGl0bGUgcmlzay4iLAogIGtleXdvcmRzOiAiTmlnZXJpYW4gcmVhbCBlc3RhdGUsIGxhbmQgdmVyaWZpY2F0aW9uLCBDIG9mIE8sIHByb3BlcnR5IE5pZ2VyaWEsIExhZ29zIGhvdXNlcyIsCn07CgpleHBvcnQgZGVmYXVsdCBmdW5jdGlvbiBSb290TGF5b3V0KHsgY2hpbGRyZW4gfTogeyBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlIH0pIHsKICByZXR1cm4gKAogICAgPGh0bWwgbGFuZz0iZW4iIHN1cHByZXNzSHlkcmF0aW9uV2FybmluZz4KICAgICAgPGhlYWQ+CiAgICAgICAgPG1ldGEgbmFtZT0idmlld3BvcnQiIGNvbnRlbnQ9IndpZHRoPWRldmljZS13aWR0aCwgaW5pdGlhbC1zY2FsZT0xIiAvPgogICAgICAgIDxsaW5rIHJlbD0iaWNvbiIgaHJlZj0iL2Zhdmljb24uaWNvIiAvPgogICAgICA8L2hlYWQ+CiAgICAgIDxib2R5PgogICAgICAgIDxUaGVtZVByb3ZpZGVyPgogICAgICAgICAge2NoaWxkcmVufQogICAgICAgIDwvVGhlbWVQcm92aWRlcj4KICAgICAgPC9ib2R5PgogICAgPC9odG1sPgogICk7Cn0K"}
+import type { Metadata } from "next";
+import "./globals.css";
+import { ThemeProvider } from "./ThemeProvider";
+
+export const metadata: Metadata = {
+  title: "LandVerify — Verified Nigerian Real Estate",
+  description: "Find, verify, and securely purchase Nigerian property with zero title risk.",
+  keywords: "Nigerian real estate, land verification, C of O, property Nigeria, Lagos houses",
+};
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="en" suppressHydrationWarning>
+      <head>
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="icon" href="/favicon.ico" />
+      </head>
+      <body>
+        <ThemeProvider>
+          {children}
+        </ThemeProvider>
+      </body>
+    </html>
+  );
+}

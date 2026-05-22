@@ -1,1 +1,19 @@
-{"data":"aW1wb3J0IHR5cGUgeyBNZXRhZGF0YSB9IGZyb20gIm5leHQiOwppbXBvcnQgIi4vZ2xvYmFscy5jc3MiOwoKZXhwb3J0IGNvbnN0IG1ldGFkYXRhOiBNZXRhZGF0YSA9IHsKICB0aXRsZTogIkxhbmRWZXJpZnkgLSBWZXJpZmllZCBOaWdlcmlhbiBSZWFsIEVzdGF0ZSIsCiAgZGVzY3JpcHRpb246ICJGaW5kIHZlcmlmaWVkIHByb3BlcnRpZXMgYWNyb3NzIE5pZ2VyaWEgd2l0aCB6ZXJvIHRpdGxlIHJpc2siLAp9OwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUm9vdExheW91dCh7CiAgY2hpbGRyZW4sCn06IHsKICBjaGlsZHJlbjogUmVhY3QuUmVhY3ROb2RlOwp9KSB7CiAgcmV0dXJuICgKICAgIDxodG1sIGxhbmc9ImVuIj4KICAgICAgPGJvZHk+e2NoaWxkcmVufTwvYm9keT4KICAgIDwvaHRtbD4KICApOwp9DQo="}
+import type { Metadata } from "next";
+import "./globals.css";
+
+export const metadata: Metadata = {
+  title: "LandVerify - Verified Nigerian Real Estate",
+  description: "Find verified properties across Nigeria with zero title risk",
+};
+
+export default function RootLayout({
+  children,
+}: {
+  children: React.ReactNode;
+}) {
+  return (
+    <html lang="en">
+      <body>{children}</body>
+    </html>
+  );
+}

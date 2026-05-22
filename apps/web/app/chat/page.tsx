@@ -1,1 +1,298 @@
-{"data":"77u/InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VTdGF0ZSwgdXNlRWZmZWN0LCB1c2VSZWYgfSBmcm9tICJyZWFjdCI7CmltcG9ydCB7IHVzZVJvdXRlciwgdXNlU2VhcmNoUGFyYW1zIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKaW1wb3J0IHsgU3VzcGVuc2UgfSBmcm9tICJyZWFjdCI7Cgpjb25zdCBBUEkgPSAiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2FwaS92MSI7CgpmdW5jdGlvbiBmb3JtYXRUaW1lKGlzbzogc3RyaW5nKSB7CiAgdHJ5IHsKICAgIGNvbnN0IGQgPSBuZXcgRGF0ZShpc28pOwogICAgY29uc3Qgbm93ID0gbmV3IERhdGUoKTsKICAgIGNvbnN0IGRpZmZEYXlzID0gTWF0aC5mbG9vcigobm93LmdldFRpbWUoKSAtIGQuZ2V0VGltZSgpKSAvIDg2NDAwMDAwKTsKICAgIGlmIChkaWZmRGF5cyA9PT0gMCkgcmV0dXJuIGQudG9Mb2NhbGVUaW1lU3RyaW5nKCJlbi1HQiIsIHsgaG91cjogIjItZGlnaXQiLCBtaW51dGU6ICIyLWRpZ2l0IiB9KTsKICAgIGlmIChkaWZmRGF5cyA9PT0gMSkgcmV0dXJuICJZZXN0ZXJkYXkiOwogICAgcmV0dXJuIGQudG9Mb2NhbGVEYXRlU3RyaW5nKCJlbi1HQiIsIHsgZGF5OiAibnVtZXJpYyIsIG1vbnRoOiAic2hvcnQiIH0pOwogIH0gY2F0Y2ggeyByZXR1cm4gIiI7IH0KfQoKZnVuY3Rpb24gQ2hhdENvbnRlbnQoKSB7CiAgY29uc3Qgcm91dGVyID0gdXNlUm91dGVyKCk7CiAgY29uc3Qgc2VhcmNoUGFyYW1zID0gdXNlU2VhcmNoUGFyYW1zKCk7CiAgY29uc3QgcHJlc2VsZWN0ZWRSb29tID0gc2VhcmNoUGFyYW1zLmdldCgicm9vbSIpOwoKICBjb25zdCBbcm9vbXMsIHNldFJvb21zXSA9IHVzZVN0YXRlPGFueVtdPihbXSk7CiAgY29uc3QgW3NlbGVjdGVkUm9vbSwgc2V0U2VsZWN0ZWRSb29tXSA9IHVzZVN0YXRlPGFueT4obnVsbCk7CiAgY29uc3QgW21lc3NhZ2VzLCBzZXRNZXNzYWdlc10gPSB1c2VTdGF0ZTxhbnlbXT4oW10pOwogIGNvbnN0IFtuZXdNZXNzYWdlLCBzZXROZXdNZXNzYWdlXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZSh0cnVlKTsKICBjb25zdCBbc2VuZGluZywgc2V0U2VuZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW3VzZXJJZCwgc2V0VXNlcklkXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbdXNlck5hbWUsIHNldFVzZXJOYW1lXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbc2hvd1Jvb21zLCBzZXRTaG93Um9vbXNdID0gdXNlU3RhdGUodHJ1ZSk7CiAgY29uc3QgbWVzc2FnZXNFbmRSZWYgPSB1c2VSZWY8SFRNTERpdkVsZW1lbnQ+KG51bGwpOwogIGNvbnN0IHBvbGxSZWYgPSB1c2VSZWY8YW55PihudWxsKTsKCiAgY29uc3QgdG9rZW4gPSB0eXBlb2Ygd2luZG93ICE9PSAidW5kZWZpbmVkIiA/IHNlc3Npb25TdG9yYWdlLmdldEl0ZW0oImFjY2Vzc190b2tlbiIpIDogbnVsbDsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmICghdG9rZW4pIHsgcm91dGVyLnB1c2goIi9hdXRoL2xvZ2luIik7IHJldHVybjsgfQogICAgLy8gR2V0IGN1cnJlbnQgdXNlcgogICAgZmV0Y2goYCR7QVBJfS9hdXRoL21lYCwgeyBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHt0b2tlbn1gIH0gfSkKICAgICAgLnRoZW4ociA9PiByLmpzb24oKSkKICAgICAgLnRoZW4oZGF0YSA9PiB7IHNldFVzZXJJZChkYXRhLmlkKTsgc2V0VXNlck5hbWUoZGF0YS5mdWxsX25hbWUpOyB9KQogICAgICAuY2F0Y2goKCkgPT4ge30pOwogICAgLy8gTG9hZCByb29tcwogICAgbG9hZFJvb21zKCk7CiAgfSwgW10pOwoKICB1c2VFZmZlY3QoKCkgPT4gewogICAgaWYgKHByZXNlbGVjdGVkUm9vbSAmJiByb29tcy5sZW5ndGggPiAwKSB7CiAgICAgIGNvbnN0IHJvb20gPSByb29tcy5maW5kKHIgPT4gci5pZCA9PT0gcHJlc2VsZWN0ZWRSb29tKTsKICAgICAgaWYgKHJvb20pIHNlbGVjdFJvb20ocm9vbSk7CiAgICB9CiAgfSwgW3ByZXNlbGVjdGVkUm9vbSwgcm9vbXNdKTsKCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIG1lc3NhZ2VzRW5kUmVmLmN1cnJlbnQ/LnNjcm9sbEludG9WaWV3KHsgYmVoYXZpb3I6ICJzbW9vdGgiIH0pOwogIH0sIFttZXNzYWdlc10pOwoKICAvLyBQb2xsIGZvciBuZXcgbWVzc2FnZXMgZXZlcnkgMyBzZWNvbmRzCiAgdXNlRWZmZWN0KCgpID0+IHsKICAgIGlmIChzZWxlY3RlZFJvb20pIHsKICAgICAgcG9sbFJlZi5jdXJyZW50ID0gc2V0SW50ZXJ2YWwoKCkgPT4gewogICAgICAgIGxvYWRNZXNzYWdlcyhzZWxlY3RlZFJvb20uaWQsIGZhbHNlKTsKICAgICAgfSwgMzAwMCk7CiAgICB9CiAgICByZXR1cm4gKCkgPT4gY2xlYXJJbnRlcnZhbChwb2xsUmVmLmN1cnJlbnQpOwogIH0sIFtzZWxlY3RlZFJvb21dKTsKCiAgY29uc3QgbG9hZFJvb21zID0gYXN5bmMgKCkgPT4gewogICAgdHJ5IHsKICAgICAgY29uc3QgcmVzID0gYXdhaXQgZmV0Y2goYCR7QVBJfS9jaGF0L3Jvb21zYCwgeyBoZWFkZXJzOiB7IEF1dGhvcml6YXRpb246IGBCZWFyZXIgJHt0b2tlbn1gIH0gfSk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBzZXRSb29tcyhkYXRhLnJvb21zIHx8IFtdKTsKICAgIH0gY2F0Y2gge30gZmluYWxseSB7IHNldExvYWRpbmcoZmFsc2UpOyB9CiAgfTsKCiAgY29uc3QgbG9hZE1lc3NhZ2VzID0gYXN5bmMgKHJvb21JZDogc3RyaW5nLCBzaG93TG9hZGluZyA9IHRydWUpID0+IHsKICAgIHRyeSB7CiAgICAgIGNvbnN0IHJlcyA9IGF3YWl0IGZldGNoKGAke0FQSX0vY2hhdC9yb29tcy8ke3Jvb21JZH0vbWVzc2FnZXNgLCB7IGhlYWRlcnM6IHsgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Rva2VufWAgfSB9KTsKICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKCk7CiAgICAgIHNldE1lc3NhZ2VzKGRhdGEubWVzc2FnZXMgfHwgW10pOwogICAgICBpZiAoc2hvd0xvYWRpbmcpIHsKICAgICAgICBzZXRTZWxlY3RlZFJvb20oKHByZXY6IGFueSkgPT4gcHJldiA/IHsgLi4ucHJldiwgcHJvcGVydHlfdGl0bGU6IGRhdGEucHJvcGVydHlfdGl0bGUsIG90aGVyX3VzZXJfbmFtZTogZGF0YS5vdGhlcl91c2VyX25hbWUgfSA6IHByZXYpOwogICAgICB9CiAgICB9IGNhdGNoIHt9CiAgfTsKCiAgY29uc3Qgc2VsZWN0Um9vbSA9IGFzeW5jIChyb29tOiBhbnkpID0+IHsKICAgIHNldFNlbGVjdGVkUm9vbShyb29tKTsKICAgIHNldFNob3dSb29tcyhmYWxzZSk7CiAgICBhd2FpdCBsb2FkTWVzc2FnZXMocm9vbS5pZCk7CiAgICAvLyBNYXJrIGFzIHJlYWQgaW4gcm9vbXMgbGlzdAogICAgc2V0Um9vbXMocHJldiA9PiBwcmV2Lm1hcChyID0+IHIuaWQgPT09IHJvb20uaWQgPyB7IC4uLnIsIHVucmVhZF9jb3VudDogMCB9IDogcikpOwogIH07CgogIGNvbnN0IHNlbmRNZXNzYWdlID0gYXN5bmMgKCkgPT4gewogICAgaWYgKCFuZXdNZXNzYWdlLnRyaW0oKSB8fCAhc2VsZWN0ZWRSb29tIHx8IHNlbmRpbmcpIHJldHVybjsKICAgIHNldFNlbmRpbmcodHJ1ZSk7CiAgICBjb25zdCBjb250ZW50ID0gbmV3TWVzc2FnZS50cmltKCk7CiAgICBzZXROZXdNZXNzYWdlKCIiKTsKCiAgICAvLyBPcHRpbWlzdGljIHVwZGF0ZQogICAgY29uc3QgdGVtcE1zZyA9IHsKICAgICAgaWQ6IGB0ZW1wLSR7RGF0ZS5ub3coKX1gLAogICAgICBjb250ZW50LAogICAgICBzZW5kZXJfaWQ6IHVzZXJJZCwKICAgICAgaXNfbWluZTogdHJ1ZSwKICAgICAgY3JlYXRlZF9hdDogbmV3IERhdGUoKS50b0lTT1N0cmluZygpLAogICAgfTsKICAgIHNldE1lc3NhZ2VzKHByZXYgPT4gWy4uLnByZXYsIHRlbXBNc2ddKTsKCiAgICB0cnkgewogICAgICBhd2FpdCBmZXRjaChgJHtBUEl9L2NoYXQvcm9vbXMvJHtzZWxlY3RlZFJvb20uaWR9L21lc3NhZ2VzYCwgewogICAgICAgIG1ldGhvZDogIlBPU1QiLAogICAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIiwgQXV0aG9yaXphdGlvbjogYEJlYXJlciAke3Rva2VufWAgfSwKICAgICAgICBib2R5OiBKU09OLnN0cmluZ2lmeSh7IHJvb21faWQ6IHNlbGVjdGVkUm9vbS5pZCwgY29udGVudCB9KSwKICAgICAgfSk7CiAgICAgIGF3YWl0IGxvYWRNZXNzYWdlcyhzZWxlY3RlZFJvb20uaWQsIGZhbHNlKTsKICAgICAgYXdhaXQgbG9hZFJvb21zKCk7CiAgICB9IGNhdGNoIHsKICAgICAgc2V0TWVzc2FnZXMocHJldiA9PiBwcmV2LmZpbHRlcihtID0+IG0uaWQgIT09IHRlbXBNc2cuaWQpKTsKICAgICAgc2V0TmV3TWVzc2FnZShjb250ZW50KTsKICAgIH0gZmluYWxseSB7CiAgICAgIHNldFNlbmRpbmcoZmFsc2UpOwogICAgfQogIH07CgogIGNvbnN0IGluaXRpYWxzID0gKG5hbWU6IHN0cmluZykgPT4gbmFtZT8uc3BsaXQoIiAiKS5tYXAobiA9PiBuWzBdKS5qb2luKCIiKS5zbGljZSgwLCAyKS50b1VwcGVyQ2FzZSgpIHx8ICI/PyI7CgogIHJldHVybiAoCiAgICA8ZGl2IHN0eWxlPXt7IGZvbnRGYW1pbHk6ICJzeXN0ZW0tdWksc2Fucy1zZXJpZiIsIGhlaWdodDogIjEwMHZoIiwgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwgYmFja2dyb3VuZDogIiNmNWY1ZjUiIH19PgoKICAgICAgey8qIEhlYWRlciAqL30KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiIzBBNUMzRiIsIHBhZGRpbmc6ICIxNHB4IDIwcHgiLCBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBnYXA6ICIxMnB4IiwgZmxleFNocmluazogMCB9fT4KICAgICAgICB7IXNob3dSb29tcyAmJiAoCiAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldFNob3dSb29tcyh0cnVlKX0KICAgICAgICAgICAgc3R5bGU9e3sgYmFja2dyb3VuZDogInJnYmEoMjU1LDI1NSwyNTUsMC4xNSkiLCBib3JkZXI6ICJub25lIiwgY29sb3I6ICJ3aGl0ZSIsIGJvcmRlclJhZGl1czogIjZweCIsIHBhZGRpbmc6ICI2cHggMTJweCIsIGZvbnRTaXplOiAiMTNweCIsIGN1cnNvcjogInBvaW50ZXIiIH19PgogICAgICAgICAgICBCYWNrCiAgICAgICAgICA8L2J1dHRvbj4KICAgICAgICApfQogICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCIvIil9IHN0eWxlPXt7IGNvbG9yOiAid2hpdGUiLCBmb250U2l6ZTogIjE4cHgiLCBmb250V2VpZ2h0OiAiNjAwIiwgY3Vyc29yOiAicG9pbnRlciIgfX0+CiAgICAgICAgICBMYW5kPHNwYW4gc3R5bGU9e3sgY29sb3I6ICIjRkFDNzc1IiB9fT5WZXJpZnk8L3NwYW4+CiAgICAgICAgPC9zcGFuPgogICAgICAgIDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAicmdiYSgyNTUsMjU1LDI1NSwwLjYpIiwgZm9udFNpemU6ICIxM3B4IiB9fT4KICAgICAgICAgIHtzZWxlY3RlZFJvb20gJiYgIXNob3dSb29tcyA/IHNlbGVjdGVkUm9vbS5wcm9wZXJ0eV90aXRsZSB8fCAiQ2hhdCIgOiAiTWVzc2FnZXMifQogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IHN0eWxlPXt7IGZsZXg6IDEsIGRpc3BsYXk6ICJmbGV4Iiwgb3ZlcmZsb3c6ICJoaWRkZW4iIH19PgoKICAgICAgICB7LyogUm9vbXMgbGlzdCAqL30KICAgICAgICA8ZGl2IHN0eWxlPXt7IHdpZHRoOiBzaG93Um9vbXMgPyAiMTAwJSIgOiAiMCIsIG1pbldpZHRoOiBzaG93Um9vbXMgPyAiMjgwcHgiIDogIjAiLCBiYWNrZ3JvdW5kOiAid2hpdGUiLCBib3JkZXJSaWdodDogIjFweCBzb2xpZCAjZWVlIiwgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwgb3ZlcmZsb3c6ICJoaWRkZW4iLCB0cmFuc2l0aW9uOiAid2lkdGggMC4ycyIgfX0+CiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmc6ICIxNnB4IiwgYm9yZGVyQm90dG9tOiAiMXB4IHNvbGlkICNmMGYwZjAiIH19PgogICAgICAgICAgICA8aDIgc3R5bGU9e3sgZm9udFNpemU6ICIxNXB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzMzMyIsIG1hcmdpbjogMCB9fT4KICAgICAgICAgICAgICBDb252ZXJzYXRpb25zIHtyb29tcy5sZW5ndGggPiAwICYmIGAoJHtyb29tcy5sZW5ndGh9KWB9CiAgICAgICAgICAgIDwvaDI+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGZsZXg6IDEsIG92ZXJmbG93WTogImF1dG8iIH19PgogICAgICAgICAgICB7bG9hZGluZyA/ICgKICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHBhZGRpbmc6ICI0MHB4IiwgdGV4dEFsaWduOiAiY2VudGVyIiwgY29sb3I6ICIjODg4IiwgZm9udFNpemU6ICIxM3B4IiB9fT5Mb2FkaW5nLi4uPC9kaXY+CiAgICAgICAgICAgICkgOiByb29tcy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBwYWRkaW5nOiAiNDBweCAyNHB4IiwgdGV4dEFsaWduOiAiY2VudGVyIiB9fT4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6ICI0MHB4IiwgbWFyZ2luQm90dG9tOiAiMTJweCIsIGNvbG9yOiAiI2NjYyIgfX0+w7DFuOKAmcKsPC9kaXY+CiAgICAgICAgICAgICAgICA8cCBzdHlsZT17eyBmb250U2l6ZTogIjE0cHgiLCBjb2xvcjogIiM4ODgiLCBtYXJnaW5Cb3R0b206ICIxNnB4IiB9fT5ObyBjb252ZXJzYXRpb25zIHlldC48L3A+CiAgICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCIvc2VhcmNoIil9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjMEE1QzNGIiwgY29sb3I6ICJ3aGl0ZSIsIGJvcmRlcjogIm5vbmUiLCBib3JkZXJSYWRpdXM6ICI4cHgiLCBwYWRkaW5nOiAiOXB4IDE4cHgiLCBmb250U2l6ZTogIjEzcHgiLCBjdXJzb3I6ICJwb2ludGVyIiB9fT4KICAgICAgICAgICAgICAgICAgQnJvd3NlIFByb3BlcnRpZXMKICAgICAgICAgICAgICAgIDwvYnV0dG9uPgogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApIDogcm9vbXMubWFwKHJvb20gPT4gKAogICAgICAgICAgICAgIDxkaXYga2V5PXtyb29tLmlkfSBvbkNsaWNrPXsoKSA9PiBzZWxlY3RSb29tKHJvb20pfQogICAgICAgICAgICAgICAgc3R5bGU9e3sgcGFkZGluZzogIjE0cHggMTZweCIsIGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCAjZjVmNWY1IiwgY3Vyc29yOiAicG9pbnRlciIsIGJhY2tncm91bmQ6IHNlbGVjdGVkUm9vbT8uaWQgPT09IHJvb20uaWQgPyAiI2YwZjlmNSIgOiAid2hpdGUiLCBkaXNwbGF5OiAiZmxleCIsIGdhcDogIjEycHgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiB9fQogICAgICAgICAgICAgICAgb25Nb3VzZUVudGVyPXtlID0+IHsgaWYgKHNlbGVjdGVkUm9vbT8uaWQgIT09IHJvb20uaWQpIGUuY3VycmVudFRhcmdldC5zdHlsZS5iYWNrZ3JvdW5kID0gIiNmYWZhZmEiOyB9fQogICAgICAgICAgICAgICAgb25Nb3VzZUxlYXZlPXtlID0+IHsgaWYgKHNlbGVjdGVkUm9vbT8uaWQgIT09IHJvb20uaWQpIGUuY3VycmVudFRhcmdldC5zdHlsZS5iYWNrZ3JvdW5kID0gIndoaXRlIjsgfX0+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHdpZHRoOiAiNDJweCIsIGhlaWdodDogIjQycHgiLCBib3JkZXJSYWRpdXM6ICI1MCUiLCBiYWNrZ3JvdW5kOiAiI0UxRjVFRSIsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwgZm9udFNpemU6ICIxNHB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzBBNUMzRiIsIGZsZXhTaHJpbms6IDAgfX0+CiAgICAgICAgICAgICAgICAgIHtpbml0aWFscyhyb29tLm90aGVyX3VzZXJfbmFtZSl9CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZmxleDogMSwgbWluV2lkdGg6IDAgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBqdXN0aWZ5Q29udGVudDogInNwYWNlLWJldHdlZW4iLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgbWFyZ2luQm90dG9tOiAiMnB4IiB9fT4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250U2l6ZTogIjEzcHgiLCBmb250V2VpZ2h0OiAiNjAwIiwgY29sb3I6ICIjMjIyIiwgd2hpdGVTcGFjZTogIm5vd3JhcCIsIG92ZXJmbG93OiAiaGlkZGVuIiwgdGV4dE92ZXJmbG93OiAiZWxsaXBzaXMiIH19PgogICAgICAgICAgICAgICAgICAgICAge3Jvb20ub3RoZXJfdXNlcl9uYW1lfQogICAgICAgICAgICAgICAgICAgIDwvc3Bhbj4KICAgICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17eyBmb250U2l6ZTogIjExcHgiLCBjb2xvcjogIiNhYWEiLCBmbGV4U2hyaW5rOiAwLCBtYXJnaW5MZWZ0OiAiOHB4IiB9fT4KICAgICAgICAgICAgICAgICAgICAgIHtyb29tLmxhc3RfbWVzc2FnZV9hdCA/IGZvcm1hdFRpbWUocm9vbS5sYXN0X21lc3NhZ2VfYXQpIDogIiJ9CiAgICAgICAgICAgICAgICAgICAgPC9zcGFuPgogICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjEycHgiLCBjb2xvcjogIiM4ODgiLCB3aGl0ZVNwYWNlOiAibm93cmFwIiwgb3ZlcmZsb3c6ICJoaWRkZW4iLCB0ZXh0T3ZlcmZsb3c6ICJlbGxpcHNpcyIgfX0+CiAgICAgICAgICAgICAgICAgICAge3Jvb20ucHJvcGVydHlfdGl0bGV9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICB7cm9vbS5sYXN0X21lc3NhZ2UgJiYgKAogICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6ICIxMnB4IiwgY29sb3I6ICIjYWFhIiwgd2hpdGVTcGFjZTogIm5vd3JhcCIsIG92ZXJmbG93OiAiaGlkZGVuIiwgdGV4dE92ZXJmbG93OiAiZWxsaXBzaXMiLCBtYXJnaW5Ub3A6ICIycHgiIH19PgogICAgICAgICAgICAgICAgICAgICAge3Jvb20ubGFzdF9tZXNzYWdlfQogICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICB7cm9vbS51bnJlYWRfY291bnQgPiAwICYmICgKICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyB3aWR0aDogIjIwcHgiLCBoZWlnaHQ6ICIyMHB4IiwgYm9yZGVyUmFkaXVzOiAiNTAlIiwgYmFja2dyb3VuZDogIiMwQTVDM0YiLCBjb2xvcjogIndoaXRlIiwgZm9udFNpemU6ICIxMXB4IiwgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLCBmbGV4U2hyaW5rOiAwIH19PgogICAgICAgICAgICAgICAgICAgIHtyb29tLnVucmVhZF9jb3VudH0KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICApKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgIDwvZGl2PgoKICAgICAgICB7LyogQ2hhdCBhcmVhICovfQogICAgICAgIHsoIXNob3dSb29tcykgJiYgKAogICAgICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBkaXNwbGF5OiAiZmxleCIsIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLCBvdmVyZmxvdzogImhpZGRlbiIgfX0+CiAgICAgICAgICAgIHshc2VsZWN0ZWRSb29tID8gKAogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZmxleDogMSwgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLCBiYWNrZ3JvdW5kOiAiI2Y5ZjlmOSIgfX0+CiAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHRleHRBbGlnbjogImNlbnRlciIsIGNvbG9yOiAiIzg4OCIgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6ICI0OHB4IiwgbWFyZ2luQm90dG9tOiAiMTJweCIsIGNvbG9yOiAiI2RkZCIgfX0+w7DFuOKAmcKsPC9kaXY+CiAgICAgICAgICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAiMTRweCIgfX0+U2VsZWN0IGEgY29udmVyc2F0aW9uIHRvIHN0YXJ0IGNoYXR0aW5nPC9wPgogICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICkgOiAoCiAgICAgICAgICAgICAgPD4KICAgICAgICAgICAgICAgIHsvKiBDaGF0IGhlYWRlciAqL30KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIndoaXRlIiwgcGFkZGluZzogIjE0cHggMjBweCIsIGJvcmRlckJvdHRvbTogIjFweCBzb2xpZCAjZWVlIiwgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwgZ2FwOiAiMTJweCIsIGZsZXhTaHJpbms6IDAgfX0+CiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgd2lkdGg6ICIzOHB4IiwgaGVpZ2h0OiAiMzhweCIsIGJvcmRlclJhZGl1czogIjUwJSIsIGJhY2tncm91bmQ6ICIjRTFGNUVFIiwgZGlzcGxheTogImZsZXgiLCBhbGlnbkl0ZW1zOiAiY2VudGVyIiwganVzdGlmeUNvbnRlbnQ6ICJjZW50ZXIiLCBmb250U2l6ZTogIjEzcHgiLCBmb250V2VpZ2h0OiAiNjAwIiwgY29sb3I6ICIjMEE1QzNGIiB9fT4KICAgICAgICAgICAgICAgICAgICB7aW5pdGlhbHMoc2VsZWN0ZWRSb29tLm90aGVyX3VzZXJfbmFtZSl9CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICA8ZGl2PgogICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZm9udFNpemU6ICIxNHB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzIyMiIgfX0+e3NlbGVjdGVkUm9vbS5vdGhlcl91c2VyX25hbWV9PC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjEycHgiLCBjb2xvcjogIiM4ODgiIH19PntzZWxlY3RlZFJvb20ucHJvcGVydHlfdGl0bGV9PC9kaXY+CiAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgey8qIE1lc3NhZ2VzICovfQogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmbGV4OiAxLCBvdmVyZmxvd1k6ICJhdXRvIiwgcGFkZGluZzogIjE2cHgiLCBkaXNwbGF5OiAiZmxleCIsIGZsZXhEaXJlY3Rpb246ICJjb2x1bW4iLCBnYXA6ICI4cHgiLCBiYWNrZ3JvdW5kOiAiI2Y5ZjlmOSIgfX0+CiAgICAgICAgICAgICAgICAgIHttZXNzYWdlcy5sZW5ndGggPT09IDAgPyAoCiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyB0ZXh0QWxpZ246ICJjZW50ZXIiLCBjb2xvcjogIiNhYWEiLCBmb250U2l6ZTogIjEzcHgiLCBtYXJnaW5Ub3A6ICI0MHB4IiB9fT4KICAgICAgICAgICAgICAgICAgICAgIE5vIG1lc3NhZ2VzIHlldC4gU2VuZCB0aGUgZmlyc3QgbWVzc2FnZSEKICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgKSA6IG1lc3NhZ2VzLm1hcChtc2cgPT4gKAogICAgICAgICAgICAgICAgICAgIDxkaXYga2V5PXttc2cuaWR9IHN0eWxlPXt7IGRpc3BsYXk6ICJmbGV4IiwganVzdGlmeUNvbnRlbnQ6IG1zZy5pc19taW5lID8gImZsZXgtZW5kIiA6ICJmbGV4LXN0YXJ0IiB9fT4KICAgICAgICAgICAgICAgICAgICAgIHshbXNnLmlzX21pbmUgJiYgKAogICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHdpZHRoOiAiMjhweCIsIGhlaWdodDogIjI4cHgiLCBib3JkZXJSYWRpdXM6ICI1MCUiLCBiYWNrZ3JvdW5kOiAiI0UxRjVFRSIsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwgZm9udFNpemU6ICIxMHB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzBBNUMzRiIsIG1hcmdpblJpZ2h0OiAiOHB4IiwgZmxleFNocmluazogMCwgYWxpZ25TZWxmOiAiZmxleC1lbmQiIH19PgogICAgICAgICAgICAgICAgICAgICAgICAgIHtpbml0aWFscyhzZWxlY3RlZFJvb20ub3RoZXJfdXNlcl9uYW1lKX0KICAgICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICApfQogICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogIjcwJSIgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sKICAgICAgICAgICAgICAgICAgICAgICAgICBiYWNrZ3JvdW5kOiBtc2cuaXNfbWluZSA/ICIjMEE1QzNGIiA6ICJ3aGl0ZSIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgY29sb3I6IG1zZy5pc19taW5lID8gIndoaXRlIiA6ICIjMzMzIiwKICAgICAgICAgICAgICAgICAgICAgICAgICBib3JkZXJSYWRpdXM6IG1zZy5pc19taW5lID8gIjE2cHggMTZweCA0cHggMTZweCIgOiAiMTZweCAxNnB4IDE2cHggNHB4IiwKICAgICAgICAgICAgICAgICAgICAgICAgICBwYWRkaW5nOiAiMTBweCAxNHB4IiwKICAgICAgICAgICAgICAgICAgICAgICAgICBmb250U2l6ZTogIjE0cHgiLAogICAgICAgICAgICAgICAgICAgICAgICAgIGxpbmVIZWlnaHQ6ICIxLjUiLAogICAgICAgICAgICAgICAgICAgICAgICAgIGJveFNoYWRvdzogIjAgMXB4IDJweCByZ2JhKDAsMCwwLDAuMDYpIiwKICAgICAgICAgICAgICAgICAgICAgICAgICBib3JkZXI6IG1zZy5pc19taW5lID8gIm5vbmUiIDogIjFweCBzb2xpZCAjZWVlIiwKICAgICAgICAgICAgICAgICAgICAgICAgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAge21zZy5jb250ZW50fQogICAgICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBmb250U2l6ZTogIjExcHgiLCBjb2xvcjogIiNhYWEiLCBtYXJnaW5Ub3A6ICIzcHgiLCB0ZXh0QWxpZ246IG1zZy5pc19taW5lID8gInJpZ2h0IiA6ICJsZWZ0IiwgcGFkZGluZ0xlZnQ6IG1zZy5pc19taW5lID8gIjAiIDogIjRweCIgfX0+CiAgICAgICAgICAgICAgICAgICAgICAgICAge2Zvcm1hdFRpbWUobXNnLmNyZWF0ZWRfYXQpfQogICAgICAgICAgICAgICAgICAgICAgICAgIHttc2cuaXNfbWluZSAmJiBtc2cucmVhZF9hdCAmJiAiIMOCwrcgUmVhZCJ9CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICAgICkpfQogICAgICAgICAgICAgICAgICA8ZGl2IHJlZj17bWVzc2FnZXNFbmRSZWZ9IC8+CiAgICAgICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgICAgICB7LyogTWVzc2FnZSBpbnB1dCAqL30KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIndoaXRlIiwgcGFkZGluZzogIjEycHggMTZweCIsIGJvcmRlclRvcDogIjFweCBzb2xpZCAjZWVlIiwgZGlzcGxheTogImZsZXgiLCBnYXA6ICIxMHB4IiwgYWxpZ25JdGVtczogImZsZXgtZW5kIiwgZmxleFNocmluazogMCB9fT4KICAgICAgICAgICAgICAgICAgPHRleHRhcmVhCiAgICAgICAgICAgICAgICAgICAgdmFsdWU9e25ld01lc3NhZ2V9CiAgICAgICAgICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gc2V0TmV3TWVzc2FnZShlLnRhcmdldC52YWx1ZSl9CiAgICAgICAgICAgICAgICAgICAgb25LZXlEb3duPXtlID0+IHsgaWYgKGUua2V5ID09PSAiRW50ZXIiICYmICFlLnNoaWZ0S2V5KSB7IGUucHJldmVudERlZmF1bHQoKTsgc2VuZE1lc3NhZ2UoKTsgfSB9fQogICAgICAgICAgICAgICAgICAgIHBsYWNlaG9sZGVyPSJUeXBlIGEgbWVzc2FnZS4uLiAoRW50ZXIgdG8gc2VuZCkiCiAgICAgICAgICAgICAgICAgICAgcm93cz17MX0KICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBmbGV4OiAxLCBib3JkZXI6ICIxcHggc29saWQgI2U4ZThlOCIsIGJvcmRlclJhZGl1czogIjIwcHgiLCBwYWRkaW5nOiAiMTBweCAxNnB4IiwgZm9udFNpemU6ICIxNHB4Iiwgb3V0bGluZTogIm5vbmUiLCByZXNpemU6ICJub25lIiwgYmFja2dyb3VuZDogIiNmOGY4ZjgiLCBtYXhIZWlnaHQ6ICIxMjBweCIsIGZvbnRGYW1pbHk6ICJzeXN0ZW0tdWkiIH19CiAgICAgICAgICAgICAgICAgIC8+CiAgICAgICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17c2VuZE1lc3NhZ2V9IGRpc2FibGVkPXtzZW5kaW5nIHx8ICFuZXdNZXNzYWdlLnRyaW0oKX0KICAgICAgICAgICAgICAgICAgICBzdHlsZT17eyBiYWNrZ3JvdW5kOiBzZW5kaW5nIHx8ICFuZXdNZXNzYWdlLnRyaW0oKSA/ICIjY2NjIiA6ICIjMEE1QzNGIiwgY29sb3I6ICJ3aGl0ZSIsIGJvcmRlcjogIm5vbmUiLCBib3JkZXJSYWRpdXM6ICI1MCUiLCB3aWR0aDogIjQycHgiLCBoZWlnaHQ6ICI0MnB4IiwgY3Vyc29yOiBzZW5kaW5nIHx8ICFuZXdNZXNzYWdlLnRyaW0oKSA/ICJub3QtYWxsb3dlZCIgOiAicG9pbnRlciIsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwgZmxleFNocmluazogMCwgZm9udFNpemU6ICIxOHB4IiB9fT4KICAgICAgICAgICAgICAgICAgICB7c2VuZGluZyA/ICIuLi4iIDogIsOi4oCg4oCZIn0KICAgICAgICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8Lz4KICAgICAgICAgICAgKX0KICAgICAgICAgIDwvZGl2PgogICAgICAgICl9CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gQ2hhdFBhZ2UoKSB7CiAgcmV0dXJuICgKICAgIDxTdXNwZW5zZSBmYWxsYmFjaz17PGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBqdXN0aWZ5Q29udGVudDogImNlbnRlciIsIGhlaWdodDogIjEwMHZoIiB9fT5Mb2FkaW5nLi4uPC9kaXY+fT4KICAgICAgPENoYXRDb250ZW50IC8+CiAgICA8L1N1c3BlbnNlPgogICk7Cn0KDQo="}
+﻿"use client";
+import { useState, useEffect, useRef } from "react";
+import { useRouter, useSearchParams } from "next/navigation";
+import { Suspense } from "react";
+
+const API = "http://localhost:8000/api/v1";
+
+function formatTime(iso: string) {
+  try {
+    const d = new Date(iso);
+    const now = new Date();
+    const diffDays = Math.floor((now.getTime() - d.getTime()) / 86400000);
+    if (diffDays === 0) return d.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" });
+    if (diffDays === 1) return "Yesterday";
+    return d.toLocaleDateString("en-GB", { day: "numeric", month: "short" });
+  } catch { return ""; }
+}
+
+function ChatContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const preselectedRoom = searchParams.get("room");
+
+  const [rooms, setRooms] = useState<any[]>([]);
+  const [selectedRoom, setSelectedRoom] = useState<any>(null);
+  const [messages, setMessages] = useState<any[]>([]);
+  const [newMessage, setNewMessage] = useState("");
+  const [loading, setLoading] = useState(true);
+  const [sending, setSending] = useState(false);
+  const [userId, setUserId] = useState("");
+  const [userName, setUserName] = useState("");
+  const [showRooms, setShowRooms] = useState(true);
+  const messagesEndRef = useRef<HTMLDivElement>(null);
+  const pollRef = useRef<any>(null);
+
+  const token = typeof window !== "undefined" ? sessionStorage.getItem("access_token") : null;
+
+  useEffect(() => {
+    if (!token) { router.push("/auth/login"); return; }
+    // Get current user
+    fetch(`${API}/auth/me`, { headers: { Authorization: `Bearer ${token}` } })
+      .then(r => r.json())
+      .then(data => { setUserId(data.id); setUserName(data.full_name); })
+      .catch(() => {});
+    // Load rooms
+    loadRooms();
+  }, []);
+
+  useEffect(() => {
+    if (preselectedRoom && rooms.length > 0) {
+      const room = rooms.find(r => r.id === preselectedRoom);
+      if (room) selectRoom(room);
+    }
+  }, [preselectedRoom, rooms]);
+
+  useEffect(() => {
+    messagesEndRef.current?.scrollIntoView({ behavior: "smooth" });
+  }, [messages]);
+
+  // Poll for new messages every 3 seconds
+  useEffect(() => {
+    if (selectedRoom) {
+      pollRef.current = setInterval(() => {
+        loadMessages(selectedRoom.id, false);
+      }, 3000);
+    }
+    return () => clearInterval(pollRef.current);
+  }, [selectedRoom]);
+
+  const loadRooms = async () => {
+    try {
+      const res = await fetch(`${API}/chat/rooms`, { headers: { Authorization: `Bearer ${token}` } });
+      const data = await res.json();
+      setRooms(data.rooms || []);
+    } catch {} finally { setLoading(false); }
+  };
+
+  const loadMessages = async (roomId: string, showLoading = true) => {
+    try {
+      const res = await fetch(`${API}/chat/rooms/${roomId}/messages`, { headers: { Authorization: `Bearer ${token}` } });
+      const data = await res.json();
+      setMessages(data.messages || []);
+      if (showLoading) {
+        setSelectedRoom((prev: any) => prev ? { ...prev, property_title: data.property_title, other_user_name: data.other_user_name } : prev);
+      }
+    } catch {}
+  };
+
+  const selectRoom = async (room: any) => {
+    setSelectedRoom(room);
+    setShowRooms(false);
+    await loadMessages(room.id);
+    // Mark as read in rooms list
+    setRooms(prev => prev.map(r => r.id === room.id ? { ...r, unread_count: 0 } : r));
+  };
+
+  const sendMessage = async () => {
+    if (!newMessage.trim() || !selectedRoom || sending) return;
+    setSending(true);
+    const content = newMessage.trim();
+    setNewMessage("");
+
+    // Optimistic update
+    const tempMsg = {
+      id: `temp-${Date.now()}`,
+      content,
+      sender_id: userId,
+      is_mine: true,
+      created_at: new Date().toISOString(),
+    };
+    setMessages(prev => [...prev, tempMsg]);
+
+    try {
+      await fetch(`${API}/chat/rooms/${selectedRoom.id}/messages`, {
+        method: "POST",
+        headers: { "Content-Type": "application/json", Authorization: `Bearer ${token}` },
+        body: JSON.stringify({ room_id: selectedRoom.id, content }),
+      });
+      await loadMessages(selectedRoom.id, false);
+      await loadRooms();
+    } catch {
+      setMessages(prev => prev.filter(m => m.id !== tempMsg.id));
+      setNewMessage(content);
+    } finally {
+      setSending(false);
+    }
+  };
+
+  const initials = (name: string) => name?.split(" ").map(n => n[0]).join("").slice(0, 2).toUpperCase() || "??";
+
+  return (
+    <div style={{ fontFamily: "system-ui,sans-serif", height: "100vh", display: "flex", flexDirection: "column", background: "#f5f5f5" }}>
+
+      {/* Header */}
+      <div style={{ background: "#0A5C3F", padding: "14px 20px", display: "flex", alignItems: "center", gap: "12px", flexShrink: 0 }}>
+        {!showRooms && (
+          <button onClick={() => setShowRooms(true)}
+            style={{ background: "rgba(255,255,255,0.15)", border: "none", color: "white", borderRadius: "6px", padding: "6px 12px", fontSize: "13px", cursor: "pointer" }}>
+            Back
+          </button>
+        )}
+        <span onClick={() => router.push("/")} style={{ color: "white", fontSize: "18px", fontWeight: "600", cursor: "pointer" }}>
+          Land<span style={{ color: "#FAC775" }}>Verify</span>
+        </span>
+        <span style={{ color: "rgba(255,255,255,0.6)", fontSize: "13px" }}>
+          {selectedRoom && !showRooms ? selectedRoom.property_title || "Chat" : "Messages"}
+        </span>
+      </div>
+
+      <div style={{ flex: 1, display: "flex", overflow: "hidden" }}>
+
+        {/* Rooms list */}
+        <div style={{ width: showRooms ? "100%" : "0", minWidth: showRooms ? "280px" : "0", background: "white", borderRight: "1px solid #eee", display: "flex", flexDirection: "column", overflow: "hidden", transition: "width 0.2s" }}>
+          <div style={{ padding: "16px", borderBottom: "1px solid #f0f0f0" }}>
+            <h2 style={{ fontSize: "15px", fontWeight: "600", color: "#333", margin: 0 }}>
+              Conversations {rooms.length > 0 && `(${rooms.length})`}
+            </h2>
+          </div>
+
+          <div style={{ flex: 1, overflowY: "auto" }}>
+            {loading ? (
+              <div style={{ padding: "40px", textAlign: "center", color: "#888", fontSize: "13px" }}>Loading...</div>
+            ) : rooms.length === 0 ? (
+              <div style={{ padding: "40px 24px", textAlign: "center" }}>
+                <div style={{ fontSize: "40px", marginBottom: "12px", color: "#ccc" }}>ðŸ’¬</div>
+                <p style={{ fontSize: "14px", color: "#888", marginBottom: "16px" }}>No conversations yet.</p>
+                <button onClick={() => router.push("/search")}
+                  style={{ background: "#0A5C3F", color: "white", border: "none", borderRadius: "8px", padding: "9px 18px", fontSize: "13px", cursor: "pointer" }}>
+                  Browse Properties
+                </button>
+              </div>
+            ) : rooms.map(room => (
+              <div key={room.id} onClick={() => selectRoom(room)}
+                style={{ padding: "14px 16px", borderBottom: "1px solid #f5f5f5", cursor: "pointer", background: selectedRoom?.id === room.id ? "#f0f9f5" : "white", display: "flex", gap: "12px", alignItems: "center" }}
+                onMouseEnter={e => { if (selectedRoom?.id !== room.id) e.currentTarget.style.background = "#fafafa"; }}
+                onMouseLeave={e => { if (selectedRoom?.id !== room.id) e.currentTarget.style.background = "white"; }}>
+                <div style={{ width: "42px", height: "42px", borderRadius: "50%", background: "#E1F5EE", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "14px", fontWeight: "600", color: "#0A5C3F", flexShrink: 0 }}>
+                  {initials(room.other_user_name)}
+                </div>
+                <div style={{ flex: 1, minWidth: 0 }}>
+                  <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "2px" }}>
+                    <span style={{ fontSize: "13px", fontWeight: "600", color: "#222", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                      {room.other_user_name}
+                    </span>
+                    <span style={{ fontSize: "11px", color: "#aaa", flexShrink: 0, marginLeft: "8px" }}>
+                      {room.last_message_at ? formatTime(room.last_message_at) : ""}
+                    </span>
+                  </div>
+                  <div style={{ fontSize: "12px", color: "#888", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis" }}>
+                    {room.property_title}
+                  </div>
+                  {room.last_message && (
+                    <div style={{ fontSize: "12px", color: "#aaa", whiteSpace: "nowrap", overflow: "hidden", textOverflow: "ellipsis", marginTop: "2px" }}>
+                      {room.last_message}
+                    </div>
+                  )}
+                </div>
+                {room.unread_count > 0 && (
+                  <div style={{ width: "20px", height: "20px", borderRadius: "50%", background: "#0A5C3F", color: "white", fontSize: "11px", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0 }}>
+                    {room.unread_count}
+                  </div>
+                )}
+              </div>
+            ))}
+          </div>
+        </div>
+
+        {/* Chat area */}
+        {(!showRooms) && (
+          <div style={{ flex: 1, display: "flex", flexDirection: "column", overflow: "hidden" }}>
+            {!selectedRoom ? (
+              <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", background: "#f9f9f9" }}>
+                <div style={{ textAlign: "center", color: "#888" }}>
+                  <div style={{ fontSize: "48px", marginBottom: "12px", color: "#ddd" }}>ðŸ’¬</div>
+                  <p style={{ fontSize: "14px" }}>Select a conversation to start chatting</p>
+                </div>
+              </div>
+            ) : (
+              <>
+                {/* Chat header */}
+                <div style={{ background: "white", padding: "14px 20px", borderBottom: "1px solid #eee", display: "flex", alignItems: "center", gap: "12px", flexShrink: 0 }}>
+                  <div style={{ width: "38px", height: "38px", borderRadius: "50%", background: "#E1F5EE", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "13px", fontWeight: "600", color: "#0A5C3F" }}>
+                    {initials(selectedRoom.other_user_name)}
+                  </div>
+                  <div>
+                    <div style={{ fontSize: "14px", fontWeight: "600", color: "#222" }}>{selectedRoom.other_user_name}</div>
+                    <div style={{ fontSize: "12px", color: "#888" }}>{selectedRoom.property_title}</div>
+                  </div>
+                </div>
+
+                {/* Messages */}
+                <div style={{ flex: 1, overflowY: "auto", padding: "16px", display: "flex", flexDirection: "column", gap: "8px", background: "#f9f9f9" }}>
+                  {messages.length === 0 ? (
+                    <div style={{ textAlign: "center", color: "#aaa", fontSize: "13px", marginTop: "40px" }}>
+                      No messages yet. Send the first message!
+                    </div>
+                  ) : messages.map(msg => (
+                    <div key={msg.id} style={{ display: "flex", justifyContent: msg.is_mine ? "flex-end" : "flex-start" }}>
+                      {!msg.is_mine && (
+                        <div style={{ width: "28px", height: "28px", borderRadius: "50%", background: "#E1F5EE", display: "flex", alignItems: "center", justifyContent: "center", fontSize: "10px", fontWeight: "600", color: "#0A5C3F", marginRight: "8px", flexShrink: 0, alignSelf: "flex-end" }}>
+                          {initials(selectedRoom.other_user_name)}
+                        </div>
+                      )}
+                      <div style={{ maxWidth: "70%" }}>
+                        <div style={{
+                          background: msg.is_mine ? "#0A5C3F" : "white",
+                          color: msg.is_mine ? "white" : "#333",
+                          borderRadius: msg.is_mine ? "16px 16px 4px 16px" : "16px 16px 16px 4px",
+                          padding: "10px 14px",
+                          fontSize: "14px",
+                          lineHeight: "1.5",
+                          boxShadow: "0 1px 2px rgba(0,0,0,0.06)",
+                          border: msg.is_mine ? "none" : "1px solid #eee",
+                        }}>
+                          {msg.content}
+                        </div>
+                        <div style={{ fontSize: "11px", color: "#aaa", marginTop: "3px", textAlign: msg.is_mine ? "right" : "left", paddingLeft: msg.is_mine ? "0" : "4px" }}>
+                          {formatTime(msg.created_at)}
+                          {msg.is_mine && msg.read_at && " Â· Read"}
+                        </div>
+                      </div>
+                    </div>
+                  ))}
+                  <div ref={messagesEndRef} />
+                </div>
+
+                {/* Message input */}
+                <div style={{ background: "white", padding: "12px 16px", borderTop: "1px solid #eee", display: "flex", gap: "10px", alignItems: "flex-end", flexShrink: 0 }}>
+                  <textarea
+                    value={newMessage}
+                    onChange={e => setNewMessage(e.target.value)}
+                    onKeyDown={e => { if (e.key === "Enter" && !e.shiftKey) { e.preventDefault(); sendMessage(); } }}
+                    placeholder="Type a message... (Enter to send)"
+                    rows={1}
+                    style={{ flex: 1, border: "1px solid #e8e8e8", borderRadius: "20px", padding: "10px 16px", fontSize: "14px", outline: "none", resize: "none", background: "#f8f8f8", maxHeight: "120px", fontFamily: "system-ui" }}
+                  />
+                  <button onClick={sendMessage} disabled={sending || !newMessage.trim()}
+                    style={{ background: sending || !newMessage.trim() ? "#ccc" : "#0A5C3F", color: "white", border: "none", borderRadius: "50%", width: "42px", height: "42px", cursor: sending || !newMessage.trim() ? "not-allowed" : "pointer", display: "flex", alignItems: "center", justifyContent: "center", flexShrink: 0, fontSize: "18px" }}>
+                    {sending ? "..." : "â†’"}
+                  </button>
+                </div>
+              </>
+            )}
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+export default function ChatPage() {
+  return (
+    <Suspense fallback={<div style={{ display: "flex", alignItems: "center", justifyContent: "center", height: "100vh" }}>Loading...</div>}>
+      <ChatContent />
+    </Suspense>
+  );
+}
+

@@ -1,1 +1,320 @@
-{"data":"InVzZSBjbGllbnQiOw0KaW1wb3J0IHsgdXNlU3RhdGUsIHVzZUVmZmVjdCB9IGZyb20gInJlYWN0IjsNCmltcG9ydCB7IHVzZVNlYXJjaFBhcmFtcywgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsNCmltcG9ydCB7IFN1c3BlbnNlIH0gZnJvbSAicmVhY3QiOw0KDQpjb25zdCBBUEkgPSAiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2FwaS92MSI7DQoNCmNvbnN0IE1JTEVTVE9ORVMgPSBbDQogIHsga2V5OiJwYXltZW50X3NlY3VyZWQiLCAgbGFiZWw6IlBheW1lbnQgU2VjdXJlZCIsICBkZXNjOiJGdW5kcyBoZWxkIHNhZmVseSBpbiBMYW5kVmVyaWZ5IGVzY3JvdyIsICAgICAgICAgIGljb246IiIgfSwNCiAgeyBrZXk6ImxlZ2FsX3NlYXJjaCIsICAgICBsYWJlbDoiTGVnYWwgU2VhcmNoIiwgICAgIGRlc2M6IlRpdGxlIHJlZ2lzdHJ5IHZlcmlmaWNhdGlvbiBpbiBwcm9ncmVzcyIsICAgICAgICAgIGljb246IiIgfSwNCiAgeyBrZXk6ImRlZWRfc2lnbmluZyIsICAgICBsYWJlbDoiRGVlZCBTaWduaW5nIiwgICAgIGRlc2M6IkRvY3VtZW50cyByZXZpZXdlZCBhbmQgc2lnbmVkIGJ5IGJvdGggcGFydGllcyIsICAgIGljb246IiIgfSwNCiAgeyBrZXk6ImZ1bmRfcmVsZWFzZSIsICAgICBsYWJlbDoiRnVuZCBSZWxlYXNlIiwgICAgIGRlc2M6IkZ1bmRzIHJlbGVhc2VkIHRvIHNlbGxlciB1cG9uIGNvbXBsZXRpb24iLCAgICAgICAgIGljb246IiIgfSwNCl07DQoNCmZ1bmN0aW9uIGZvcm1hdFByaWNlKHA6IG51bWJlcikgew0KICBpZiAocCA+PSAxMDAwMDAwKSByZXR1cm4gIiIgKyAocC8xMDAwMDAwKS50b0ZpeGVkKDEpICsgIk0iOw0KICByZXR1cm4gIiIgKyBwLnRvTG9jYWxlU3RyaW5nKCk7DQp9DQoNCmZ1bmN0aW9uIFBheW1lbnRDb250ZW50KCkgew0KICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsNCiAgY29uc3Qgc2VhcmNoUGFyYW1zID0gdXNlU2VhcmNoUGFyYW1zKCk7DQogIGNvbnN0IHByb3BlcnR5SWQgPSBzZWFyY2hQYXJhbXMuZ2V0KCJwcm9wZXJ0eSIpIHx8ICIxIjsNCiAgY29uc3QgcHJvcGVydHlUaXRsZSA9IHNlYXJjaFBhcmFtcy5nZXQoInRpdGxlIikgfHwgIjMgQmVkcm9vbSBGbGF0LCBMZWtraSBQaGFzZSAxIjsNCiAgY29uc3QgYW1vdW50TmFpcmEgPSBwYXJzZUZsb2F0KHNlYXJjaFBhcmFtcy5nZXQoImFtb3VudCIpIHx8ICI0NTAwMDAwMCIpOw0KDQogIGNvbnN0IFtzdGVwLCBzZXRTdGVwXSA9IHVzZVN0YXRlPCJvdmVydmlldyJ8ImNvbmZpcm0ifCJwcm9jZXNzaW5nInwic2VjdXJlZCJ8InRyYWNraW5nIj4oIm92ZXJ2aWV3Iik7DQogIGNvbnN0IFtlc2Nyb3dJZCwgc2V0RXNjcm93SWRdID0gdXNlU3RhdGUoIiIpOw0KICBjb25zdCBbZXNjcm93RGF0YSwgc2V0RXNjcm93RGF0YV0gPSB1c2VTdGF0ZTxhbnk+KG51bGwpOw0KICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7DQogIGNvbnN0IFtlcnJvciwgc2V0RXJyb3JdID0gdXNlU3RhdGUoIiIpOw0KICBjb25zdCBbYWdyZWVkLCBzZXRBZ3JlZWRdID0gdXNlU3RhdGUoZmFsc2UpOw0KDQogIGNvbnN0IHNlcnZpY2VGZWUgPSBhbW91bnROYWlyYSAqIDAuMDE1OyAvLyAxLjUlIExhbmRWZXJpZnkgZmVlDQogIGNvbnN0IHRvdGFsID0gYW1vdW50TmFpcmEgKyBzZXJ2aWNlRmVlOw0KDQogIGNvbnN0IGhhbmRsZUluaXRpYXRlUGF5bWVudCA9IGFzeW5jICgpID0+IHsNCiAgICBzZXRMb2FkaW5nKHRydWUpOw0KICAgIHNldEVycm9yKCIiKTsNCiAgICBjb25zdCB0b2tlbiA9IHNlc3Npb25TdG9yYWdlLmdldEl0ZW0oImFjY2Vzc190b2tlbiIpOw0KICAgIHRyeSB7DQogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaChgJHtBUEl9L3BheW1lbnRzL2VzY3Jvdy9pbml0aWF0ZWAsIHsNCiAgICAgICAgbWV0aG9kOiAiUE9TVCIsDQogICAgICAgIGhlYWRlcnM6IHsgIkNvbnRlbnQtVHlwZSI6ImFwcGxpY2F0aW9uL2pzb24iLCBBdXRob3JpemF0aW9uOmBCZWFyZXIgJHt0b2tlbn1gIH0sDQogICAgICAgIGJvZHk6IEpTT04uc3RyaW5naWZ5KHsNCiAgICAgICAgICBwcm9wZXJ0eV9pZDogcHJvcGVydHlJZCwNCiAgICAgICAgICBwcm9wZXJ0eV90aXRsZTogcHJvcGVydHlUaXRsZSwNCiAgICAgICAgICBhbW91bnRfbmFpcmE6IGFtb3VudE5haXJhLA0KICAgICAgICAgIHNlbGxlcl9pZDogIm1vY2stc2VsbGVyLWlkIiwNCiAgICAgICAgICBjYWxsYmFja191cmw6IGAke3dpbmRvdy5sb2NhdGlvbi5vcmlnaW59L3BheW1lbnQvY2FsbGJhY2tgLA0KICAgICAgICB9KSwNCiAgICAgIH0pOw0KICAgICAgY29uc3QgZGF0YSA9IGF3YWl0IHJlcy5qc29uKCk7DQogICAgICBpZiAocmVzLm9rKSB7DQogICAgICAgIHNldEVzY3Jvd0lkKGRhdGEuZXNjcm93X2lkKTsNCiAgICAgICAgLy8gSW4gcHJvZHVjdGlvbjogcmVkaXJlY3QgdG8gZGF0YS5hdXRob3JpemF0aW9uX3VybA0KICAgICAgICAvLyBGb3IgZGVtbzogc2ltdWxhdGUgc3VjY2Vzc2Z1bCBwYXltZW50DQogICAgICAgIHNldFN0ZXAoInByb2Nlc3NpbmciKTsNCiAgICAgICAgc2V0VGltZW91dCgoKSA9PiB7DQogICAgICAgICAgc2V0U3RlcCgic2VjdXJlZCIpOw0KICAgICAgICAgIHNldEVzY3Jvd0RhdGEoew0KICAgICAgICAgICAgaWQ6IGRhdGEuZXNjcm93X2lkLA0KICAgICAgICAgICAgcmVmZXJlbmNlOiBkYXRhLnJlZmVyZW5jZSwNCiAgICAgICAgICAgIGFtb3VudF9uYWlyYTogYW1vdW50TmFpcmEsDQogICAgICAgICAgICBzdGF0dXM6ICJzZWN1cmVkIiwNCiAgICAgICAgICAgIGN1cnJlbnRfbWlsZXN0b25lOiAicGF5bWVudF9zZWN1cmVkIiwNCiAgICAgICAgICAgIG1pbGVzdG9uZXNfY29tcGxldGVkOiBbInBheW1lbnRfc2VjdXJlZCJdLA0KICAgICAgICAgICAgcHJvcGVydHlfdGl0bGU6IHByb3BlcnR5VGl0bGUsDQogICAgICAgICAgICBwYWlkX2F0OiBuZXcgRGF0ZSgpLnRvSVNPU3RyaW5nKCksDQogICAgICAgICAgfSk7DQogICAgICAgIH0sIDI1MDApOw0KICAgICAgfSBlbHNlIHsNCiAgICAgICAgc2V0RXJyb3IoZGF0YS5kZXRhaWwgfHwgIlBheW1lbnQgaW5pdGlhdGlvbiBmYWlsZWQiKTsNCiAgICAgICAgc2V0U3RlcCgiY29uZmlybSIpOw0KICAgICAgfQ0KICAgIH0gY2F0Y2ggew0KICAgICAgc2V0RXJyb3IoIkNhbm5vdCBjb25uZWN0IHRvIHNlcnZlci4gTWFrZSBzdXJlIHlvdSBhcmUgbG9nZ2VkIGluLiIpOw0KICAgICAgc2V0U3RlcCgiY29uZmlybSIpOw0KICAgIH0gZmluYWxseSB7DQogICAgICBzZXRMb2FkaW5nKGZhbHNlKTsNCiAgICB9DQogIH07DQoNCiAgcmV0dXJuICgNCiAgICA8ZGl2IHN0eWxlPXt7bWluSGVpZ2h0OiIxMDB2aCIsYmFja2dyb3VuZDoiI2Y1ZjVmNSIsZm9udEZhbWlseToic3lzdGVtLXVpLHNhbnMtc2VyaWYifX0+DQoNCiAgICAgIHsvKiBIZWFkZXIgKi99DQogICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiIzBBNUMzRiIscGFkZGluZzoiMTRweCAyNHB4IixkaXNwbGF5OiJmbGV4IixhbGlnbkl0ZW1zOiJjZW50ZXIiLGp1c3RpZnlDb250ZW50OiJzcGFjZS1iZXR3ZWVuIn19Pg0KICAgICAgICA8c3BhbiBvbkNsaWNrPXsoKSA9PiByb3V0ZXIucHVzaCgiLyIpfSBzdHlsZT17e2NvbG9yOiJ3aGl0ZSIsZm9udFNpemU6IjE4cHgiLGZvbnRXZWlnaHQ6IjYwMCIsY3Vyc29yOiJwb2ludGVyIn19Pg0KICAgICAgICAgIExhbmQ8c3BhbiBzdHlsZT17e2NvbG9yOiIjRkFDNzc1In19PlZlcmlmeTwvc3Bhbj4NCiAgICAgICAgPC9zcGFuPg0KICAgICAgICA8c3BhbiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixjb2xvcjoicmdiYSgyNTUsMjU1LDI1NSwwLjYpIn19PiBTZWN1cmUgRXNjcm93IFBheW1lbnQ8L3NwYW4+DQogICAgICA8L2Rpdj4NCg0KICAgICAgPGRpdiBzdHlsZT17e21heFdpZHRoOiI1NjBweCIsbWFyZ2luOiIzMnB4IGF1dG8iLHBhZGRpbmc6IjAgMjBweCJ9fT4NCg0KICAgICAgICB7LyogT1ZFUlZJRVcgKi99DQogICAgICAgIHtzdGVwID09PSAib3ZlcnZpZXciICYmICgNCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsZmxleERpcmVjdGlvbjoiY29sdW1uIixnYXA6IjE2cHgifX0+DQoNCiAgICAgICAgICAgIHsvKiBQcm9wZXJ0eSBjYXJkICovfQ0KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IndoaXRlIixib3JkZXJSYWRpdXM6IjE0cHgiLHBhZGRpbmc6IjIwcHgiLGJvcmRlcjoiMXB4IHNvbGlkICNlZWUifX0+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjE0cHgiLGFsaWduSXRlbXM6ImNlbnRlciIsbWFyZ2luQm90dG9tOiIxNnB4In19Pg0KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiNTJweCIsaGVpZ2h0OiI1MnB4IixiYWNrZ3JvdW5kOiJsaW5lYXItZ3JhZGllbnQoMTM1ZGVnLCMwQTVDM0YsIzFEOUU3NSkiLGJvcmRlclJhZGl1czoiMTBweCIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmb250U2l6ZToiMjJweCIsZmxleFNocmluazowfX0+PC9kaXY+DQogICAgICAgICAgICAgICAgPGRpdj4NCiAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTVweCIsZm9udFdlaWdodDoiNjAwIixjb2xvcjoiIzIyMiIsbWFyZ2luQm90dG9tOiIycHgifX0+e3Byb3BlcnR5VGl0bGV9PC9kaXY+DQogICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEycHgiLGNvbG9yOiIjODg4In19PlByb3BlcnR5IElEOiB7cHJvcGVydHlJZH08L2Rpdj4NCiAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixmbGV4RGlyZWN0aW9uOiJjb2x1bW4iLGdhcDoiOHB4In19Pg0KICAgICAgICAgICAgICAgIHtbDQogICAgICAgICAgICAgICAgICB7IGxhYmVsOiJQcm9wZXJ0eSBQcmljZSIsIHZhbHVlOmZvcm1hdFByaWNlKGFtb3VudE5haXJhKSwgYm9sZDp0cnVlIH0sDQogICAgICAgICAgICAgICAgICB7IGxhYmVsOiJMYW5kVmVyaWZ5IFNlcnZpY2UgRmVlICgxLjUlKSIsIHZhbHVlOmZvcm1hdFByaWNlKHNlcnZpY2VGZWUpLCBib2xkOmZhbHNlIH0sDQogICAgICAgICAgICAgICAgICB7IGxhYmVsOiJUb3RhbCIsIHZhbHVlOmZvcm1hdFByaWNlKHRvdGFsKSwgYm9sZDp0cnVlLCBncmVlbjp0cnVlIH0sDQogICAgICAgICAgICAgICAgXS5tYXAoaXRlbSA9PiAoDQogICAgICAgICAgICAgICAgICA8ZGl2IGtleT17aXRlbS5sYWJlbH0gc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixqdXN0aWZ5Q29udGVudDoic3BhY2UtYmV0d2VlbiIsYWxpZ25JdGVtczoiY2VudGVyIixwYWRkaW5nOiI4cHggMCIsYm9yZGVyQm90dG9tOiIxcHggc29saWQgI2Y1ZjVmNSJ9fT4NCiAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTNweCIsY29sb3I6IiM2NjYifX0+e2l0ZW0ubGFiZWx9PC9zcGFuPg0KICAgICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17e2ZvbnRTaXplOml0ZW0uYm9sZD8iMTZweCI6IjEzcHgiLGZvbnRXZWlnaHQ6aXRlbS5ib2xkPyI3MDAiOiI0MDAiLGNvbG9yOml0ZW0uZ3JlZW4/IiMwQTVDM0YiOiIjMzMzIn19PntpdGVtLnZhbHVlfTwvc3Bhbj4NCiAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICkpfQ0KICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgIDwvZGl2Pg0KDQogICAgICAgICAgICB7LyogSG93IGVzY3JvdyB3b3JrcyAqL30NCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxNHB4IixwYWRkaW5nOiIyMHB4Iixib3JkZXI6IjFweCBzb2xpZCAjZWVlIn19Pg0KICAgICAgICAgICAgICA8aDMgc3R5bGU9e3tmb250U2l6ZToiMTRweCIsZm9udFdlaWdodDoiNjAwIixjb2xvcjoiIzMzMyIsbWFyZ2luQm90dG9tOiIxNHB4In19PkhvdyBMYW5kVmVyaWZ5IEVzY3JvdyBXb3JrczwvaDM+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixmbGV4RGlyZWN0aW9uOiJjb2x1bW4iLGdhcDoiMCJ9fT4NCiAgICAgICAgICAgICAgICB7TUlMRVNUT05FUy5tYXAoKG0sIGkpID0+ICgNCiAgICAgICAgICAgICAgICAgIDxkaXYga2V5PXttLmtleX0gc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjEycHgiLGFsaWduSXRlbXM6ImZsZXgtc3RhcnQiLHBhZGRpbmdCb3R0b206aTxNSUxFU1RPTkVTLmxlbmd0aC0xPyIxNHB4IjoiMCIscG9zaXRpb246InJlbGF0aXZlIn19Pg0KICAgICAgICAgICAgICAgICAgICB7aSA8IE1JTEVTVE9ORVMubGVuZ3RoLTEgJiYgKA0KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3twb3NpdGlvbjoiYWJzb2x1dGUiLGxlZnQ6IjE1cHgiLHRvcDoiMzJweCIsYm90dG9tOjAsd2lkdGg6IjJweCIsYmFja2dyb3VuZDoiI2U4ZThlOCJ9fT48L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgKX0NCiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e3dpZHRoOiIzMnB4IixoZWlnaHQ6IjMycHgiLGJvcmRlclJhZGl1czoiNTAlIixiYWNrZ3JvdW5kOiIjRTFGNUVFIixkaXNwbGF5OiJmbGV4IixhbGlnbkl0ZW1zOiJjZW50ZXIiLGp1c3RpZnlDb250ZW50OiJjZW50ZXIiLGZvbnRTaXplOiIxNnB4IixmbGV4U2hyaW5rOjAsekluZGV4OjF9fT4NCiAgICAgICAgICAgICAgICAgICAgICB7bS5pY29ufQ0KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e3BhZGRpbmdUb3A6IjRweCJ9fT4NCiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEzcHgiLGZvbnRXZWlnaHQ6IjYwMCIsY29sb3I6IiMzMzMiLG1hcmdpbkJvdHRvbToiMnB4In19PnttLmxhYmVsfTwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM4ODgifX0+e20uZGVzY308L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICApKX0NCiAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICA8L2Rpdj4NCg0KICAgICAgICAgICAgey8qIFNlY3VyaXR5IGJhZGdlcyAqL30NCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJncmlkIixncmlkVGVtcGxhdGVDb2x1bW5zOiIxZnIgMWZyIixnYXA6IjEwcHgifX0+DQogICAgICAgICAgICAgIHtbDQogICAgICAgICAgICAgICAgeyBpY29uOiIiLCBsYWJlbDoiMjU2LWJpdCBFbmNyeXB0aW9uIiwgZGVzYzoiQmFuay1sZXZlbCBzZWN1cml0eSIgfSwNCiAgICAgICAgICAgICAgICB7IGljb246IiIsIGxhYmVsOiJQYXlzdGFjayBQb3dlcmVkIiwgZGVzYzoiTmlnZXJpYSdzICMxIHBheW1lbnQgZ2F0ZXdheSIgfSwNCiAgICAgICAgICAgICAgICB7IGljb246IiIsIGxhYmVsOiJMZWdhbCBQcm90ZWN0aW9uIiwgZGVzYzoiQmluZGluZyBlc2Nyb3cgYWdyZWVtZW50IiB9LA0KICAgICAgICAgICAgICAgIHsgaWNvbjoiIiwgbGFiZWw6IlJlZnVuZCBQb2xpY3kiLCBkZXNjOiJGdWxsIHJlZnVuZCBpZiB0aXRsZSBmYWlscyIgfSwNCiAgICAgICAgICAgICAgXS5tYXAoYiA9PiAoDQogICAgICAgICAgICAgICAgPGRpdiBrZXk9e2IubGFiZWx9IHN0eWxlPXt7YmFja2dyb3VuZDoid2hpdGUiLGJvcmRlclJhZGl1czoiMTBweCIscGFkZGluZzoiMTJweCIsYm9yZGVyOiIxcHggc29saWQgI2VlZSIsZGlzcGxheToiZmxleCIsZ2FwOiIxMHB4IixhbGlnbkl0ZW1zOiJjZW50ZXIifX0+DQogICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17e2ZvbnRTaXplOiIyMHB4In19PntiLmljb259PC9zcGFuPg0KICAgICAgICAgICAgICAgICAgPGRpdj4NCiAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixmb250V2VpZ2h0OiI2MDAiLGNvbG9yOiIjMzMzIn19PntiLmxhYmVsfTwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjExcHgiLGNvbG9yOiIjODg4In19PntiLmRlc2N9PC9kaXY+DQogICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgKSl9DQogICAgICAgICAgICA8L2Rpdj4NCg0KICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXsoKSA9PiBzZXRTdGVwKCJjb25maXJtIil9DQogICAgICAgICAgICAgIHN0eWxlPXt7d2lkdGg6IjEwMCUiLGJhY2tncm91bmQ6IiMwQTVDM0YiLGNvbG9yOiJ3aGl0ZSIsYm9yZGVyOiJub25lIixib3JkZXJSYWRpdXM6IjEycHgiLHBhZGRpbmc6IjE1cHgiLGZvbnRTaXplOiIxNXB4Iixmb250V2VpZ2h0OiI1MDAiLGN1cnNvcjoicG9pbnRlciJ9fT4NCiAgICAgICAgICAgICAgUHJvY2VlZCB0byBQYXltZW50IA0KICAgICAgICAgICAgPC9idXR0b24+DQogICAgICAgICAgPC9kaXY+DQogICAgICAgICl9DQoNCiAgICAgICAgey8qIENPTkZJUk0gKi99DQogICAgICAgIHtzdGVwID09PSAiY29uZmlybSIgJiYgKA0KICAgICAgICAgIDxkaXYgc3R5bGU9e3tiYWNrZ3JvdW5kOiJ3aGl0ZSIsYm9yZGVyUmFkaXVzOiIxNHB4IixwYWRkaW5nOiIyNHB4Iixib3JkZXI6IjFweCBzb2xpZCAjZWVlIn19Pg0KICAgICAgICAgICAgPGgyIHN0eWxlPXt7Zm9udFNpemU6IjIwcHgiLGZvbnRXZWlnaHQ6IjcwMCIsY29sb3I6IiMyMjIiLG1hcmdpbkJvdHRvbToiNnB4In19PkNvbmZpcm0gUGF5bWVudDwvaDI+DQogICAgICAgICAgICA8cCBzdHlsZT17e2ZvbnRTaXplOiIxNHB4Iixjb2xvcjoiIzg4OCIsbWFyZ2luQm90dG9tOiIyMHB4In19PlJldmlldyB0aGUgZGV0YWlscyBiZWZvcmUgcHJvY2VlZGluZzwvcD4NCg0KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IiNmOGY4ZjgiLGJvcmRlclJhZGl1czoiMTBweCIscGFkZGluZzoiMTZweCIsbWFyZ2luQm90dG9tOiIxNnB4In19Pg0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEzcHgiLGNvbG9yOiIjODg4IixtYXJnaW5Cb3R0b206IjRweCJ9fT5QYXlpbmcgZm9yPC9kaXY+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTVweCIsZm9udFdlaWdodDoiNjAwIixjb2xvcjoiIzMzMyIsbWFyZ2luQm90dG9tOiI4cHgifX0+e3Byb3BlcnR5VGl0bGV9PC9kaXY+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMjhweCIsZm9udFdlaWdodDoiNzAwIixjb2xvcjoiIzBBNUMzRiJ9fT57Zm9ybWF0UHJpY2UodG90YWwpfTwvZGl2Pg0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjEycHgiLGNvbG9yOiIjODg4In19PmluY2x1ZGVzIHtmb3JtYXRQcmljZShzZXJ2aWNlRmVlKX0gc2VydmljZSBmZWU8L2Rpdj4NCiAgICAgICAgICAgIDwvZGl2Pg0KDQogICAgICAgICAgICB7ZXJyb3IgJiYgKA0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiI0ZERUNFQSIsYm9yZGVyOiIxcHggc29saWQgcmdiYSgxOTgsNDAsNDAsMC4yKSIsYm9yZGVyUmFkaXVzOiI4cHgiLHBhZGRpbmc6IjEwcHggMTRweCIsbWFyZ2luQm90dG9tOiIxNHB4Iixmb250U2l6ZToiMTNweCIsY29sb3I6IiNDNjI4MjgifX0+DQogICAgICAgICAgICAgICAgIHtlcnJvcn0NCiAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICApfQ0KDQogICAgICAgICAgICA8ZGl2IG9uQ2xpY2s9eygpID0+IHNldEFncmVlZCghYWdyZWVkKX0NCiAgICAgICAgICAgICAgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjEwcHgiLGFsaWduSXRlbXM6ImZsZXgtc3RhcnQiLHBhZGRpbmc6IjEycHgiLGJhY2tncm91bmQ6IiNmOGY4ZjgiLGJvcmRlclJhZGl1czoiOHB4IixjdXJzb3I6InBvaW50ZXIiLG1hcmdpbkJvdHRvbToiMTZweCIsYm9yZGVyOmAxcHggc29saWQgJHthZ3JlZWQ/IiMwQTVDM0YiOiIjZThlOGU4In1gfX0+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3t3aWR0aDoiMThweCIsaGVpZ2h0OiIxOHB4Iixib3JkZXJSYWRpdXM6IjRweCIsYm9yZGVyOmAxLjVweCBzb2xpZCAke2FncmVlZD8iIzBBNUMzRiI6IiNjY2MifWAsYmFja2dyb3VuZDphZ3JlZWQ/IiMwQTVDM0YiOiJ3aGl0ZSIsZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixmbGV4U2hyaW5rOjAsbWFyZ2luVG9wOiIxcHgifX0+DQogICAgICAgICAgICAgICAge2FncmVlZCAmJiA8c3BhbiBzdHlsZT17e2NvbG9yOiJ3aGl0ZSIsZm9udFNpemU6IjExcHgiLGZvbnRXZWlnaHQ6IjcwMCJ9fT48L3NwYW4+fQ0KICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM1NTUiLGxpbmVIZWlnaHQ6IjEuNSJ9fT4NCiAgICAgICAgICAgICAgICBJIGFncmVlIHRvIHRoZSA8c3BhbiBzdHlsZT17e2NvbG9yOiIjMEE1QzNGIn19PkVzY3JvdyBUZXJtczwvc3Bhbj4uIEkgdW5kZXJzdGFuZCB0aGF0IGZ1bmRzIHdpbGwgYmUgaGVsZCBzZWN1cmVseSB1bnRpbCBhbGwgdGl0bGUgdmVyaWZpY2F0aW9uIHN0ZXBzIGFyZSBjb21wbGV0ZS4NCiAgICAgICAgICAgICAgPC9zcGFuPg0KICAgICAgICAgICAgPC9kaXY+DQoNCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjEwcHgifX0+DQogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gc2V0U3RlcCgib3ZlcnZpZXciKX0NCiAgICAgICAgICAgICAgICBzdHlsZT17e2ZsZXg6MSxiYWNrZ3JvdW5kOiIjZjBmMGYwIixjb2xvcjoiIzMzMyIsYm9yZGVyOiJub25lIixib3JkZXJSYWRpdXM6IjEwcHgiLHBhZGRpbmc6IjEzcHgiLGZvbnRTaXplOiIxNHB4IixjdXJzb3I6InBvaW50ZXIifX0+DQogICAgICAgICAgICAgICAgIEJhY2sNCiAgICAgICAgICAgICAgPC9idXR0b24+DQogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17aGFuZGxlSW5pdGlhdGVQYXltZW50fSBkaXNhYmxlZD17IWFncmVlZHx8bG9hZGluZ30NCiAgICAgICAgICAgICAgICBzdHlsZT17e2ZsZXg6MixiYWNrZ3JvdW5kOighYWdyZWVkfHxsb2FkaW5nKT8iI2NjYyI6IiMwQTVDM0YiLGNvbG9yOiJ3aGl0ZSIsYm9yZGVyOiJub25lIixib3JkZXJSYWRpdXM6IjEwcHgiLHBhZGRpbmc6IjEzcHgiLGZvbnRTaXplOiIxNHB4Iixmb250V2VpZ2h0OiI1MDAiLGN1cnNvcjooIWFncmVlZHx8bG9hZGluZyk/Im5vdC1hbGxvd2VkIjoicG9pbnRlciJ9fT4NCiAgICAgICAgICAgICAgICB7bG9hZGluZz8iUHJvY2Vzc2luZy4uLiI6IlBheSB3aXRoIFBheXN0YWNrICJ9DQogICAgICAgICAgICAgIDwvYnV0dG9uPg0KICAgICAgICAgICAgPC9kaXY+DQoNCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjE2cHgiLGp1c3RpZnlDb250ZW50OiJjZW50ZXIiLG1hcmdpblRvcDoiMTRweCJ9fT4NCiAgICAgICAgICAgICAge1siVmlzYSIsIk1hc3RlcmNhcmQiLCJWZXJ2ZSIsIkJhbmsgVHJhbnNmZXIiLCJVU1NEIl0ubWFwKG0gPT4gKA0KICAgICAgICAgICAgICAgIDxzcGFuIGtleT17bX0gc3R5bGU9e3tmb250U2l6ZToiMTFweCIsY29sb3I6IiNhYWEifX0+e219PC9zcGFuPg0KICAgICAgICAgICAgICApKX0NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgIDwvZGl2Pg0KICAgICAgICApfQ0KDQogICAgICAgIHsvKiBQUk9DRVNTSU5HICovfQ0KICAgICAgICB7c3RlcCA9PT0gInByb2Nlc3NpbmciICYmICgNCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoid2hpdGUiLGJvcmRlclJhZGl1czoiMTRweCIscGFkZGluZzoiNDBweCIsYm9yZGVyOiIxcHggc29saWQgI2VlZSIsdGV4dEFsaWduOiJjZW50ZXIifX0+DQogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjU2cHgiLG1hcmdpbkJvdHRvbToiMTZweCIsYW5pbWF0aW9uOiJzcGluIDJzIGxpbmVhciBpbmZpbml0ZSJ9fT48L2Rpdj4NCiAgICAgICAgICAgIDxoMiBzdHlsZT17e2ZvbnRTaXplOiIyMHB4Iixmb250V2VpZ2h0OiI3MDAiLGNvbG9yOiIjMjIyIixtYXJnaW5Cb3R0b206IjhweCJ9fT5Qcm9jZXNzaW5nIFBheW1lbnQ8L2gyPg0KICAgICAgICAgICAgPHAgc3R5bGU9e3tmb250U2l6ZToiMTRweCIsY29sb3I6IiM4ODgiLGxpbmVIZWlnaHQ6IjEuNiJ9fT4NCiAgICAgICAgICAgICAgU2VjdXJpbmcgeW91ciBmdW5kcyBpbiBlc2Nyb3cgdmlhIFBheXN0YWNrLi4uPGJyLz5QbGVhc2UgZG8gbm90IGNsb3NlIHRoaXMgd2luZG93Lg0KICAgICAgICAgICAgPC9wPg0KICAgICAgICAgICAgPHN0eWxlPntgQGtleWZyYW1lcyBzcGluIHsgZnJvbXt0cmFuc2Zvcm06cm90YXRlKDBkZWcpfSB0b3t0cmFuc2Zvcm06cm90YXRlKDM2MGRlZyl9IH1gfTwvc3R5bGU+DQogICAgICAgICAgPC9kaXY+DQogICAgICAgICl9DQoNCiAgICAgICAgey8qIFNFQ1VSRUQgKi99DQogICAgICAgIHtzdGVwID09PSAic2VjdXJlZCIgJiYgZXNjcm93RGF0YSAmJiAoDQogICAgICAgICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImZsZXgiLGZsZXhEaXJlY3Rpb246ImNvbHVtbiIsZ2FwOiIxNnB4In19Pg0KICAgICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IndoaXRlIixib3JkZXJSYWRpdXM6IjE0cHgiLHBhZGRpbmc6IjI4cHgiLGJvcmRlcjoiMXB4IHNvbGlkICNlZWUiLHRleHRBbGlnbjoiY2VudGVyIn19Pg0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7d2lkdGg6IjcycHgiLGhlaWdodDoiNzJweCIsYmFja2dyb3VuZDoiI0UxRjVFRSIsYm9yZGVyUmFkaXVzOiI1MCUiLGRpc3BsYXk6ImZsZXgiLGFsaWduSXRlbXM6ImNlbnRlciIsanVzdGlmeUNvbnRlbnQ6ImNlbnRlciIsbWFyZ2luOiIwIGF1dG8gMTZweCIsZm9udFNpemU6IjMycHgifX0+PC9kaXY+DQogICAgICAgICAgICAgIDxoMiBzdHlsZT17e2ZvbnRTaXplOiIyMnB4Iixmb250V2VpZ2h0OiI3MDAiLGNvbG9yOiIjMEE1QzNGIixtYXJnaW5Cb3R0b206IjhweCJ9fT5QYXltZW50IFNlY3VyZWQhPC9oMj4NCiAgICAgICAgICAgICAgPHAgc3R5bGU9e3tmb250U2l6ZToiMTRweCIsY29sb3I6IiM4ODgiLG1hcmdpbkJvdHRvbToiMjBweCIsbGluZUhlaWdodDoiMS42In19Pg0KICAgICAgICAgICAgICAgIDxzdHJvbmc+e2Zvcm1hdFByaWNlKGFtb3VudE5haXJhKX08L3N0cm9uZz4gaXMgbm93IGhlbGQgc2FmZWx5IGluIGVzY3Jvdy48YnIvPg0KICAgICAgICAgICAgICAgIEZ1bmRzIHdpbGwgYmUgcmVsZWFzZWQgdG8gdGhlIHNlbGxlciBvbmNlIGFsbCBtaWxlc3RvbmVzIGFyZSBjb21wbGV0ZS4NCiAgICAgICAgICAgICAgPC9wPg0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiI2Y4ZjhmOCIsYm9yZGVyUmFkaXVzOiI4cHgiLHBhZGRpbmc6IjEycHgiLG1hcmdpbkJvdHRvbToiMjBweCIsdGV4dEFsaWduOiJsZWZ0In19Pg0KICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixqdXN0aWZ5Q29udGVudDoic3BhY2UtYmV0d2VlbiIsbWFyZ2luQm90dG9tOiI2cHgifX0+DQogICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixjb2xvcjoiIzg4OCJ9fT5SZWZlcmVuY2U8L3NwYW4+DQogICAgICAgICAgICAgICAgICA8c3BhbiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixmb250RmFtaWx5OiJtb25vc3BhY2UiLGNvbG9yOiIjMzMzIn19Pntlc2Nyb3dEYXRhLnJlZmVyZW5jZT8uc2xpY2UoLTEyKX08L3NwYW4+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2Rpc3BsYXk6ImZsZXgiLGp1c3RpZnlDb250ZW50OiJzcGFjZS1iZXR3ZWVuIn19Pg0KICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM4ODgifX0+RXNjcm93IElEPC9zcGFuPg0KICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTJweCIsZm9udEZhbWlseToibW9ub3NwYWNlIixjb2xvcjoiIzMzMyJ9fT57ZXNjcm93RGF0YS5pZD8uc2xpY2UoLTEyKX08L3NwYW4+DQogICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICA8YnV0dG9uIG9uQ2xpY2s9eygpID0+IHNldFN0ZXAoInRyYWNraW5nIil9DQogICAgICAgICAgICAgICAgc3R5bGU9e3t3aWR0aDoiMTAwJSIsYmFja2dyb3VuZDoiIzBBNUMzRiIsY29sb3I6IndoaXRlIixib3JkZXI6Im5vbmUiLGJvcmRlclJhZGl1czoiMTBweCIscGFkZGluZzoiMTNweCIsZm9udFNpemU6IjE0cHgiLGZvbnRXZWlnaHQ6IjUwMCIsY3Vyc29yOiJwb2ludGVyIn19Pg0KICAgICAgICAgICAgICAgIFRyYWNrIFByb2dyZXNzIA0KICAgICAgICAgICAgICA8L2J1dHRvbj4NCiAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgIDwvZGl2Pg0KICAgICAgICApfQ0KDQogICAgICAgIHsvKiBUUkFDS0lORyAqL30NCiAgICAgICAge3N0ZXAgPT09ICJ0cmFja2luZyIgJiYgZXNjcm93RGF0YSAmJiAoDQogICAgICAgICAgPGRpdiBzdHlsZT17e2JhY2tncm91bmQ6IndoaXRlIixib3JkZXJSYWRpdXM6IjE0cHgiLHBhZGRpbmc6IjI0cHgiLGJvcmRlcjoiMXB4IHNvbGlkICNlZWUifX0+DQogICAgICAgICAgICA8aDIgc3R5bGU9e3tmb250U2l6ZToiMThweCIsZm9udFdlaWdodDoiNzAwIixjb2xvcjoiIzIyMiIsbWFyZ2luQm90dG9tOiI0cHgifX0+RXNjcm93IFByb2dyZXNzPC9oMj4NCiAgICAgICAgICAgIDxwIHN0eWxlPXt7Zm9udFNpemU6IjEzcHgiLGNvbG9yOiIjODg4IixtYXJnaW5Cb3R0b206IjIwcHgifX0+e3Byb3BlcnR5VGl0bGV9PC9wPg0KDQogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7bWFyZ2luQm90dG9tOiIyMHB4In19Pg0KICAgICAgICAgICAgICB7TUlMRVNUT05FUy5tYXAoKG0sIGkpID0+IHsNCiAgICAgICAgICAgICAgICBjb25zdCBjb21wbGV0ZWQgPSBlc2Nyb3dEYXRhLm1pbGVzdG9uZXNfY29tcGxldGVkPy5pbmNsdWRlcyhtLmtleSk7DQogICAgICAgICAgICAgICAgY29uc3QgY3VycmVudCA9IGVzY3Jvd0RhdGEuY3VycmVudF9taWxlc3RvbmUgPT09IG0ua2V5Ow0KICAgICAgICAgICAgICAgIHJldHVybiAoDQogICAgICAgICAgICAgICAgICA8ZGl2IGtleT17bS5rZXl9IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsZ2FwOiIxNHB4IixhbGlnbkl0ZW1zOiJmbGV4LXN0YXJ0IixwYWRkaW5nQm90dG9tOmk8TUlMRVNUT05FUy5sZW5ndGgtMT8iMTZweCI6IjAiLHBvc2l0aW9uOiJyZWxhdGl2ZSJ9fT4NCiAgICAgICAgICAgICAgICAgICAge2kgPCBNSUxFU1RPTkVTLmxlbmd0aC0xICYmICgNCiAgICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7cG9zaXRpb246ImFic29sdXRlIixsZWZ0OiIxNXB4Iix0b3A6IjMycHgiLGJvdHRvbTowLHdpZHRoOiIycHgiLGJhY2tncm91bmQ6Y29tcGxldGVkPyIjMEE1QzNGIjoiI2VlZSIsdHJhbnNpdGlvbjoiYmFja2dyb3VuZCAwLjNzIn19PjwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICApfQ0KICAgICAgICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7d2lkdGg6IjMycHgiLGhlaWdodDoiMzJweCIsYm9yZGVyUmFkaXVzOiI1MCUiLGJhY2tncm91bmQ6Y29tcGxldGVkPyIjMEE1QzNGIjpjdXJyZW50PyIjRkZGM0NEIjoiI2YwZjBmMCIsYm9yZGVyOmAycHggc29saWQgJHtjb21wbGV0ZWQ/IiMwQTVDM0YiOmN1cnJlbnQ/IiM4NTY0MDQiOiIjZGRkIn1gLGRpc3BsYXk6ImZsZXgiLGFsaWduSXRlbXM6ImNlbnRlciIsanVzdGlmeUNvbnRlbnQ6ImNlbnRlciIsZm9udFNpemU6IjE0cHgiLGZsZXhTaHJpbms6MCx6SW5kZXg6MX19Pg0KICAgICAgICAgICAgICAgICAgICAgIHtjb21wbGV0ZWQgPyAiIiA6IG0uaWNvbn0NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3twYWRkaW5nVG9wOiI0cHgiLGZsZXg6MX19Pg0KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixqdXN0aWZ5Q29udGVudDoic3BhY2UtYmV0d2VlbiIsYWxpZ25JdGVtczoiY2VudGVyIn19Pg0KICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxM3B4Iixmb250V2VpZ2h0OiI2MDAiLGNvbG9yOmNvbXBsZXRlZD8iIzBBNUMzRiI6Y3VycmVudD8iIzg1NjQwNCI6IiM4ODgiLG1hcmdpbkJvdHRvbToiMnB4In19PnttLmxhYmVsfTwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3tmb250U2l6ZToiMTBweCIsZm9udFdlaWdodDoiNTAwIixiYWNrZ3JvdW5kOmNvbXBsZXRlZD8iI0UxRjVFRSI6Y3VycmVudD8iI0ZGRjNDRCI6IiNmMGYwZjAiLGNvbG9yOmNvbXBsZXRlZD8iIzBBNUMzRiI6Y3VycmVudD8iIzg1NjQwNCI6IiNhYWEiLGJvcmRlclJhZGl1czoiNHB4IixwYWRkaW5nOiIycHggN3B4In19Pg0KICAgICAgICAgICAgICAgICAgICAgICAgICB7Y29tcGxldGVkPyJEb25lIjpjdXJyZW50PyJJbiBQcm9ncmVzcyI6IlBlbmRpbmcifQ0KICAgICAgICAgICAgICAgICAgICAgICAgPC9zcGFuPg0KICAgICAgICAgICAgICAgICAgICAgIDwvZGl2Pg0KICAgICAgICAgICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTJweCIsY29sb3I6IiM4ODgifX0+e20uZGVzY308L2Rpdj4NCiAgICAgICAgICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgICAgICAgICA8L2Rpdj4NCiAgICAgICAgICAgICAgICApOw0KICAgICAgICAgICAgICB9KX0NCiAgICAgICAgICAgIDwvZGl2Pg0KDQogICAgICAgICAgICA8ZGl2IHN0eWxlPXt7YmFja2dyb3VuZDoiI0UxRjVFRSIsYm9yZGVyUmFkaXVzOiIxMHB4IixwYWRkaW5nOiIxNHB4IixtYXJnaW5Cb3R0b206IjE2cHgifX0+DQogICAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tmb250U2l6ZToiMTNweCIsZm9udFdlaWdodDoiNjAwIixjb2xvcjoiIzBBNUMzRiIsbWFyZ2luQm90dG9tOiI0cHgifX0+QW1vdW50IGluIEVzY3JvdzwvZGl2Pg0KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7Zm9udFNpemU6IjI0cHgiLGZvbnRXZWlnaHQ6IjcwMCIsY29sb3I6IiMwQTVDM0YifX0+e2Zvcm1hdFByaWNlKGFtb3VudE5haXJhKX08L2Rpdj4NCiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17e2ZvbnRTaXplOiIxMnB4Iixjb2xvcjoiIzBBNUMzRiIsbWFyZ2luVG9wOiIycHgifX0+IFNlY3VyZWQgwrcgUmVmdW5kYWJsZSBpZiB0aXRsZSBmYWlsczwvZGl2Pg0KICAgICAgICAgICAgPC9kaXY+DQoNCiAgICAgICAgICAgIDxkaXYgc3R5bGU9e3tkaXNwbGF5OiJmbGV4IixnYXA6IjEwcHgifX0+DQogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gcm91dGVyLnB1c2goIi9idXllciIpfQ0KICAgICAgICAgICAgICAgIHN0eWxlPXt7ZmxleDoxLGJhY2tncm91bmQ6IiNmMGYwZjAiLGNvbG9yOiIjMzMzIixib3JkZXI6Im5vbmUiLGJvcmRlclJhZGl1czoiMTBweCIscGFkZGluZzoiMTJweCIsZm9udFNpemU6IjEzcHgiLGN1cnNvcjoicG9pbnRlciJ9fT4NCiAgICAgICAgICAgICAgICBNeSBQb3J0YWwNCiAgICAgICAgICAgICAgPC9idXR0b24+DQogICAgICAgICAgICAgIDxidXR0b24gb25DbGljaz17KCkgPT4gcm91dGVyLnB1c2goYC9wcm9wZXJ0eS8ke3Byb3BlcnR5SWR9YCl9DQogICAgICAgICAgICAgICAgc3R5bGU9e3tmbGV4OjIsYmFja2dyb3VuZDoiIzBBNUMzRiIsY29sb3I6IndoaXRlIixib3JkZXI6Im5vbmUiLGJvcmRlclJhZGl1czoiMTBweCIscGFkZGluZzoiMTJweCIsZm9udFNpemU6IjEzcHgiLGZvbnRXZWlnaHQ6IjUwMCIsY3Vyc29yOiJwb2ludGVyIn19Pg0KICAgICAgICAgICAgICAgIFZpZXcgUHJvcGVydHkgDQogICAgICAgICAgICAgIDwvYnV0dG9uPg0KICAgICAgICAgICAgPC9kaXY+DQogICAgICAgICAgPC9kaXY+DQogICAgICAgICl9DQogICAgICA8L2Rpdj4NCiAgICA8L2Rpdj4NCiAgKTsNCn0NCg0KZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUGF5bWVudFBhZ2UoKSB7DQogIHJldHVybiAoDQogICAgPFN1c3BlbnNlIGZhbGxiYWNrPXs8ZGl2IHN0eWxlPXt7ZGlzcGxheToiZmxleCIsYWxpZ25JdGVtczoiY2VudGVyIixqdXN0aWZ5Q29udGVudDoiY2VudGVyIixoZWlnaHQ6IjEwMHZoIixmb250RmFtaWx5OiJzeXN0ZW0tdWkifX0+TG9hZGluZy4uLjwvZGl2Pn0+DQogICAgICA8UGF5bWVudENvbnRlbnQgLz4NCiAgICA8L1N1c3BlbnNlPg0KICApOw0KfQ0KDQo="}
+"use client";
+import { useState, useEffect } from "react";
+import { useSearchParams, useRouter } from "next/navigation";
+import { Suspense } from "react";
+
+const API = "http://localhost:8000/api/v1";
+
+const MILESTONES = [
+  { key:"payment_secured",  label:"Payment Secured",  desc:"Funds held safely in LandVerify escrow",          icon:"" },
+  { key:"legal_search",     label:"Legal Search",     desc:"Title registry verification in progress",          icon:"" },
+  { key:"deed_signing",     label:"Deed Signing",     desc:"Documents reviewed and signed by both parties",    icon:"" },
+  { key:"fund_release",     label:"Fund Release",     desc:"Funds released to seller upon completion",         icon:"" },
+];
+
+function formatPrice(p: number) {
+  if (p >= 1000000) return "" + (p/1000000).toFixed(1) + "M";
+  return "" + p.toLocaleString();
+}
+
+function PaymentContent() {
+  const router = useRouter();
+  const searchParams = useSearchParams();
+  const propertyId = searchParams.get("property") || "1";
+  const propertyTitle = searchParams.get("title") || "3 Bedroom Flat, Lekki Phase 1";
+  const amountNaira = parseFloat(searchParams.get("amount") || "45000000");
+
+  const [step, setStep] = useState<"overview"|"confirm"|"processing"|"secured"|"tracking">("overview");
+  const [escrowId, setEscrowId] = useState("");
+  const [escrowData, setEscrowData] = useState<any>(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+  const [agreed, setAgreed] = useState(false);
+
+  const serviceFee = amountNaira * 0.015; // 1.5% LandVerify fee
+  const total = amountNaira + serviceFee;
+
+  const handleInitiatePayment = async () => {
+    setLoading(true);
+    setError("");
+    const token = sessionStorage.getItem("access_token");
+    try {
+      const res = await fetch(`${API}/payments/escrow/initiate`, {
+        method: "POST",
+        headers: { "Content-Type":"application/json", Authorization:`Bearer ${token}` },
+        body: JSON.stringify({
+          property_id: propertyId,
+          property_title: propertyTitle,
+          amount_naira: amountNaira,
+          seller_id: "mock-seller-id",
+          callback_url: `${window.location.origin}/payment/callback`,
+        }),
+      });
+      const data = await res.json();
+      if (res.ok) {
+        setEscrowId(data.escrow_id);
+        // In production: redirect to data.authorization_url
+        // For demo: simulate successful payment
+        setStep("processing");
+        setTimeout(() => {
+          setStep("secured");
+          setEscrowData({
+            id: data.escrow_id,
+            reference: data.reference,
+            amount_naira: amountNaira,
+            status: "secured",
+            current_milestone: "payment_secured",
+            milestones_completed: ["payment_secured"],
+            property_title: propertyTitle,
+            paid_at: new Date().toISOString(),
+          });
+        }, 2500);
+      } else {
+        setError(data.detail || "Payment initiation failed");
+        setStep("confirm");
+      }
+    } catch {
+      setError("Cannot connect to server. Make sure you are logged in.");
+      setStep("confirm");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  return (
+    <div style={{minHeight:"100vh",background:"#f5f5f5",fontFamily:"system-ui,sans-serif"}}>
+
+      {/* Header */}
+      <div style={{background:"#0A5C3F",padding:"14px 24px",display:"flex",alignItems:"center",justifyContent:"space-between"}}>
+        <span onClick={() => router.push("/")} style={{color:"white",fontSize:"18px",fontWeight:"600",cursor:"pointer"}}>
+          Land<span style={{color:"#FAC775"}}>Verify</span>
+        </span>
+        <span style={{fontSize:"12px",color:"rgba(255,255,255,0.6)"}}> Secure Escrow Payment</span>
+      </div>
+
+      <div style={{maxWidth:"560px",margin:"32px auto",padding:"0 20px"}}>
+
+        {/* OVERVIEW */}
+        {step === "overview" && (
+          <div style={{display:"flex",flexDirection:"column",gap:"16px"}}>
+
+            {/* Property card */}
+            <div style={{background:"white",borderRadius:"14px",padding:"20px",border:"1px solid #eee"}}>
+              <div style={{display:"flex",gap:"14px",alignItems:"center",marginBottom:"16px"}}>
+                <div style={{width:"52px",height:"52px",background:"linear-gradient(135deg,#0A5C3F,#1D9E75)",borderRadius:"10px",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"22px",flexShrink:0}}></div>
+                <div>
+                  <div style={{fontSize:"15px",fontWeight:"600",color:"#222",marginBottom:"2px"}}>{propertyTitle}</div>
+                  <div style={{fontSize:"12px",color:"#888"}}>Property ID: {propertyId}</div>
+                </div>
+              </div>
+              <div style={{display:"flex",flexDirection:"column",gap:"8px"}}>
+                {[
+                  { label:"Property Price", value:formatPrice(amountNaira), bold:true },
+                  { label:"LandVerify Service Fee (1.5%)", value:formatPrice(serviceFee), bold:false },
+                  { label:"Total", value:formatPrice(total), bold:true, green:true },
+                ].map(item => (
+                  <div key={item.label} style={{display:"flex",justifyContent:"space-between",alignItems:"center",padding:"8px 0",borderBottom:"1px solid #f5f5f5"}}>
+                    <span style={{fontSize:"13px",color:"#666"}}>{item.label}</span>
+                    <span style={{fontSize:item.bold?"16px":"13px",fontWeight:item.bold?"700":"400",color:item.green?"#0A5C3F":"#333"}}>{item.value}</span>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* How escrow works */}
+            <div style={{background:"white",borderRadius:"14px",padding:"20px",border:"1px solid #eee"}}>
+              <h3 style={{fontSize:"14px",fontWeight:"600",color:"#333",marginBottom:"14px"}}>How LandVerify Escrow Works</h3>
+              <div style={{display:"flex",flexDirection:"column",gap:"0"}}>
+                {MILESTONES.map((m, i) => (
+                  <div key={m.key} style={{display:"flex",gap:"12px",alignItems:"flex-start",paddingBottom:i<MILESTONES.length-1?"14px":"0",position:"relative"}}>
+                    {i < MILESTONES.length-1 && (
+                      <div style={{position:"absolute",left:"15px",top:"32px",bottom:0,width:"2px",background:"#e8e8e8"}}></div>
+                    )}
+                    <div style={{width:"32px",height:"32px",borderRadius:"50%",background:"#E1F5EE",display:"flex",alignItems:"center",justifyContent:"center",fontSize:"16px",flexShrink:0,zIndex:1}}>
+                      {m.icon}
+                    </div>
+                    <div style={{paddingTop:"4px"}}>
+                      <div style={{fontSize:"13px",fontWeight:"600",color:"#333",marginBottom:"2px"}}>{m.label}</div>
+                      <div style={{fontSize:"12px",color:"#888"}}>{m.desc}</div>
+                    </div>
+                  </div>
+                ))}
+              </div>
+            </div>
+
+            {/* Security badges */}
+            <div style={{display:"grid",gridTemplateColumns:"1fr 1fr",gap:"10px"}}>
+              {[
+                { icon:"", label:"256-bit Encryption", desc:"Bank-level security" },
+                { icon:"", label:"Paystack Powered", desc:"Nigeria's #1 payment gateway" },
+                { icon:"", label:"Legal Protection", desc:"Binding escrow agreement" },
+                { icon:"", label:"Refund Policy", desc:"Full refund if title fails" },
+              ].map(b => (
+                <div key={b.label} style={{background:"white",borderRadius:"10px",padding:"12px",border:"1px solid #eee",display:"flex",gap:"10px",alignItems:"center"}}>
+                  <span style={{fontSize:"20px"}}>{b.icon}</span>
+                  <div>
+                    <div style={{fontSize:"12px",fontWeight:"600",color:"#333"}}>{b.label}</div>
+                    <div style={{fontSize:"11px",color:"#888"}}>{b.desc}</div>
+                  </div>
+                </div>
+              ))}
+            </div>
+
+            <button onClick={() => setStep("confirm")}
+              style={{width:"100%",background:"#0A5C3F",color:"white",border:"none",borderRadius:"12px",padding:"15px",fontSize:"15px",fontWeight:"500",cursor:"pointer"}}>
+              Proceed to Payment 
+            </button>
+          </div>
+        )}
+
+        {/* CONFIRM */}
+        {step === "confirm" && (
+          <div style={{background:"white",borderRadius:"14px",padding:"24px",border:"1px solid #eee"}}>
+            <h2 style={{fontSize:"20px",fontWeight:"700",color:"#222",marginBottom:"6px"}}>Confirm Payment</h2>
+            <p style={{fontSize:"14px",color:"#888",marginBottom:"20px"}}>Review the details before proceeding</p>
+
+            <div style={{background:"#f8f8f8",borderRadius:"10px",padding:"16px",marginBottom:"16px"}}>
+              <div style={{fontSize:"13px",color:"#888",marginBottom:"4px"}}>Paying for</div>
+              <div style={{fontSize:"15px",fontWeight:"600",color:"#333",marginBottom:"8px"}}>{propertyTitle}</div>
+              <div style={{fontSize:"28px",fontWeight:"700",color:"#0A5C3F"}}>{formatPrice(total)}</div>
+              <div style={{fontSize:"12px",color:"#888"}}>includes {formatPrice(serviceFee)} service fee</div>
+            </div>
+
+            {error && (
+              <div style={{background:"#FDECEA",border:"1px solid rgba(198,40,40,0.2)",borderRadius:"8px",padding:"10px 14px",marginBottom:"14px",fontSize:"13px",color:"#C62828"}}>
+                 {error}
+              </div>
+            )}
+
+            <div onClick={() => setAgreed(!agreed)}
+              style={{display:"flex",gap:"10px",alignItems:"flex-start",padding:"12px",background:"#f8f8f8",borderRadius:"8px",cursor:"pointer",marginBottom:"16px",border:`1px solid ${agreed?"#0A5C3F":"#e8e8e8"}`}}>
+              <div style={{width:"18px",height:"18px",borderRadius:"4px",border:`1.5px solid ${agreed?"#0A5C3F":"#ccc"}`,background:agreed?"#0A5C3F":"white",display:"flex",alignItems:"center",justifyContent:"center",flexShrink:0,marginTop:"1px"}}>
+                {agreed && <span style={{color:"white",fontSize:"11px",fontWeight:"700"}}></span>}
+              </div>
+              <span style={{fontSize:"12px",color:"#555",lineHeight:"1.5"}}>
+                I agree to the <span style={{color:"#0A5C3F"}}>Escrow Terms</span>. I understand that funds will be held securely until all title verification steps are complete.
+              </span>
+            </div>
+
+            <div style={{display:"flex",gap:"10px"}}>
+              <button onClick={() => setStep("overview")}
+                style={{flex:1,background:"#f0f0f0",color:"#333",border:"none",borderRadius:"10px",padding:"13px",fontSize:"14px",cursor:"pointer"}}>
+                 Back
+              </button>
+              <button onClick={handleInitiatePayment} disabled={!agreed||loading}
+                style={{flex:2,background:(!agreed||loading)?"#ccc":"#0A5C3F",color:"white",border:"none",borderRadius:"10px",padding:"13px",fontSize:"14px",fontWeight:"500",cursor:(!agreed||loading)?"not-allowed":"pointer"}}>
+                {loading?"Processing...":"Pay with Paystack "}
+              </button>
+            </div>
+
+            <div style={{display:"flex",gap:"16px",justifyContent:"center",marginTop:"14px"}}>
+              {["Visa","Mastercard","Verve","Bank Transfer","USSD"].map(m => (
+                <span key={m} style={{fontSize:"11px",color:"#aaa"}}>{m}</span>
+              ))}
+            </div>
+          </div>
+        )}
+
+        {/* PROCESSING */}
+        {step === "processing" && (
+          <div style={{background:"white",borderRadius:"14px",padding:"40px",border:"1px solid #eee",textAlign:"center"}}>
+            <div style={{fontSize:"56px",marginBottom:"16px",animation:"spin 2s linear infinite"}}></div>
+            <h2 style={{fontSize:"20px",fontWeight:"700",color:"#222",marginBottom:"8px"}}>Processing Payment</h2>
+            <p style={{fontSize:"14px",color:"#888",lineHeight:"1.6"}}>
+              Securing your funds in escrow via Paystack...<br/>Please do not close this window.
+            </p>
+            <style>{`@keyframes spin { from{transform:rotate(0deg)} to{transform:rotate(360deg)} }`}</style>
+          </div>
+        )}
+
+        {/* SECURED */}
+        {step === "secured" && escrowData && (
+          <div style={{display:"flex",flexDirection:"column",gap:"16px"}}>
+            <div style={{background:"white",borderRadius:"14px",padding:"28px",border:"1px solid #eee",textAlign:"center"}}>
+              <div style={{width:"72px",height:"72px",background:"#E1F5EE",borderRadius:"50%",display:"flex",alignItems:"center",justifyContent:"center",margin:"0 auto 16px",fontSize:"32px"}}></div>
+              <h2 style={{fontSize:"22px",fontWeight:"700",color:"#0A5C3F",marginBottom:"8px"}}>Payment Secured!</h2>
+              <p style={{fontSize:"14px",color:"#888",marginBottom:"20px",lineHeight:"1.6"}}>
+                <strong>{formatPrice(amountNaira)}</strong> is now held safely in escrow.<br/>
+                Funds will be released to the seller once all milestones are complete.
+              </p>
+              <div style={{background:"#f8f8f8",borderRadius:"8px",padding:"12px",marginBottom:"20px",textAlign:"left"}}>
+                <div style={{display:"flex",justifyContent:"space-between",marginBottom:"6px"}}>
+                  <span style={{fontSize:"12px",color:"#888"}}>Reference</span>
+                  <span style={{fontSize:"12px",fontFamily:"monospace",color:"#333"}}>{escrowData.reference?.slice(-12)}</span>
+                </div>
+                <div style={{display:"flex",justifyContent:"space-between"}}>
+                  <span style={{fontSize:"12px",color:"#888"}}>Escrow ID</span>
+                  <span style={{fontSize:"12px",fontFamily:"monospace",color:"#333"}}>{escrowData.id?.slice(-12)}</span>
+                </div>
+              </div>
+              <button onClick={() => setStep("tracking")}
+                style={{width:"100%",background:"#0A5C3F",color:"white",border:"none",borderRadius:"10px",padding:"13px",fontSize:"14px",fontWeight:"500",cursor:"pointer"}}>
+                Track Progress 
+              </button>
+            </div>
+          </div>
+        )}
+
+        {/* TRACKING */}
+        {step === "tracking" && escrowData && (
+          <div style={{background:"white",borderRadius:"14px",padding:"24px",border:"1px solid #eee"}}>
+            <h2 style={{fontSize:"18px",fontWeight:"700",color:"#222",marginBottom:"4px"}}>Escrow Progress</h2>
+            <p style={{fontSize:"13px",color:"#888",marginBottom:"20px"}}>{propertyTitle}</p>
+
+            <div style={{marginBottom:"20px"}}>
+              {MILESTONES.map((m, i) => {
+                const completed = escrowData.milestones_completed?.includes(m.key);
+                const current = escrowData.current_milestone === m.key;
+                return (
+                  <div key={m.key} style={{display:"flex",gap:"14px",alignItems:"flex-start",paddingBottom:i<MILESTONES.length-1?"16px":"0",position:"relative"}}>
+                    {i < MILESTONES.length-1 && (
+                      <div style={{position:"absolute",left:"15px",top:"32px",bottom:0,width:"2px",background:completed?"#0A5C3F":"#eee",transition:"background 0.3s"}}></div>
+                    )}
+                    <div style={{width:"32px",height:"32px",borderRadius:"50%",background:completed?"#0A5C3F":current?"#FFF3CD":"#f0f0f0",border:`2px solid ${completed?"#0A5C3F":current?"#856404":"#ddd"}`,display:"flex",alignItems:"center",justifyContent:"center",fontSize:"14px",flexShrink:0,zIndex:1}}>
+                      {completed ? "" : m.icon}
+                    </div>
+                    <div style={{paddingTop:"4px",flex:1}}>
+                      <div style={{display:"flex",justifyContent:"space-between",alignItems:"center"}}>
+                        <div style={{fontSize:"13px",fontWeight:"600",color:completed?"#0A5C3F":current?"#856404":"#888",marginBottom:"2px"}}>{m.label}</div>
+                        <span style={{fontSize:"10px",fontWeight:"500",background:completed?"#E1F5EE":current?"#FFF3CD":"#f0f0f0",color:completed?"#0A5C3F":current?"#856404":"#aaa",borderRadius:"4px",padding:"2px 7px"}}>
+                          {completed?"Done":current?"In Progress":"Pending"}
+                        </span>
+                      </div>
+                      <div style={{fontSize:"12px",color:"#888"}}>{m.desc}</div>
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+
+            <div style={{background:"#E1F5EE",borderRadius:"10px",padding:"14px",marginBottom:"16px"}}>
+              <div style={{fontSize:"13px",fontWeight:"600",color:"#0A5C3F",marginBottom:"4px"}}>Amount in Escrow</div>
+              <div style={{fontSize:"24px",fontWeight:"700",color:"#0A5C3F"}}>{formatPrice(amountNaira)}</div>
+              <div style={{fontSize:"12px",color:"#0A5C3F",marginTop:"2px"}}> Secured · Refundable if title fails</div>
+            </div>
+
+            <div style={{display:"flex",gap:"10px"}}>
+              <button onClick={() => router.push("/buyer")}
+                style={{flex:1,background:"#f0f0f0",color:"#333",border:"none",borderRadius:"10px",padding:"12px",fontSize:"13px",cursor:"pointer"}}>
+                My Portal
+              </button>
+              <button onClick={() => router.push(`/property/${propertyId}`)}
+                style={{flex:2,background:"#0A5C3F",color:"white",border:"none",borderRadius:"10px",padding:"12px",fontSize:"13px",fontWeight:"500",cursor:"pointer"}}>
+                View Property 
+              </button>
+            </div>
+          </div>
+        )}
+      </div>
+    </div>
+  );
+}
+
+export default function PaymentPage() {
+  return (
+    <Suspense fallback={<div style={{display:"flex",alignItems:"center",justifyContent:"center",height:"100vh",fontFamily:"system-ui"}}>Loading...</div>}>
+      <PaymentContent />
+    </Suspense>
+  );
+}
+

@@ -1,1 +1,28 @@
-{"data":"InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VUaGVtZSB9IGZyb20gIi4vVGhlbWVQcm92aWRlciI7CgpleHBvcnQgZnVuY3Rpb24gRGFya01vZGVUb2dnbGUoeyBzdHlsZSB9OiB7IHN0eWxlPzogUmVhY3QuQ1NTUHJvcGVydGllcyB9KSB7CiAgY29uc3QgeyB0aGVtZSwgdG9nZ2xlVGhlbWUgfSA9IHVzZVRoZW1lKCk7CgogIHJldHVybiAoCiAgICA8YnV0dG9uCiAgICAgIG9uQ2xpY2s9e3RvZ2dsZVRoZW1lfQogICAgICB0aXRsZT17dGhlbWUgPT09ICJkYXJrIiA/ICJTd2l0Y2ggdG8gbGlnaHQgbW9kZSIgOiAiU3dpdGNoIHRvIGRhcmsgbW9kZSJ9CiAgICAgIHN0eWxlPXt7CiAgICAgICAgYmFja2dyb3VuZDogInJnYmEoMjU1LDI1NSwyNTUsMC4xMikiLAogICAgICAgIGJvcmRlcjogIm5vbmUiLAogICAgICAgIGJvcmRlclJhZGl1czogIjhweCIsCiAgICAgICAgcGFkZGluZzogIjZweCAxMHB4IiwKICAgICAgICBjdXJzb3I6ICJwb2ludGVyIiwKICAgICAgICBmb250U2l6ZTogIjE2cHgiLAogICAgICAgIGxpbmVIZWlnaHQ6IDEsCiAgICAgICAgZGlzcGxheTogImZsZXgiLAogICAgICAgIGFsaWduSXRlbXM6ICJjZW50ZXIiLAogICAgICAgIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwKICAgICAgICAuLi5zdHlsZSwKICAgICAgfX0KICAgID4KICAgICAge3RoZW1lID09PSAiZGFyayIgPyAi4piA77iPIiA6ICLwn4yZIn0KICAgIDwvYnV0dG9uPgogICk7Cn0K"}
+"use client";
+import { useTheme } from "./ThemeProvider";
+
+export function DarkModeToggle({ style }: { style?: React.CSSProperties }) {
+  const { theme, toggleTheme } = useTheme();
+
+  return (
+    <button
+      onClick={toggleTheme}
+      title={theme === "dark" ? "Switch to light mode" : "Switch to dark mode"}
+      style={{
+        background: "rgba(255,255,255,0.12)",
+        border: "none",
+        borderRadius: "8px",
+        padding: "6px 10px",
+        cursor: "pointer",
+        fontSize: "16px",
+        lineHeight: 1,
+        display: "flex",
+        alignItems: "center",
+        justifyContent: "center",
+        ...style,
+      }}
+    >
+      {theme === "dark" ? "☀️" : "🌙"}
+    </button>
+  );
+}

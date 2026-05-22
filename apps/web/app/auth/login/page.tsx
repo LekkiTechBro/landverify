@@ -1,1 +1,123 @@
-{"data":"InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VTdGF0ZSB9IGZyb20gInJlYWN0IjsKaW1wb3J0IHsgdXNlUm91dGVyIH0gZnJvbSAibmV4dC9uYXZpZ2F0aW9uIjsKCmV4cG9ydCBkZWZhdWx0IGZ1bmN0aW9uIExvZ2luUGFnZSgpIHsKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKICBjb25zdCBbZW1haWwsIHNldEVtYWlsXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbcGFzc3dvcmQsIHNldFBhc3N3b3JkXSA9IHVzZVN0YXRlKCIiKTsKICBjb25zdCBbbG9hZGluZywgc2V0TG9hZGluZ10gPSB1c2VTdGF0ZShmYWxzZSk7CiAgY29uc3QgW2Vycm9yLCBzZXRFcnJvcl0gPSB1c2VTdGF0ZSgiIik7CiAgY29uc3QgW3Nob3dQYXNzd29yZCwgc2V0U2hvd1Bhc3N3b3JkXSA9IHVzZVN0YXRlKGZhbHNlKTsKCiAgY29uc3QgaGFuZGxlTG9naW4gPSBhc3luYyAoKSA9PiB7CiAgICBpZiAoIWVtYWlsIHx8ICFwYXNzd29yZCkgeyBzZXRFcnJvcigiUGxlYXNlIGZpbGwgaW4gYWxsIGZpZWxkcyIpOyByZXR1cm47IH0KICAgIHNldExvYWRpbmcodHJ1ZSk7CiAgICBzZXRFcnJvcigiIik7CiAgICB0cnkgewogICAgICBjb25zdCBmb3JtRGF0YSA9IG5ldyBGb3JtRGF0YSgpOwogICAgICBmb3JtRGF0YS5hcHBlbmQoInVzZXJuYW1lIiwgZW1haWwpOwogICAgICBmb3JtRGF0YS5hcHBlbmQoInBhc3N3b3JkIiwgcGFzc3dvcmQpOwogICAgICBjb25zdCByZXMgPSBhd2FpdCBmZXRjaCgiaHR0cDovL2xvY2FsaG9zdDo4MDAwL2FwaS92MS9hdXRoL2xvZ2luIiwgeyBtZXRob2Q6ICJQT1NUIiwgYm9keTogZm9ybURhdGEgfSk7CiAgICAgIGNvbnN0IGRhdGEgPSBhd2FpdCByZXMuanNvbigpOwogICAgICBpZiAoIXJlcy5vaykgeyBzZXRFcnJvcihkYXRhLmRldGFpbCB8fCAiSW52YWxpZCBlbWFpbCBvciBwYXNzd29yZCIpOyByZXR1cm47IH0KCiAgICAgIGNvbnN0IGFjY2Vzc1Rva2VuID0gZGF0YS5hY2Nlc3NfdG9rZW4gfHwgZGF0YS50b2tlbnM/LmFjY2Vzc190b2tlbjsKICAgICAgY29uc3QgcmVmcmVzaFRva2VuID0gZGF0YS5yZWZyZXNoX3Rva2VuIHx8IGRhdGEudG9rZW5zPy5yZWZyZXNoX3Rva2VuOwogICAgICBjb25zdCByb2xlID0gZGF0YS51c2VyPy5yb2xlIHx8IGRhdGEucm9sZTsKCiAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oImFjY2Vzc190b2tlbiIsIGFjY2Vzc1Rva2VuKTsKICAgICAgc2Vzc2lvblN0b3JhZ2Uuc2V0SXRlbSgicmVmcmVzaF90b2tlbiIsIHJlZnJlc2hUb2tlbik7CiAgICAgIHNlc3Npb25TdG9yYWdlLnNldEl0ZW0oInVzZXJfcm9sZSIsIHJvbGUpOwogICAgICBkb2N1bWVudC5jb29raWUgPSAiYWNjZXNzX3Rva2VuPSIgKyBhY2Nlc3NUb2tlbiArICI7IHBhdGg9LzsgbWF4LWFnZT04NjQwMDsgU2FtZVNpdGU9TGF4IjsKCiAgICAgIGNvbnN0IHJlZGlyZWN0ID0gbmV3IFVSTFNlYXJjaFBhcmFtcyh3aW5kb3cubG9jYXRpb24uc2VhcmNoKS5nZXQoInJlZGlyZWN0Iik7CiAgICAgIGlmIChyZWRpcmVjdCkgewogICAgICAgIHJvdXRlci5wdXNoKHJlZGlyZWN0KTsKICAgICAgfSBlbHNlIGlmIChyb2xlID09PSAiYWRtaW4iKSB7CiAgICAgICAgcm91dGVyLnB1c2goIi9hZG1pbiIpOwogICAgICB9IGVsc2UgewogICAgICAgIHJvdXRlci5wdXNoKCIvIik7CiAgICAgIH0KICAgIH0gY2F0Y2ggewogICAgICBzZXRFcnJvcigiQ2Fubm90IGNvbm5lY3QgdG8gc2VydmVyLiBQbGVhc2UgdHJ5IGFnYWluLiIpOwogICAgfSBmaW5hbGx5IHsKICAgICAgc2V0TG9hZGluZyhmYWxzZSk7CiAgICB9CiAgfTsKCiAgY29uc3QgaW5wOiBSZWFjdC5DU1NQcm9wZXJ0aWVzID0gewogICAgd2lkdGg6ICIxMDAlIiwgYmFja2dyb3VuZDogIiNmOGY4ZjgiLCBib3JkZXI6ICIxcHggc29saWQgI2U4ZThlOCIsCiAgICBib3JkZXJSYWRpdXM6ICI4cHgiLCBwYWRkaW5nOiAiMTJweCAxNHB4IiwgZm9udFNpemU6ICIxNHB4IiwKICAgIGNvbG9yOiAiIzMzMyIsIG91dGxpbmU6ICJub25lIiwgYm94U2l6aW5nOiAiYm9yZGVyLWJveCIsCiAgfTsKCiAgcmV0dXJuICgKICAgIDxkaXYgc3R5bGU9e3sgbWluSGVpZ2h0OiAiMTAwdmgiLCBiYWNrZ3JvdW5kOiAiI2Y1ZjVmNSIsIGZvbnRGYW1pbHk6ICJzeXN0ZW0tdWksc2Fucy1zZXJpZiIsIGRpc3BsYXk6ICJmbGV4IiwgZmxleERpcmVjdGlvbjogImNvbHVtbiIgfX0+CiAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIiMwQTVDM0YiLCBwYWRkaW5nOiAiMTZweCAyNHB4IiB9fT4KICAgICAgICA8c3BhbiBvbkNsaWNrPXsoKSA9PiByb3V0ZXIucHVzaCgiLyIpfSBzdHlsZT17eyBjb2xvcjogIndoaXRlIiwgZm9udFNpemU6ICIyMHB4IiwgZm9udFdlaWdodDogIjYwMCIsIGN1cnNvcjogInBvaW50ZXIiIH19PgogICAgICAgICAgTGFuZDxzcGFuIHN0eWxlPXt7IGNvbG9yOiAiI0ZBQzc3NSIgfX0+VmVyaWZ5PC9zcGFuPgogICAgICAgIDwvc3Bhbj4KICAgICAgPC9kaXY+CgogICAgICA8ZGl2IHN0eWxlPXt7IGZsZXg6IDEsIGRpc3BsYXk6ICJmbGV4IiwgYWxpZ25JdGVtczogImNlbnRlciIsIGp1c3RpZnlDb250ZW50OiAiY2VudGVyIiwgcGFkZGluZzogIjI0cHgiIH19PgogICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIndoaXRlIiwgYm9yZGVyUmFkaXVzOiAiMTZweCIsIHBhZGRpbmc6ICIzNnB4Iiwgd2lkdGg6ICIxMDAlIiwgbWF4V2lkdGg6ICI0MjBweCIsIGJvcmRlcjogIjFweCBzb2xpZCAjZWVlIiwgYm94U2hhZG93OiAiMCA0cHggMjBweCByZ2JhKDAsMCwwLDAuMDYpIiB9fT4KCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHRleHRBbGlnbjogImNlbnRlciIsIG1hcmdpbkJvdHRvbTogIjI4cHgiIH19PgogICAgICAgICAgICA8aDEgc3R5bGU9e3sgZm9udFNpemU6ICIyMnB4IiwgZm9udFdlaWdodDogIjcwMCIsIGNvbG9yOiAiIzIyMiIsIG1hcmdpbjogIjAgMCA2cHgiIH19PldlbGNvbWUgYmFjazwvaDE+CiAgICAgICAgICAgIDxwIHN0eWxlPXt7IGZvbnRTaXplOiAiMTRweCIsIGNvbG9yOiAiIzg4OCIsIG1hcmdpbjogMCB9fT5TaWduIGluIHRvIHlvdXIgTGFuZFZlcmlmeSBhY2NvdW50PC9wPgogICAgICAgICAgPC9kaXY+CgogICAgICAgICAge2Vycm9yICYmICgKICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiI0ZERUNFQSIsIGJvcmRlcjogIjFweCBzb2xpZCByZ2JhKDE5OCw0MCw0MCwwLjIpIiwgYm9yZGVyUmFkaXVzOiAiOHB4IiwgcGFkZGluZzogIjEwcHggMTRweCIsIG1hcmdpbkJvdHRvbTogIjE2cHgiLCBmb250U2l6ZTogIjEzcHgiLCBjb2xvcjogIiNDNjI4MjgiIH19PgogICAgICAgICAgICAgIHtlcnJvcn0KICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICApfQoKICAgICAgICAgIDxkaXYgc3R5bGU9e3sgZGlzcGxheTogImZsZXgiLCBmbGV4RGlyZWN0aW9uOiAiY29sdW1uIiwgZ2FwOiAiMTZweCIgfX0+CiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPGxhYmVsIHN0eWxlPXt7IGZvbnRTaXplOiAiMTJweCIsIGZvbnRXZWlnaHQ6ICI1MDAiLCBjb2xvcjogIiM1NTUiLCBkaXNwbGF5OiAiYmxvY2siLCBtYXJnaW5Cb3R0b206ICI2cHgiIH19PkVtYWlsIGFkZHJlc3M8L2xhYmVsPgogICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJlbWFpbCIgcGxhY2Vob2xkZXI9InlvdUBleGFtcGxlLmNvbSIgdmFsdWU9e2VtYWlsfQogICAgICAgICAgICAgICAgb25DaGFuZ2U9e2UgPT4gc2V0RW1haWwoZS50YXJnZXQudmFsdWUpfQogICAgICAgICAgICAgICAgb25LZXlEb3duPXtlID0+IGUua2V5ID09PSAiRW50ZXIiICYmIGhhbmRsZUxvZ2luKCl9CiAgICAgICAgICAgICAgICBzdHlsZT17aW5wfSAvPgogICAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICAgIDxkaXY+CiAgICAgICAgICAgICAgPGRpdiBzdHlsZT17eyBkaXNwbGF5OiAiZmxleCIsIGp1c3RpZnlDb250ZW50OiAic3BhY2UtYmV0d2VlbiIsIGFsaWduSXRlbXM6ICJjZW50ZXIiLCBtYXJnaW5Cb3R0b206ICI2cHgiIH19PgogICAgICAgICAgICAgICAgPGxhYmVsIHN0eWxlPXt7IGZvbnRTaXplOiAiMTJweCIsIGZvbnRXZWlnaHQ6ICI1MDAiLCBjb2xvcjogIiM1NTUiIH19PlBhc3N3b3JkPC9sYWJlbD4KICAgICAgICAgICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCIvYXV0aC9mb3Jnb3QtcGFzc3dvcmQiKX0gc3R5bGU9e3sgZm9udFNpemU6ICIxMnB4IiwgY29sb3I6ICIjMEE1QzNGIiwgY3Vyc29yOiAicG9pbnRlciIgfX0+Rm9yZ290IHBhc3N3b3JkPzwvc3Bhbj4KICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8ZGl2IHN0eWxlPXt7IHBvc2l0aW9uOiAicmVsYXRpdmUiIH19PgogICAgICAgICAgICAgICAgPGlucHV0IHR5cGU9e3Nob3dQYXNzd29yZCA/ICJ0ZXh0IiA6ICJwYXNzd29yZCJ9IHBsYWNlaG9sZGVyPSJFbnRlciB5b3VyIHBhc3N3b3JkIiB2YWx1ZT17cGFzc3dvcmR9CiAgICAgICAgICAgICAgICAgIG9uQ2hhbmdlPXtlID0+IHNldFBhc3N3b3JkKGUudGFyZ2V0LnZhbHVlKX0KICAgICAgICAgICAgICAgICAgb25LZXlEb3duPXtlID0+IGUua2V5ID09PSAiRW50ZXIiICYmIGhhbmRsZUxvZ2luKCl9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXtpbnB9IC8+CiAgICAgICAgICAgICAgICA8c3BhbiBvbkNsaWNrPXsoKSA9PiBzZXRTaG93UGFzc3dvcmQoIXNob3dQYXNzd29yZCl9CiAgICAgICAgICAgICAgICAgIHN0eWxlPXt7IHBvc2l0aW9uOiAiYWJzb2x1dGUiLCByaWdodDogIjEycHgiLCB0b3A6ICI1MCUiLCB0cmFuc2Zvcm06ICJ0cmFuc2xhdGVZKC01MCUpIiwgY3Vyc29yOiAicG9pbnRlciIsIGZvbnRTaXplOiAiMTJweCIsIGNvbG9yOiAiIzg4OCIgfX0+CiAgICAgICAgICAgICAgICAgIHtzaG93UGFzc3dvcmQgPyAiSGlkZSIgOiAiU2hvdyJ9CiAgICAgICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgPGJ1dHRvbiBvbkNsaWNrPXtoYW5kbGVMb2dpbn0gZGlzYWJsZWQ9e2xvYWRpbmd9CiAgICAgICAgICAgICAgc3R5bGU9e3sgd2lkdGg6ICIxMDAlIiwgYmFja2dyb3VuZDogbG9hZGluZyA/ICIjY2NjIiA6ICIjMEE1QzNGIiwgY29sb3I6ICJ3aGl0ZSIsIGJvcmRlcjogIm5vbmUiLCBib3JkZXJSYWRpdXM6ICIxMHB4IiwgcGFkZGluZzogIjE0cHgiLCBmb250U2l6ZTogIjE1cHgiLCBmb250V2VpZ2h0OiAiNTAwIiwgY3Vyc29yOiBsb2FkaW5nID8gIm5vdC1hbGxvd2VkIiA6ICJwb2ludGVyIiB9fT4KICAgICAgICAgICAgICB7bG9hZGluZyA/ICJTaWduaW5nIGluLi4uIiA6ICJTaWduIGluIn0KICAgICAgICAgICAgPC9idXR0b24+CiAgICAgICAgICA8L2Rpdj4KCiAgICAgICAgICA8ZGl2IHN0eWxlPXt7IGJhY2tncm91bmQ6ICIjZjhmOGY4IiwgYm9yZGVyUmFkaXVzOiAiMTBweCIsIHBhZGRpbmc6ICIxNHB4IiwgbWFyZ2luOiAiMjBweCAwIiwgdGV4dEFsaWduOiAiY2VudGVyIiB9fT4KICAgICAgICAgICAgPHNwYW4gc3R5bGU9e3sgZm9udFNpemU6ICIxMXB4IiwgY29sb3I6ICIjODg4IiB9fT5TZWN1cmUgbG9naW4gwrcgTklOIHZlcmlmaWVkIMK3IEVuY3J5cHRlZDwvc3Bhbj4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIDxwIHN0eWxlPXt7IHRleHRBbGlnbjogImNlbnRlciIsIGZvbnRTaXplOiAiMTNweCIsIGNvbG9yOiAiIzg4OCIsIG1hcmdpbjogMCB9fT4KICAgICAgICAgICAgRG9uJ3QgaGF2ZSBhbiBhY2NvdW50P3siICJ9CiAgICAgICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCIvYXV0aC9zaWdudXAiKX0gc3R5bGU9e3sgY29sb3I6ICIjMEE1QzNGIiwgZm9udFdlaWdodDogIjUwMCIsIGN1cnNvcjogInBvaW50ZXIiIH19PgogICAgICAgICAgICAgIENyZWF0ZSBvbmUgZnJlZQogICAgICAgICAgICA8L3NwYW4+CiAgICAgICAgICA8L3A+CiAgICAgICAgPC9kaXY+CiAgICAgIDwvZGl2PgogICAgPC9kaXY+CiAgKTsKfQo="}
+"use client";
+import { useState } from "react";
+import { useRouter } from "next/navigation";
+
+export default function LoginPage() {
+  const router = useRouter();
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState("");
+  const [showPassword, setShowPassword] = useState(false);
+
+  const handleLogin = async () => {
+    if (!email || !password) { setError("Please fill in all fields"); return; }
+    setLoading(true);
+    setError("");
+    try {
+      const formData = new FormData();
+      formData.append("username", email);
+      formData.append("password", password);
+      const res = await fetch("http://localhost:8000/api/v1/auth/login", { method: "POST", body: formData });
+      const data = await res.json();
+      if (!res.ok) { setError(data.detail || "Invalid email or password"); return; }
+
+      const accessToken = data.access_token || data.tokens?.access_token;
+      const refreshToken = data.refresh_token || data.tokens?.refresh_token;
+      const role = data.user?.role || data.role;
+
+      sessionStorage.setItem("access_token", accessToken);
+      sessionStorage.setItem("refresh_token", refreshToken);
+      sessionStorage.setItem("user_role", role);
+      document.cookie = "access_token=" + accessToken + "; path=/; max-age=86400; SameSite=Lax";
+
+      const redirect = new URLSearchParams(window.location.search).get("redirect");
+      if (redirect) {
+        router.push(redirect);
+      } else if (role === "admin") {
+        router.push("/admin");
+      } else {
+        router.push("/");
+      }
+    } catch {
+      setError("Cannot connect to server. Please try again.");
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const inp: React.CSSProperties = {
+    width: "100%", background: "#f8f8f8", border: "1px solid #e8e8e8",
+    borderRadius: "8px", padding: "12px 14px", fontSize: "14px",
+    color: "#333", outline: "none", boxSizing: "border-box",
+  };
+
+  return (
+    <div style={{ minHeight: "100vh", background: "#f5f5f5", fontFamily: "system-ui,sans-serif", display: "flex", flexDirection: "column" }}>
+      <div style={{ background: "#0A5C3F", padding: "16px 24px" }}>
+        <span onClick={() => router.push("/")} style={{ color: "white", fontSize: "20px", fontWeight: "600", cursor: "pointer" }}>
+          Land<span style={{ color: "#FAC775" }}>Verify</span>
+        </span>
+      </div>
+
+      <div style={{ flex: 1, display: "flex", alignItems: "center", justifyContent: "center", padding: "24px" }}>
+        <div style={{ background: "white", borderRadius: "16px", padding: "36px", width: "100%", maxWidth: "420px", border: "1px solid #eee", boxShadow: "0 4px 20px rgba(0,0,0,0.06)" }}>
+
+          <div style={{ textAlign: "center", marginBottom: "28px" }}>
+            <h1 style={{ fontSize: "22px", fontWeight: "700", color: "#222", margin: "0 0 6px" }}>Welcome back</h1>
+            <p style={{ fontSize: "14px", color: "#888", margin: 0 }}>Sign in to your LandVerify account</p>
+          </div>
+
+          {error && (
+            <div style={{ background: "#FDECEA", border: "1px solid rgba(198,40,40,0.2)", borderRadius: "8px", padding: "10px 14px", marginBottom: "16px", fontSize: "13px", color: "#C62828" }}>
+              {error}
+            </div>
+          )}
+
+          <div style={{ display: "flex", flexDirection: "column", gap: "16px" }}>
+            <div>
+              <label style={{ fontSize: "12px", fontWeight: "500", color: "#555", display: "block", marginBottom: "6px" }}>Email address</label>
+              <input type="email" placeholder="you@example.com" value={email}
+                onChange={e => setEmail(e.target.value)}
+                onKeyDown={e => e.key === "Enter" && handleLogin()}
+                style={inp} />
+            </div>
+
+            <div>
+              <div style={{ display: "flex", justifyContent: "space-between", alignItems: "center", marginBottom: "6px" }}>
+                <label style={{ fontSize: "12px", fontWeight: "500", color: "#555" }}>Password</label>
+                <span onClick={() => router.push("/auth/forgot-password")} style={{ fontSize: "12px", color: "#0A5C3F", cursor: "pointer" }}>Forgot password?</span>
+              </div>
+              <div style={{ position: "relative" }}>
+                <input type={showPassword ? "text" : "password"} placeholder="Enter your password" value={password}
+                  onChange={e => setPassword(e.target.value)}
+                  onKeyDown={e => e.key === "Enter" && handleLogin()}
+                  style={inp} />
+                <span onClick={() => setShowPassword(!showPassword)}
+                  style={{ position: "absolute", right: "12px", top: "50%", transform: "translateY(-50%)", cursor: "pointer", fontSize: "12px", color: "#888" }}>
+                  {showPassword ? "Hide" : "Show"}
+                </span>
+              </div>
+            </div>
+
+            <button onClick={handleLogin} disabled={loading}
+              style={{ width: "100%", background: loading ? "#ccc" : "#0A5C3F", color: "white", border: "none", borderRadius: "10px", padding: "14px", fontSize: "15px", fontWeight: "500", cursor: loading ? "not-allowed" : "pointer" }}>
+              {loading ? "Signing in..." : "Sign in"}
+            </button>
+          </div>
+
+          <div style={{ background: "#f8f8f8", borderRadius: "10px", padding: "14px", margin: "20px 0", textAlign: "center" }}>
+            <span style={{ fontSize: "11px", color: "#888" }}>Secure login · NIN verified · Encrypted</span>
+          </div>
+
+          <p style={{ textAlign: "center", fontSize: "13px", color: "#888", margin: 0 }}>
+            Don't have an account?{" "}
+            <span onClick={() => router.push("/auth/signup")} style={{ color: "#0A5C3F", fontWeight: "500", cursor: "pointer" }}>
+              Create one free
+            </span>
+          </p>
+        </div>
+      </div>
+    </div>
+  );
+}

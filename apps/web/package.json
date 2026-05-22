@@ -1,1 +1,26 @@
-{"data":"ew0KICAibmFtZSI6ICJ3ZWIiLA0KICAidmVyc2lvbiI6ICIwLjEuMCIsDQogICJwcml2YXRlIjogdHJ1ZSwNCiAgInNjcmlwdHMiOiB7DQogICAgImRldiI6ICJuZXh0IGRldiAtcCAzMDA1IiwNCiAgICAiYnVpbGQiOiAibmV4dCBidWlsZCIsDQogICAgInN0YXJ0IjogIm5leHQgc3RhcnQiLA0KICAgICJsaW50IjogImVzbGludCINCiAgfSwNCiAgImRlcGVuZGVuY2llcyI6IHsNCiAgICAibmV4dCI6ICJeMTYuMS4wIiwNCiAgICAicmVhY3QiOiAiXjE5LjIuMSIsDQogICAgInJlYWN0LWRvbSI6ICJeMTkuMi4xIg0KICB9LA0KICAiZGV2RGVwZW5kZW5jaWVzIjogew0KICAgICJAdGFpbHdpbmRjc3MvcG9zdGNzcyI6ICJeNCIsDQogICAgIkB0eXBlcy9ub2RlIjogIl4yMCIsDQogICAgIkB0eXBlcy9yZWFjdCI6ICJeMTkiLA0KICAgICJAdHlwZXMvcmVhY3QtZG9tIjogIl4xOSIsDQogICAgImVzbGludCI6ICJeOSIsDQogICAgImVzbGludC1jb25maWctbmV4dCI6ICJeMTYuMS4wIiwNCiAgICAidGFpbHdpbmRjc3MiOiAiXjQiLA0KICAgICJ0eXBlc2NyaXB0IjogIl41Ig0KICB9DQp9DQo="}
+{
+  "name": "web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev -p 3005",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint"
+  },
+  "dependencies": {
+    "next": "^16.1.0",
+    "react": "^19.2.1",
+    "react-dom": "^19.2.1"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "^16.1.0",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}

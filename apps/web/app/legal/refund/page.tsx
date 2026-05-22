@@ -1,1 +1,39 @@
-{"data":"77u/InVzZSBjbGllbnQiOwppbXBvcnQgeyB1c2VSb3V0ZXIgfSBmcm9tICJuZXh0L25hdmlnYXRpb24iOwoKZXhwb3J0IGRlZmF1bHQgZnVuY3Rpb24gUmVmdW5kUGFnZSgpIHsKICBjb25zdCByb3V0ZXIgPSB1c2VSb3V0ZXIoKTsKICByZXR1cm4gKAogICAgPGRpdiBzdHlsZT17eyBmb250RmFtaWx5OiAic3lzdGVtLXVpLHNhbnMtc2VyaWYiLCBtaW5IZWlnaHQ6ICIxMDB2aCIsIGJhY2tncm91bmQ6ICIjZjVmNWY1IiB9fT4KICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAiIzBBNUMzRiIsIHBhZGRpbmc6ICIxNnB4IDI0cHgiIH19PgogICAgICAgIDxzcGFuIG9uQ2xpY2s9eygpID0+IHJvdXRlci5wdXNoKCIvIil9IHN0eWxlPXt7IGNvbG9yOiAid2hpdGUiLCBmb250U2l6ZTogIjIwcHgiLCBmb250V2VpZ2h0OiAiNjAwIiwgY3Vyc29yOiAicG9pbnRlciIgfX0+CiAgICAgICAgICBMYW5kPHNwYW4gc3R5bGU9e3sgY29sb3I6ICIjRkFDNzc1IiB9fT5WZXJpZnk8L3NwYW4+CiAgICAgICAgPC9zcGFuPgogICAgICA8L2Rpdj4KICAgICAgPGRpdiBzdHlsZT17eyBtYXhXaWR0aDogIjgwMHB4IiwgbWFyZ2luOiAiNDBweCBhdXRvIiwgcGFkZGluZzogIjAgMjRweCIgfX0+CiAgICAgICAgPGRpdiBzdHlsZT17eyBiYWNrZ3JvdW5kOiAid2hpdGUiLCBib3JkZXJSYWRpdXM6ICIxNnB4IiwgcGFkZGluZzogIjQwcHgiLCBib3JkZXI6ICIxcHggc29saWQgI2VlZSIgfX0+CiAgICAgICAgICA8aDEgc3R5bGU9e3sgZm9udFNpemU6ICIyOHB4IiwgZm9udFdlaWdodDogIjcwMCIsIGNvbG9yOiAiIzBBNUMzRiIsIG1hcmdpbkJvdHRvbTogIjhweCIgfX0+UmVmdW5kIFBvbGljeTwvaDE+CiAgICAgICAgICA8cCBzdHlsZT17eyBjb2xvcjogIiM4ODgiLCBtYXJnaW5Cb3R0b206ICIzMnB4IiB9fT5MYXN0IHVwZGF0ZWQ6IE1heSAyMDI2PC9wPgoKICAgICAgICAgIDxkaXYgc3R5bGU9e3sgYmFja2dyb3VuZDogIiNFMUY1RUUiLCBib3JkZXJSYWRpdXM6ICIxMHB4IiwgcGFkZGluZzogIjE2cHgiLCBtYXJnaW5Cb3R0b206ICIyOHB4IiB9fT4KICAgICAgICAgICAgPHAgc3R5bGU9e3sgY29sb3I6ICIjMEE1QzNGIiwgZm9udFdlaWdodDogIjUwMCIsIG1hcmdpbjogMCB9fT5MYW5kVmVyaWZ5J3MgZXNjcm93IHN5c3RlbSBpcyBkZXNpZ25lZCB0byBwcm90ZWN0IGJ1eWVycy4gWW91IGFyZSBlbnRpdGxlZCB0byBhIGZ1bGwgcmVmdW5kIGlmIGFueSBvZiB0aGUgY29uZGl0aW9ucyBiZWxvdyBhcmUgbWV0LjwvcD4KICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgIHtbCiAgICAgICAgICAgIHsgdGl0bGU6ICJGdWxsIFJlZnVuZCBDb25kaXRpb25zIiwgY29udGVudDogIllvdSBhcmUgZW50aXRsZWQgdG8gYSAxMDAlIHJlZnVuZCBpZjogKDEpIFRpdGxlIHZlcmlmaWNhdGlvbiBmYWlscyBhbmQgZW5jdW1icmFuY2VzIGFyZSBmb3VuZCBvbiB0aGUgcHJvcGVydHkuICgyKSBUaGUgYWdlbnQgY2Fubm90IHByb2R1Y2UgdmFsaWQgdGl0bGUgZG9jdW1lbnRzIHdpdGhpbiAxNCBkYXlzLiAoMykgVGhlIHByb3BlcnR5IGlzIGZvdW5kIHRvIGJlIGZyYXVkdWxlbnRseSBsaXN0ZWQuICg0KSBUaGUgdHJhbnNhY3Rpb24gaXMgY2FuY2VsbGVkIGJlZm9yZSB0aGUgTGVnYWwgU2VhcmNoIG1pbGVzdG9uZSBpcyBjb21wbGV0ZWQuIiB9LAogICAgICAgICAgICB7IHRpdGxlOiAiUGFydGlhbCBSZWZ1bmQgQ29uZGl0aW9ucyIsIGNvbnRlbnQ6ICJBIHBhcnRpYWwgcmVmdW5kIChtaW51cyBsZWdhbCBzZWFyY2ggY29zdHMpIG1heSBhcHBseSBpZjogVGhlIHRyYW5zYWN0aW9uIGlzIGNhbmNlbGxlZCBhZnRlciBMZWdhbCBTZWFyY2ggYnV0IGJlZm9yZSBEZWVkIFNpZ25pbmcuIExlZ2FsIHNlYXJjaCBmZWVzIG9mIHVwIHRvIDAuNSUgb2YgdGhlIHByb3BlcnR5IHZhbHVlIG1heSBiZSBkZWR1Y3RlZC4iIH0sCiAgICAgICAgICAgIHsgdGl0bGU6ICJObyBSZWZ1bmQgQ29uZGl0aW9ucyIsIGNvbnRlbnQ6ICJObyByZWZ1bmQgaXMgYXZhaWxhYmxlIGlmOiBBbGwgbWlsZXN0b25lcyBoYXZlIGJlZW4gY29tcGxldGVkIGFuZCBmdW5kcyByZWxlYXNlZCB0byB0aGUgc2VsbGVyLiBUaGUgYnV5ZXIgd2l0aGRyYXdzIGFmdGVyIERlZWQgU2lnbmluZyB3aXRob3V0IHZhbGlkIHJlYXNvbi4gVGhlIGJ1eWVyIHByb3ZpZGVkIGZhbHNlIGluZm9ybWF0aW9uIGR1cmluZyB0aGUgdHJhbnNhY3Rpb24uIiB9LAogICAgICAgICAgICB7IHRpdGxlOiAiSG93IHRvIFJlcXVlc3QgYSBSZWZ1bmQiLCBjb250ZW50OiAiQ29udGFjdCBvdXIgc3VwcG9ydCB0ZWFtIGF0IHN1cHBvcnRAbGFuZHZlcmlmeS5uZyB3aXRoIHlvdXIgZXNjcm93IHJlZmVyZW5jZSBudW1iZXIgYW5kIHJlYXNvbiBmb3IgcmVmdW5kLiBPdXIgdGVhbSB3aWxsIHJldmlldyB3aXRoaW4gMiBidXNpbmVzcyBkYXlzLiBJZiBhcHByb3ZlZCwgcmVmdW5kcyBhcmUgcHJvY2Vzc2VkIHZpYSB5b3VyIG9yaWdpbmFsIHBheW1lbnQgbWV0aG9kIHdpdGhpbiA1LTEwIGJ1c2luZXNzIGRheXMuIiB9LAogICAgICAgICAgICB7IHRpdGxlOiAiU2VydmljZSBGZWUiLCBjb250ZW50OiAiTGFuZFZlcmlmeSdzIDEuNSUgc2VydmljZSBmZWUgaXMgbm9uLXJlZnVuZGFibGUgb25jZSB0aGUgZXNjcm93IGhhcyBiZWVuIGFjdGl2YXRlZCBhbmQgdGhlIHBheW1lbnQgc2VjdXJlZCBtaWxlc3RvbmUgY29tcGxldGVkLiIgfSwKICAgICAgICAgICAgeyB0aXRsZTogIkRpc3B1dGVzIiwgY29udGVudDogIklmIHlvdSBoYXZlIGEgZGlzcHV0ZSBhYm91dCBhIHJlZnVuZCBkZWNpc2lvbiwgeW91IG1heSBlc2NhbGF0ZSB0byBvdXIgZGlzcHV0ZSByZXNvbHV0aW9uIHRlYW0gYXQgZGlzcHV0ZXNAbGFuZHZlcmlmeS5uZy4gQWxsIGRpc3B1dGVzIGFyZSBnb3Zlcm5lZCBieSBOaWdlcmlhbiBsYXcuIiB9LAogICAgICAgICAgXS5tYXAoc2VjdGlvbiA9PiAoCiAgICAgICAgICAgIDxkaXYga2V5PXtzZWN0aW9uLnRpdGxlfSBzdHlsZT17eyBtYXJnaW5Cb3R0b206ICIyNHB4IiB9fT4KICAgICAgICAgICAgICA8aDIgc3R5bGU9e3sgZm9udFNpemU6ICIxNnB4IiwgZm9udFdlaWdodDogIjYwMCIsIGNvbG9yOiAiIzIyMiIsIG1hcmdpbkJvdHRvbTogIjhweCIgfX0+e3NlY3Rpb24udGl0bGV9PC9oMj4KICAgICAgICAgICAgICA8cCBzdHlsZT17eyBmb250U2l6ZTogIjE0cHgiLCBjb2xvcjogIiM1NTUiLCBsaW5lSGVpZ2h0OiAiMS44IiwgbWFyZ2luOiAwIH19PntzZWN0aW9uLmNvbnRlbnR9PC9wPgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICkpfQogICAgICAgIDwvZGl2PgogICAgICA8L2Rpdj4KICAgIDwvZGl2PgogICk7Cn0K"}
+﻿"use client";
+import { useRouter } from "next/navigation";
+
+export default function RefundPage() {
+  const router = useRouter();
+  return (
+    <div style={{ fontFamily: "system-ui,sans-serif", minHeight: "100vh", background: "#f5f5f5" }}>
+      <div style={{ background: "#0A5C3F", padding: "16px 24px" }}>
+        <span onClick={() => router.push("/")} style={{ color: "white", fontSize: "20px", fontWeight: "600", cursor: "pointer" }}>
+          Land<span style={{ color: "#FAC775" }}>Verify</span>
+        </span>
+      </div>
+      <div style={{ maxWidth: "800px", margin: "40px auto", padding: "0 24px" }}>
+        <div style={{ background: "white", borderRadius: "16px", padding: "40px", border: "1px solid #eee" }}>
+          <h1 style={{ fontSize: "28px", fontWeight: "700", color: "#0A5C3F", marginBottom: "8px" }}>Refund Policy</h1>
+          <p style={{ color: "#888", marginBottom: "32px" }}>Last updated: May 2026</p>
+
+          <div style={{ background: "#E1F5EE", borderRadius: "10px", padding: "16px", marginBottom: "28px" }}>
+            <p style={{ color: "#0A5C3F", fontWeight: "500", margin: 0 }}>LandVerify's escrow system is designed to protect buyers. You are entitled to a full refund if any of the conditions below are met.</p>
+          </div>
+
+          {[
+            { title: "Full Refund Conditions", content: "You are entitled to a 100% refund if: (1) Title verification fails and encumbrances are found on the property. (2) The agent cannot produce valid title documents within 14 days. (3) The property is found to be fraudulently listed. (4) The transaction is cancelled before the Legal Search milestone is completed." },
+            { title: "Partial Refund Conditions", content: "A partial refund (minus legal search costs) may apply if: The transaction is cancelled after Legal Search but before Deed Signing. Legal search fees of up to 0.5% of the property value may be deducted." },
+            { title: "No Refund Conditions", content: "No refund is available if: All milestones have been completed and funds released to the seller. The buyer withdraws after Deed Signing without valid reason. The buyer provided false information during the transaction." },
+            { title: "How to Request a Refund", content: "Contact our support team at support@landverify.ng with your escrow reference number and reason for refund. Our team will review within 2 business days. If approved, refunds are processed via your original payment method within 5-10 business days." },
+            { title: "Service Fee", content: "LandVerify's 1.5% service fee is non-refundable once the escrow has been activated and the payment secured milestone completed." },
+            { title: "Disputes", content: "If you have a dispute about a refund decision, you may escalate to our dispute resolution team at disputes@landverify.ng. All disputes are governed by Nigerian law." },
+          ].map(section => (
+            <div key={section.title} style={{ marginBottom: "24px" }}>
+              <h2 style={{ fontSize: "16px", fontWeight: "600", color: "#222", marginBottom: "8px" }}>{section.title}</h2>
+              <p style={{ fontSize: "14px", color: "#555", lineHeight: "1.8", margin: 0 }}>{section.content}</p>
+            </div>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+}
