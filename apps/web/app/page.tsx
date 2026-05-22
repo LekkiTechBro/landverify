@@ -1,4 +1,4 @@
-﻿"use client";
+"use client";
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 import { DarkModeToggle } from "./DarkModeToggle";
@@ -55,7 +55,7 @@ export default function Home() {
     const token = sessionStorage.getItem("access_token");
     setIsLoggedIn(!!token);
     if (token) {
-      fetch("https://landverify-production.up.railway.app/api/v1"/auth/me", { headers: { Authorization: `Bearer ${token}` } })
+      fetch("https://landverify-production.up.railway.app/api/v1/auth/me", { headers: { Authorization: `Bearer ${token}` } })
         .then(r => r.json())
         .then(data => {
           if (data.full_name) {
@@ -115,7 +115,7 @@ export default function Home() {
                 {userName && (
                   <span style={{ color: "rgba(255,255,255,0.7)", fontSize: "13px" }}>
                     Hi, {userName}
-                    <span style={{ color: "#FAC775", fontSize: "11px", marginLeft: "6px", fontWeight: "500" }}>Â· Premium Access</span>
+                    <span style={{ color: "#FAC775", fontSize: "11px", marginLeft: "6px", fontWeight: "500" }}>· Premium Access</span>
                   </span>
                 )}
                 {userRole !== "agent" && userRole !== "admin" && (
@@ -181,7 +181,7 @@ export default function Home() {
         </div>
 
         <div style={{ marginBottom: "10px" }}>
-          <label style={label}>City â€” {selectedState}</label>
+          <label style={label}>City — {selectedState}</label>
           <select style={sel} value={selectedCity} onChange={e => setSelectedCity(e.target.value === "All Cities" ? "" : e.target.value)}>
             {cities.map(c => <option key={c} value={c === "All Cities" ? "" : c}>{c}</option>)}
           </select>
@@ -195,7 +195,7 @@ export default function Home() {
             </select>
           </div>
           <div>
-            <label style={label}>LGA â€” {selectedState} ({lgas.length})</label>
+            <label style={label}>LGA — {selectedState} ({lgas.length})</label>
             <select style={sel} value={selectedLGA} onChange={e => setSelectedLGA(e.target.value)}>
               <option value="">All LGAs</option>
               {lgas.map(l => <option key={l} value={l}>{l}</option>)}
@@ -227,7 +227,7 @@ export default function Home() {
           </div>
           <div>
             <strong style={{ display: "block", fontSize: "13px", color: verifiedOnly ? "#0A5C3F" : "#555" }}>Verified listings only</strong>
-            <span style={{ fontSize: "11px", color: "#888" }}>Registry-confirmed titles Â· KYC-cleared agents</span>
+            <span style={{ fontSize: "11px", color: "#888" }}>Registry-confirmed titles · KYC-cleared agents</span>
           </div>
         </div>
 
