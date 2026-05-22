@@ -55,7 +55,7 @@ export default function Home() {
     const token = sessionStorage.getItem("access_token");
     setIsLoggedIn(!!token);
     if (token) {
-      fetch((process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1")/auth/me", { headers: { Authorization: `Bearer ${token}` } })
+      fetch("https://landverify-production.up.railway.app/api/v1"/auth/me", { headers: { Authorization: `Bearer ${token}` } })
         .then(r => r.json())
         .then(data => {
           if (data.full_name) {

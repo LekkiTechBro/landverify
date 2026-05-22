@@ -6,7 +6,7 @@ import { useRouter } from "next/navigation";
 
 
 
-const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
+const API = "https://landverify-production.up.railway.app/api/v1";
 
 
 
@@ -90,7 +90,7 @@ function VerificationProgress({ escrowData, onVerified, onRejected, router }: an
 
       try {
 
-        const res = await fetch((process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1")/auth/me", {
+        const res = await fetch("https://landverify-production.up.railway.app/api/v1"/auth/me", {
 
           headers: { Authorization: `Bearer ${token}` },
 

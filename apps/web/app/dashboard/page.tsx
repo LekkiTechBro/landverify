@@ -3,7 +3,7 @@ import { useState, useEffect, useRef } from "react";
 import { useRouter } from "next/navigation";
 import TitleDocumentSelector from "./TitleDocumentSelector";
 
-const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
+const API = "https://landverify-production.up.railway.app/api/v1";
 
 const SUBSCRIPTION_PLANS = [
   { key:"free", name:"Free", price:0, monthly:"N0/mo", listing_limit:10, features:["10 listings max","Basic badge","Email support","Standard search placement"], color:"#555", bg:"#f0f0f0" },

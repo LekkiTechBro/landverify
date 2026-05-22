@@ -2,7 +2,7 @@
 import { useState, useEffect } from "react";
 import { useRouter } from "next/navigation";
 
-const API = (process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1");
+const API = "https://landverify-production.up.railway.app/api/v1";
 
 const MILESTONES = [
   { key:"payment_secured", label:"Payment Secured" },
