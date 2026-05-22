@@ -1,7 +1,7 @@
 "use client";
 import { useState, useRef, useEffect } from "react";
 
-const API = "http://localhost:8000/api/v1";
+const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
 
 const DOC_TYPES = [
   { value:"C_OF_O", label:"Certificate of Occupancy (C of O)" },
@@ -364,4 +364,5 @@ export default function DocumentVault() {
     </div>
   );
 }
-
+
+

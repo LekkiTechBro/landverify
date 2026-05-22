@@ -18,7 +18,7 @@ export default function LoginPage() {
       const formData = new FormData();
       formData.append("username", email);
       formData.append("password", password);
-      const res = await fetch("http://localhost:8000/api/v1/auth/login", { method: "POST", body: formData });
+      const res = await fetch(`${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}/auth/login`, { method: "POST", body: formData });
       const data = await res.json();
       if (!res.ok) { setError(data.detail || "Invalid email or password"); return; }
 
@@ -121,3 +121,4 @@ export default function LoginPage() {
     </div>
   );
 }
+

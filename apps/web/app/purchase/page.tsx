@@ -2,7 +2,7 @@
 import { useState, useEffect, Suspense } from "react";
 import { useRouter, useSearchParams } from "next/navigation";
 
-const API = "http://localhost:8000/api/v1";
+const API = "${process.env.NEXT_PUBLIC_API_URL || "https://landverify-production.up.railway.app/api/v1"}";
 
 const STEPS = ["Details", "Review", "Payment", "Confirmed"];
 
@@ -406,7 +406,11 @@ export default function PurchasePage() {
     </Suspense>
   );
 }
-
-
-
-
+
+
+
+
+
+
+
+
